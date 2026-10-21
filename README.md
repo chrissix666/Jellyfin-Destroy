@@ -16,7 +16,12 @@ Destroy Any Website by Hugo Duprez is a small game that turns any web page into 
 
 So I built Destroy. It plays on the Jellyfin page you are looking at, knows which film, series or actor is on screen, and talks about it while it tears the page apart.
 
-I have developed many Jellyfin Web script mods over the years, but besides this one, only three other true plugins: [ArtworkPlus](https://github.com/chrissix666/Jellyfin-ArtworkPlus), which shows the artwork Jellyfin leaves unused, [Cinema Project](https://github.com/chrissix666/Jellyfin-Cinema-Project), a virtual cinema environment based on three.js that gives your movies an ambient feel, and [VideoOSD Tweaks and Candy](https://github.com/chrissix666/Jellyfin-VideoOSD-Tweaks-Candy), which puts you in full control of the Jellyfin video player OSD.
+Please also have a look at my other plugins:
+
+- [ArtworkPlus](https://github.com/chrissix666/Jellyfin-ArtworkPlus): shows the artwork Jellyfin leaves unused
+- [Cinema Project](https://github.com/chrissix666/Jellyfin-Cinema-Project): a virtual cinema environment based on three.js that gives your movies an ambient feel
+- [VideoOSD Tweaks and Candy](https://github.com/chrissix666/Jellyfin-VideoOSD-Tweaks-Candy): puts you in full control of the Jellyfin video player OSD
+- [VisoMaster Bridge](https://github.com/chrissix666/Jellyfin-VisoMaster-Bridge): swaps faces in the film you are watching, with VisoMaster Fusion
 
 ---
 
@@ -259,7 +264,7 @@ Other versions may work but are not tested and could lead to unexpected behavior
 
 MIT License
 
-The code is MIT licensed. The quote data (`quotes.zip` in the release ZIP) is adapted from English Wikiquote and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The code is MIT licensed. The quote data (`quotes.zip` in the release ZIP and `source/data/quotes.json` in this repository) is adapted from English Wikiquote and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Forking and further development strongly encouraged.
 Feedback and bug reports welcome, feel free to open an issue.
