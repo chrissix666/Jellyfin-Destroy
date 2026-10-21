@@ -1,3 +1,9 @@
+
+
+
+
+https://github.com/user-attachments/assets/81be34ce-cc15-41a1-8ad3-8bccde0c5a00
+
 [Jellyfin Projects](https://linktr.ee/JellyfinProjects) | [Kodi Projects](https://linktr.ee/KodiProjects)
 
 ---
