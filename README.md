@@ -56,7 +56,7 @@ Every poster shatters into its own picture. Cards hang on one nail and swing bef
 
 And the page talks back. Destroy a person card and that actor says one of their lines from the film you are on. Destroy a film card and the film answers with a quote. Destroy the search button and it has a joke about that too.
 
-<video src="https://github.com/user-attachments/assets/81be34ce-cc15-41a1-8ad3-8bccde0c5a00" width="100%" controls></video>
+https://github.com/user-attachments/assets/81be34ce-cc15-41a1-8ad3-8bccde0c5a00
 
 <sub>One hero, the Movies library view, newest films first: the autopilot brings it down with flamethrower, rocket launcher and railgun.</sub>
 
