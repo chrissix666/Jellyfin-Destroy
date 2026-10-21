@@ -1,9 +1,3 @@
-
-
-
-
-https://github.com/user-attachments/assets/81be34ce-cc15-41a1-8ad3-8bccde0c5a00
-
 [Jellyfin Projects](https://linktr.ee/JellyfinProjects) | [Kodi Projects](https://linktr.ee/KodiProjects)
 
 ---
@@ -61,6 +55,10 @@ A Jellyfin Web plugin with a browser game inside. Press the Destroy button in th
 Every poster shatters into its own picture. Cards hang on one nail and swing before they fall, text breaks word by word, the backdrop behind the page takes bullet holes and scorch marks. The hero fits the page: on a Terminator page you play a Terminator, on a Star Trek page a captain.
 
 And the page talks back. Destroy a person card and that actor says one of their lines from the film you are on. Destroy a film card and the film answers with a quote. Destroy the search button and it has a joke about that too.
+
+<video src="https://github.com/user-attachments/assets/81be34ce-cc15-41a1-8ad3-8bccde0c5a00" width="100%" controls></video>
+
+<sub>One hero, the Movies library view, newest films first: the autopilot brings it down with flamethrower, rocket launcher and railgun.</sub>
 
 ---
 
