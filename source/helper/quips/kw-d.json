@@ -1,0 +1,1814 @@
+[
+ {
+  "need": [
+   "kw:japan"
+  ],
+  "w": 2,
+  "t": [
+   "Sayonara, {title}",
+   "Lost in translation. Found in pieces.",
+   "The bullet train arrived early",
+   "Konnichiwa, {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:assassination",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "The target was the poster",
+   "Clean shot. Clean shelf.",
+   "Assassination plot: completed by {hero}",
+   "One shot, no second take"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:secretbase"
+  ],
+  "w": 2,
+  "t": [
+   "Secret base: not so secret now",
+   "Found the hidden lair. Shot it.",
+   "Self-destruct button: pressed",
+   "Base compromised. Evacuate!"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:leatherface"
+  ],
+  "w": 2,
+  "t": [
+   "Leatherface needs a new mask. This one has holes.",
+   "Revved the chainsaw. Too slow.",
+   "Out of gas. Out of poster.",
+   "Family dinner at the farmhouse: cancelled"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:killerrobot"
+  ],
+  "w": 2,
+  "t": [
+   "Killer robot? Killed robot.",
+   "Kill switch: {weapon}",
+   "Error: target acquired a bullet",
+   "Laws of robotics, rule four: duck"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:worldchampion"
+  ],
+  "w": 2,
+  "t": [
+   "World champion? World rubble.",
+   "Title defence: failed",
+   "Belt revoked",
+   "The champ got knocked off the shelf"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:victory"
+  ],
+  "w": 2,
+  "t": [
+   "Victory lap: cancelled",
+   "Flawless victory. For {hero}.",
+   "Snatched defeat from the jaws of victory",
+   "V for victory. Now V for vacant."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:rebel"
+  ],
+  "w": 2,
+  "t": [
+   "Rebel without a [cause|poster]",
+   "Uprising? Downfall.",
+   "Fight the power? Lost.",
+   "The resistance has a new hole"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:extremeviolence"
+  ],
+  "w": 2,
+  "t": [
+   "Extreme violence? Hold my {weapon}.",
+   "Too violent. Fixed with violence.",
+   "Gratuitous? {hero} calls it thorough.",
+   "The splatter budget ran out"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:violence"
+  ],
+  "w": 2,
+  "t": [
+   "Violence is never the answer. Except here.",
+   "Gave peace a chance. Then {weapon}.",
+   "Senseless violence: one more",
+   "Conflict resolved. Permanently."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:raceagainsttime"
+  ],
+  "w": 2,
+  "t": [
+   "The clock ran out",
+   "Race against time: lost",
+   "Tick tock. Boom.",
+   "Zero seconds left on the poster"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:oneagainstmany"
+  ],
+  "w": 2,
+  "t": [
+   "One against many? {hero} against all.",
+   "Outnumbered and outgunned",
+   "An army of one. Now an army of none.",
+   "A hundred henchmen, one poster down"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:spacecolony"
+  ],
+  "w": 2,
+  "t": [
+   "Colony lost. Send no help.",
+   "The colonists stopped answering",
+   "Terraforming: reverted",
+   "New home among the stars? Rubble."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:cryogenics"
+  ],
+  "w": 2,
+  "t": [
+   "Frozen. Then shattered.",
+   "Thawed out to a bullet",
+   "Wake me in a hundred years. Never mind.",
+   "Cryo pod malfunction: {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:versusfighting"
+  ],
+  "w": 2,
+  "t": [
+   "Round 1. Fight! K.O.",
+   "Finish it!",
+   "Player 2 has left the game",
+   "C-c-combo breaker!"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:versus"
+  ],
+  "w": 2,
+  "t": [
+   "{title} vs. {weapon}: no contest",
+   "And the winner is... {weapon}",
+   "Versus? Versus nothing now.",
+   "The rematch is cancelled"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:obsession"
+  ],
+  "w": 2,
+  "t": [
+   "Obsessed? Cured.",
+   "Couldn't stop thinking about it. Now can.",
+   "One thing on its mind. Now a hole.",
+   "Fixation: removed"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:virtualreality"
+  ],
+  "w": 2,
+  "t": [
+   "Logged out. Permanently.",
+   "Game over in real life",
+   "Unplug the headset. Too late.",
+   "Virtual poster, real bullet"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:swordplay"
+  ],
+  "w": 2,
+  "t": [
+   "Riposte: {weapon}",
+   "Fencing lesson over",
+   "Touché. With {weapon}.",
+   "The blade was sharp. The bullet sharper."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:castle"
+  ],
+  "w": 2,
+  "t": [
+   "The castle has fallen",
+   "Siege over in one shot",
+   "Moat: useless",
+   "Drawbridge down. Forever."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:herosjourney"
+  ],
+  "w": 2,
+  "t": [
+   "Hero's journey: cut short in act one",
+   "Refused the call. Got shot anyway.",
+   "Return with the elixir? Return in pieces.",
+   "The mentor saw this coming"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:battlefield",
+   "!truestory",
+   "!genre:war"
+  ],
+  "w": 2,
+  "t": [
+   "The battle is over. The poster lost.",
+   "Battlefield cleared",
+   "No man's land. No poster's land.",
+   "Medic! ...too late"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:austria"
+  ],
+  "w": 2,
+  "t": [
+   "The hills are alive... were",
+   "Sound of music? Sound of {weapon}.",
+   "Schnitzel? Shredded.",
+   "Alpine view: obstructed by holes"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:vengeance"
+  ],
+  "w": 2,
+  "t": [
+   "Vengeance served. Extra crispy.",
+   "An eye for an eye. A hole for a poster.",
+   "The avenger got avenged",
+   "Payback time is over"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:doublelife"
+  ],
+  "w": 2,
+  "t": [
+   "Double life? Zero lives.",
+   "Both identities: shot",
+   "Living a lie. Not living.",
+   "Day job and night job: both gone"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:millionaire"
+  ],
+  "w": 2,
+  "t": [
+   "Millionaire? Now a thousandaire.",
+   "Money can't buy a bulletproof poster",
+   "Rich poster, poor ending",
+   "Who wants to be a millionaire? Not this one."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:rivalry"
+  ],
+  "w": 2,
+  "t": [
+   "Rivalry settled by {hero}",
+   "Arch-rival: archived",
+   "Both rivals lose",
+   "Bitter rivals, sweeter rubble"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:ninja"
+  ],
+  "w": 2,
+  "t": [
+   "Not so stealthy now",
+   "Ninja vanish! For real.",
+   "Shuriken vs. {weapon}: no contest",
+   "Silent. Deadly. Gone."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:fatherfigure"
+  ],
+  "w": 2,
+  "t": [
+   "Like a father to it. Was.",
+   "Mentor down",
+   "Who's gonna give advice now?",
+   "Learn from my mistakes. Too late."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:christmas"
+  ],
+  "w": 2,
+  "t": [
+   "Gift-wrapped in lead",
+   "Santa skipped this one",
+   "Silent night. Loud {weapon}.",
+   "Naughty list: shot"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:darkcomedy"
+  ],
+  "w": 2,
+  "t": [
+   "Dark comedy? Pitch black now.",
+   "Laughed at the wrong moment",
+   "Gallows humour: executed",
+   "The joke died. So did the poster."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:mutation"
+  ],
+  "w": 2,
+  "t": [
+   "Evolved. Then devolved.",
+   "Extra arm, still no armour",
+   "Radioactive? Now just holey.",
+   "Survival of the shootiest"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:technoir"
+  ],
+  "w": 2,
+  "t": [
+   "Neon lights. Lead bullets.",
+   "Rain-soaked and riddled",
+   "The future is dark. Now darker.",
+   "Tech noir? Tech no more."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:2010s"
+  ],
+  "w": 2,
+  "t": [
+   "The 2010s called. No answer.",
+   "So 2010s. So over.",
+   "Peak 2010s. Valley now.",
+   "A decade of reboots, one less"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:undergroundfighting"
+  ],
+  "w": 2,
+  "t": [
+   "Underground fight: buried",
+   "Bare knuckles, bare shelf",
+   "All bets are off",
+   "The cage is empty"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:patriotism"
+  ],
+  "w": 2,
+  "t": [
+   "Saluted, then shot",
+   "Waved the flag. The flag has holes.",
+   "The anthem stopped mid-verse",
+   "Proud. Loud. Gone."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:scotland"
+  ],
+  "w": 2,
+  "t": [
+   "Freedom! ...from this poster",
+   "There can be only one. Wasn't this.",
+   "Loch Ness: still no monster, now no poster",
+   "Kilted and wilted"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:maverickcop"
+  ],
+  "w": 2,
+  "t": [
+   "Turn in your badge",
+   "Plays by his own rules. Lost.",
+   "The captain wants your gun and badge",
+   "Loose cannon? Fired."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:shooting",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Shots fired. Target: the shelf.",
+   "Bang. That's the review.",
+   "Nice shot, {hero}",
+   "Takes a shooter to know a shooter"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:usapresident",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "Mr. President, get down!",
+   "The Oval Office has a hole",
+   "Vetoed.",
+   "Executive order: shoot"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:originstory"
+  ],
+  "w": 2,
+  "t": [
+   "Born in act one. Gone in act one.",
+   "Every hero starts somewhere. This one ends here.",
+   "Backstory: shredded",
+   "Radioactive spider not included"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:forceful"
+  ],
+  "w": 2,
+  "t": [
+   "Forceful? {hero} is more forceful.",
+   "Brute force wins",
+   "Applied force: {weapon}",
+   "Pushy poster, pushed back"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:philadelphiapennsylvania"
+  ],
+  "w": 2,
+  "t": [
+   "Ran up the steps. Got shot.",
+   "City of Brotherly Love? Brotherly holes.",
+   "Cheesesteak with extra lead",
+   "Philly: one poster lighter"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:fighting"
+  ],
+  "w": 2,
+  "t": [
+   "Fight's over",
+   "Threw a punch. Caught a bullet.",
+   "Tap out!",
+   "Fists vs. {weapon}: fists lose"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:exlover"
+  ],
+  "w": 2,
+  "t": [
+   "Exes: also ex-poster",
+   "Exes and holes",
+   "It's not you, it's {weapon}",
+   "Closure, delivered by {hero}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:usarmy",
+   "!truestory",
+   "!genre:war"
+  ],
+  "w": 2,
+  "t": [
+   "Be all that you can be. Rubble.",
+   "Discharged. Dishonourably.",
+   "At ease, soldier. Forever.",
+   "Retreat! Retreat!"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:conspiracy"
+  ],
+  "w": 2,
+  "t": [
+   "The truth is out there. So is {weapon}.",
+   "Cover-up: blown",
+   "They don't want you to see this card",
+   "Conspiracy theory: confirmed rubble"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:moscowrussia"
+  ],
+  "w": 2,
+  "t": [
+   "Red Square, red alert",
+   "Cold war, hot lead",
+   "Moscow nights: lights out",
+   "Snow, onion domes and holes"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:jasonbourne"
+  ],
+  "w": 2,
+  "t": [
+   "He doesn't remember. Now neither will you.",
+   "Treadstone: terminated",
+   "Bourne identity: unknown",
+   "Bourne to be shot"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:daughter"
+  ],
+  "w": 2,
+  "t": [
+   "Daddy's little poster: gone",
+   "Grounded. Permanently.",
+   "Curfew: permanent",
+   "Dad's going to be furious"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:gunfight"
+  ],
+  "w": 2,
+  "t": [
+   "Gunfight at the {title} corral",
+   "Should have brought a bigger gun",
+   "Last bullet wins",
+   "Out-drawn by {hero}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:hanniballecter"
+  ],
+  "w": 2,
+  "t": [
+   "Quid pro quo: a bullet for a poster",
+   "Had an old friend for dinner. Not anymore.",
+   "Muzzle on. Muzzle flash.",
+   "The doctor will not see you now"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:crimethriller"
+  ],
+  "w": 2,
+  "t": [
+   "Crime solved by {weapon}",
+   "The detective arrived too late",
+   "Evidence: shredded",
+   "Thrills cancelled. Crime committed."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:crimehorror"
+  ],
+  "w": 2,
+  "t": [
+   "Crime scene: also a horror scene",
+   "Investigators found only holes",
+   "Case closed. Coffin too.",
+   "Forensics found {weapon} residue"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:reporter"
+  ],
+  "w": 2,
+  "t": [
+   "Breaking news: poster down",
+   "Stop the presses!",
+   "Exclusive: shot on camera",
+   "Front page: rubble"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:superheroteamup"
+  ],
+  "w": 2,
+  "t": [
+   "Team-up cancelled",
+   "Even together they lost",
+   "Too many capes, one bullet",
+   "The whole team, one shot"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:gunbattle"
+  ],
+  "w": 2,
+  "t": [
+   "Hail of bullets. Hail to {hero}.",
+   "Out of ammo. Out of luck.",
+   "Reloading... too late",
+   "Last mag standing"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:utopia"
+  ],
+  "w": 2,
+  "t": [
+   "Utopia? Not anymore.",
+   "Perfect world, imperfect ending",
+   "Perfect society, imperfect aim",
+   "Too perfect. Had to go."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:bravery"
+  ],
+  "w": 2,
+  "t": [
+   "Brave. Not bulletproof.",
+   "Courage under fire. Under {weapon} fire.",
+   "Fortune favours the bold. And {weapon}.",
+   "Medal of honour: revoked"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:troll"
+  ],
+  "w": 2,
+  "t": [
+   "Troll down",
+   "Don't feed the trolls. Shoot them.",
+   "Turned to stone? Turned to rubble.",
+   "Under the bridge, under fire"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:ring"
+  ],
+  "w": 2,
+  "t": [
+   "Ring of power? Ring of holes.",
+   "One ring to... never mind",
+   "Ringing in the ears now",
+   "Ring-a-ding-ding. Bang."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:dragon"
+  ],
+  "w": 2,
+  "t": [
+   "Here be holes",
+   "Dragon fire vs. {weapon}",
+   "Hoard looted",
+   "Scales: no match for {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:lake"
+  ],
+  "w": 2,
+  "t": [
+   "Lake house? Lake now.",
+   "Don't go in the water. Shot from shore.",
+   "Skipping stones? Skipping posters.",
+   "Sank to the bottom of the lake"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:military",
+   "!truestory",
+   "!genre:war"
+  ],
+  "w": 2,
+  "t": [
+   "Dismissed!",
+   "Sir, yes sir! *BANG*",
+   "Stand down. Permanently.",
+   "Out of uniform. Out of the picture."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:transformation"
+  ],
+  "w": 2,
+  "t": [
+   "Metamorphosis: incomplete",
+   "Before: poster. After: hole.",
+   "Glow-up cancelled",
+   "Changed forever. Into debris."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:attempttoescape"
+  ],
+  "w": 2,
+  "t": [
+   "Escape attempt: failed",
+   "Almost made it out",
+   "The tunnel was too short",
+   "No way out. Not even for the poster."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:falselyaccused"
+  ],
+  "w": 2,
+  "t": [
+   "Innocent! Shot anyway.",
+   "Framed. Literally.",
+   "Wrongly accused, rightly destroyed",
+   "\"I didn't do it!\" - {title}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:game"
+  ],
+  "w": 2,
+  "t": [
+   "Player one has left",
+   "Rage quit",
+   "High score: {hero}",
+   "Lost the game"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:texas"
+  ],
+  "w": 2,
+  "t": [
+   "Everything's bigger in Texas. Including holes.",
+   "Don't mess with Texas. Messed.",
+   "Yeehaw! *BANG*",
+   "Lone Star, lone hole"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:combat"
+  ],
+  "w": 2,
+  "t": [
+   "Close combat? Long-range {weapon}.",
+   "Combat over",
+   "Hand-to-hand vs. hand-to-{weapon}",
+   "Tactical retreat: too late"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:hauntedhouse"
+  ],
+  "w": 2,
+  "t": [
+   "This house is clean. Of posters.",
+   "Ghosts evicted",
+   "Haunted? Vacant.",
+   "Property value: dropped again"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:summer"
+  ],
+  "w": 2,
+  "t": [
+   "Summer's over",
+   "Endless summer: ended",
+   "School's out. Poster too.",
+   "Summer blockbuster? Summer bust."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:kids"
+  ],
+  "w": 2,
+  "t": [
+   "Kids, don't try this at home",
+   "Nap time",
+   "Recess cancelled",
+   "Way past their bedtime"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:siblingrelationship"
+  ],
+  "w": 2,
+  "t": [
+   "Sibling rivalry: settled",
+   "Mom always liked the other poster",
+   "Brother? Sister? Both gone.",
+   "No more fighting over the remote"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:carcrash"
+  ],
+  "w": 2,
+  "t": [
+   "Write-off.",
+   "Airbags did not deploy",
+   "Fender bender, poster ender",
+   "Crash test: failed"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:submarine"
+  ],
+  "w": 2,
+  "t": [
+   "Dive! Dive! ...too deep",
+   "Sunk.",
+   "Periscope down",
+   "Torpedo in the water!"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:earthquake",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Magnitude: {weapon}",
+   "Aftershock!",
+   "The ground shook. The poster broke.",
+   "Off the Richter scale"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:knife"
+  ],
+  "w": 2,
+  "t": [
+   "Brought a knife to a gunfight",
+   "Cutlery vs. {weapon}",
+   "Sharp. Not sharp enough.",
+   "Blunt ending"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:killingspree",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "Spree over",
+   "The streak ends here",
+   "Final tally: plus one, by {hero}",
+   "Rampage? {hero} rampage."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:family"
+  ],
+  "w": 2,
+  "t": [
+   "Family reunion: cancelled",
+   "Holiday dinner will be awkward now",
+   "Not a family-sized poster anymore",
+   "Black sheep of the family: {hero}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:newidentity"
+  ],
+  "w": 2,
+  "t": [
+   "New name, same fate",
+   "Witness protection failed",
+   "Identity: deleted",
+   "Fresh start. Fresh hole."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:massmurder",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "The tally ends with this card",
+   "The killer's count is closed",
+   "Stopped by {hero}",
+   "Case file: closed for good"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:occult"
+  ],
+  "w": 2,
+  "t": [
+   "The ritual was interrupted",
+   "Summoned {weapon} instead",
+   "Dark arts, darker ending",
+   "Candles out. Circle broken."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:selfsacrifice"
+  ],
+  "w": 2,
+  "t": [
+   "Noble end. Noisy end.",
+   "Gave it all. {hero} took the rest.",
+   "Heroic sacrifice: wasted",
+   "Jumped on the grenade. Too late."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:pain"
+  ],
+  "w": 2,
+  "t": [
+   "No pain, no... oh, it's gone",
+   "Feels no pain anymore",
+   "Painkiller: {weapon}",
+   "Pain threshold: exceeded"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:vision"
+  ],
+  "w": 2,
+  "t": [
+   "Didn't see that coming",
+   "Prophetic vision: holes",
+   "Second sight, first shot",
+   "Saw the future. Ignored it."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:immortality"
+  ],
+  "w": 2,
+  "t": [
+   "Immortal? Not anymore.",
+   "Lived forever. Until now.",
+   "Eternal life, temporary poster",
+   "There can be only none"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:boatchase"
+  ],
+  "w": 2,
+  "t": [
+   "Boat chase? Boat sunk.",
+   "Overboard!",
+   "Left nothing in its wake",
+   "Ran aground"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:florida"
+  ],
+  "w": 2,
+  "t": [
+   "Florida man shoots poster",
+   "Gator bait",
+   "Sunshine State, shadow poster",
+   "Spring break: broken"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:duel"
+  ],
+  "w": 2,
+  "t": [
+   "Ten paces, turn, {weapon}",
+   "Pistols at dawn. {weapon} at noon.",
+   "Duel declined. Shot anyway.",
+   "Satisfaction received"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:sea"
+  ],
+  "w": 2,
+  "t": [
+   "All hands lost. All posters too.",
+   "Sea you never",
+   "Sunk without a trace",
+   "The sea gave nothing back"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:snowskiing"
+  ],
+  "w": 2,
+  "t": [
+   "Off-piste. Off-poster.",
+   "Wiped out on the black run",
+   "Avalanche of lead",
+   "Ski lift to nowhere"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:heiress"
+  ],
+  "w": 2,
+  "t": [
+   "Inheritance: rubble",
+   "Disinherited.",
+   "Old money, new holes",
+   "The will has been read. And shot."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:hacking"
+  ],
+  "w": 2,
+  "t": [
+   "I'm in. And now it's out.",
+   "Firewall: breached",
+   "sudo rm -rf poster",
+   "Access denied. Permanently."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:australia"
+  ],
+  "w": 2,
+  "t": [
+   "G'day. G'bye.",
+   "That's not a knife. THAT's {weapon}.",
+   "Down Under? Down and out.",
+   "Kangaroo court: guilty"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:matteroflifeanddeath"
+  ],
+  "w": 2,
+  "t": [
+   "Matter of life and death: death",
+   "Coin flip came up {weapon}",
+   "Life or death? {hero} chose.",
+   "Decided."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:sandstorm"
+  ],
+  "w": 2,
+  "t": [
+   "Buried in sand",
+   "Visibility zero. Poster zero.",
+   "Dust to dust",
+   "The dunes took it"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:fortuneteller"
+  ],
+  "w": 2,
+  "t": [
+   "Crystal ball: shattered",
+   "Your future: {weapon}",
+   "Palm read. Palm shot.",
+   "Didn't see this in the cards"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:agent"
+  ],
+  "w": 2,
+  "t": [
+   "Your clearance has been revoked",
+   "Burned agent",
+   "Handler not responding",
+   "Field report: shredded"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:nuclearweapons",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Defused. With {weapon}.",
+   "Launch codes: invalid",
+   "Mutually assured destruction",
+   "Doomsday clock: midnight"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:disguise"
+  ],
+  "w": 2,
+  "t": [
+   "Nice disguise. Saw right through it.",
+   "Fake moustache: blown off",
+   "Master of disguise, master of holes",
+   "Incognito? Incinerated."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:resurrection"
+  ],
+  "w": 2,
+  "t": [
+   "Back from the dead? Back to the dead.",
+   "Rise again? Not this time.",
+   "Second life, second bullet",
+   "No respawn"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:newsreporter"
+  ],
+  "w": 2,
+  "t": [
+   "This just in: poster down",
+   "Live on air. Not anymore.",
+   "Back to you in the studio",
+   "Reporting live from the rubble"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:norsemythology"
+  ],
+  "w": 2,
+  "t": [
+   "Ragnarok came early",
+   "Odin saw this coming",
+   "Mjolnir? {weapon}.",
+   "Off to Valhalla, poster"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:basedontruestory"
+  ],
+  "w": 2,
+  "t": [
+   "Inspired by true events. Ended by {hero}.",
+   "The real story didn't end like this",
+   "Names changed. Poster removed.",
+   "Dramatised for effect: {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:massacre",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "The only massacre here: shelf space",
+   "Massacre? Just one card.",
+   "Clean-up on aisle {title}",
+   "Body count: one card"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:basedongraphicnovel"
+  ],
+  "w": 2,
+  "t": [
+   "Graphic novel, graphic ending",
+   "Back to the panels",
+   "Turned the last page",
+   "Splash page: splashed"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:war",
+   "!truestory",
+   "!genre:war",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "Ceasefire: rejected",
+   "War over. Winner: {hero}.",
+   "Surrender accepted",
+   "The front line moved"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:actionhorror"
+  ],
+  "w": 2,
+  "t": [
+   "Shoot first, scream later",
+   "Monster meets {weapon}",
+   "Horror with guns? {hero} approves.",
+   "Too many monsters, enough ammo"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:scifiaction"
+  ],
+  "w": 2,
+  "t": [
+   "Laser? {weapon}.",
+   "Future tech, old-school bullet",
+   "Plasma rifle: outdated",
+   "Space marines down"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:planet"
+  ],
+  "w": 2,
+  "t": [
+   "Planet destroyed. No Death Star needed.",
+   "Uninhabitable now",
+   "Wiped off the star map",
+   "One small step. One big hole."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:commanding"
+  ],
+  "w": 2,
+  "t": [
+   "Orders received. Executed.",
+   "Commanding presence, commanding hole",
+   "Who's in charge now?",
+   "At attention. Shot at."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:adultanimation"
+  ],
+  "w": 2,
+  "t": [
+   "Cartoon, but grown-up. Now gone.",
+   "Not for kids. Not for anyone now.",
+   "Animated? Not anymore.",
+   "That's all, folks!"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:anime"
+  ],
+  "w": 2,
+  "t": [
+   "Power level: zero",
+   "Not even a transformation sequence",
+   "To be continued...? Cancelled.",
+   "Episode 1 of 1000: last"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:skeleton"
+  ],
+  "w": 2,
+  "t": [
+   "Skeleton crew: zero",
+   "Bone dry",
+   "Rattled.",
+   "Skeleton in the closet: out"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:zombie"
+  ],
+  "w": 2,
+  "t": [
+   "Brains! ...not here",
+   "Dead again",
+   "Undead, now unposter",
+   "The horde lost one"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:bookofthedead"
+  ],
+  "w": 2,
+  "t": [
+   "Wrong page read aloud",
+   "Closed the book for good",
+   "The dead stay dead now",
+   "Overdue at the library of the dead"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:evildead"
+  ],
+  "w": 2,
+  "t": [
+   "This is my {weapon}!",
+   "Cabin in the woods: vacant",
+   "Dead by dawn",
+   "Chainsaw hand vs. {weapon}",
+   "Klaatu barada... nikto? Forgot."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:necronomicon"
+  ],
+  "w": 2,
+  "t": [
+   "Necronomicon: returned to the library",
+   "Don't read it aloud. Too late.",
+   "Bound in... never mind"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:fatherdaughterrelationship"
+  ],
+  "w": 2,
+  "t": [
+   "Father-daughter dance: cancelled",
+   "Dad jokes: discontinued",
+   "Grounded for life. Short life.",
+   "No more lifts to school"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:teamwork"
+  ],
+  "w": 2,
+  "t": [
+   "Teamwork makes the dream... rubble",
+   "No 'I' in team. No team either.",
+   "Group project: failed",
+   "Assembled. Then dismantled."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:femaleassassin"
+  ],
+  "w": 2,
+  "t": [
+   "She never misses. {hero} didn't either.",
+   "The deadliest assassin: off duty",
+   "Lethal. Elegant. Gone.",
+   "Her last job"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:vigilantism"
+  ],
+  "w": 2,
+  "t": [
+   "Took the law into its own hands. Dropped it.",
+   "Vigilante justice, served",
+   "Who watches the posters?",
+   "The city sleeps safer"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:zombie",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Zombie comedy: last laugh to {hero}",
+   "Shaun of the shelf",
+   "Zom-com? Zom-gone."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:christmas",
+   "genre:action"
+  ],
+  "w": 3,
+  "t": [
+   "Deck the halls with bullet holes",
+   "Christmas action: {weapon} under the tree",
+   "Jingle bells, {weapon} smells"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:hauntedhouse",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Who ya gonna call? {hero}.",
+   "Spooky, kooky, gone",
+   "The ghosts laughed last. Not anymore."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:ninja",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Ninja? More like ninj-ouch",
+   "Stealth mode: tripped over the poster"
+  ],
+  "src": "keyword",
+  "tier": "full"
+ },
+ {
+  "need": [
+   "kw:dragon",
+   "genre:fantasy"
+  ],
+  "w": 3,
+  "t": [
+   "Dragonslayer: {hero}",
+   "The knight brought a sword. {hero} brought {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "full"
+ }
+]

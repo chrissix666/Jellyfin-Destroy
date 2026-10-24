@@ -1,0 +1,626 @@
+[
+ {
+  "need": [
+   "fr:marvel"
+  ],
+  "w": 3,
+  "t": [
+   "Puny poster.",
+   "Shawarma afterwards? Cancelled.",
+   "Vibranium shield, paper poster",
+   "Thanos took half. {hero} took the rest."
+  ],
+  "src": "wikipedia:The_Avengers_(2012_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:marvel",
+   "id:c131295",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "On your left. Card on the floor."
+  ],
+  "src": "wikipedia:Captain_America:_The_Winter_Soldier",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:marvel",
+   "id:c125574",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Electro, Goblin, Rhino - and now {weapon}"
+  ],
+  "src": "wikipedia:The_Amazing_Spider-Man_2",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:dc"
+  ],
+  "w": 3,
+  "t": [
+   "Bat-signal: no answer",
+   "Kryptonite? No, {weapon}.",
+   "Faster than a speeding bullet? Nope.",
+   "Gotham needs a new poster"
+  ],
+  "src": "wikipedia:Batman",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:dc",
+   "id:c263",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Why do we fall? This one won't get up."
+  ],
+  "src": "wikiquote:Batman_Begins",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:dc",
+   "id:c8537",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "You'll believe a card can fly. In pieces."
+  ],
+  "src": "wikipedia:Superman_(1978_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:jamesbond"
+  ],
+  "w": 3,
+  "t": [
+   "Q branch: one more gadget lost",
+   "No, Mr. Bond, I expect it to [burn|break]",
+   "Walther PPK, meet {weapon}",
+   "Aston Martin: not insured for this",
+   "Martini spilled. Poster split."
+  ],
+  "src": "wikiquote:Goldfinger_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:jamesbond",
+   "id:c645",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "James Bond will return. This card won't."
+  ],
+  "src": "wikipedia:James_Bond_in_film",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:starwars"
+  ],
+  "w": 3,
+  "t": [
+   "Bigger than a womp rat. Easy shot.",
+   "Less than twelve parsecs to the bin",
+   "Chewie, we're home. The poster isn't.",
+   "Do or do not. There is no reshoot.",
+   "Sarlacc pit: one more snack"
+  ],
+  "src": "wikiquote:Star_Wars",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:startrek"
+  ],
+  "w": 3,
+  "t": [
+   "I'm a doctor, not a poster restorer!",
+   "Kobayashi Maru: card failed the test",
+   "Tribbles would have been gentler",
+   "Shooting posters: highly illogical"
+  ],
+  "src": "wikipedia:Star_Trek",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:startrek",
+   "id:c115575",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Kelvin timeline: rebooted, then shot"
+  ],
+  "src": "wikipedia:Star_Trek_(2009_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:fridaythe13th"
+  ],
+  "w": 3,
+  "t": [
+   "Hockey mask, meet {weapon}",
+   "Jason Takes Manhattan. {hero} takes the card.",
+   "Jason went to space. This card went to the bin.",
+   "Machete dropped."
+  ],
+  "src": "wikipedia:Friday_the_13th_(franchise)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:fridaythe13th",
+   "id:c9735",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Spoiler: the first killer was Mrs. Voorhees"
+  ],
+  "src": "wikipedia:Friday_the_13th_(1980_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:fridaythe13th",
+   "id:c9735",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "The Final Chapter wasn't. This one is."
+  ],
+  "src": "wikipedia:Friday_the_13th:_The_Final_Chapter",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:marvelxmen"
+  ],
+  "w": 3,
+  "t": [
+   "Adamantium claws, paper poster",
+   "Professor X saw it coming. Too late.",
+   "Mystique couldn't disguise this hole",
+   "Westchester mansion: one card short"
+  ],
+  "src": "wikipedia:X-Men_(film_series)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:vandammefilms"
+  ],
+  "w": 3,
+  "t": [
+   "Jump spin kick? {weapon} was quicker.",
+   "Muscles from Brussels? Muscles from rubble."
+  ],
+  "src": "wikipedia:Jean-Claude_Van_Damme",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:vandammefilms",
+   "id:c36694",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Kumite: card out in round one"
+  ],
+  "src": "wikipedia:Bloodsport_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:vandammefilms",
+   "id:c170452",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Time Enforcement Commission: too late"
+  ],
+  "src": "wikipedia:Timecop",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:vandammefilms",
+   "id:c261203",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Colonel Guile lost this round"
+  ],
+  "src": "wikipedia:Street_Fighter_(1994_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:vandammefilms",
+   "id:c412680",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Hard Target? Easy target."
+  ],
+  "src": "wikipedia:Hard_Target",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:anightmareonelmstreet"
+  ],
+  "w": 3,
+  "t": [
+   "Bladed glove, meet {weapon}",
+   "Striped sweater: unravelled",
+   "Welcome to prime time, card!",
+   "Fedora found. Freddy not.",
+   "1428 Elm Street: vacant"
+  ],
+  "src": "wikipedia:A_Nightmare_on_Elm_Street",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:halloween"
+  ],
+  "w": 3,
+  "t": [
+   "Haddonfield, Illinois: one card short",
+   "A Captain Kirk mask won't stop {weapon}",
+   "Dr. Loomis warned you",
+   "The night he came home. The night it left."
+  ],
+  "src": "wikipedia:Halloween_(1978_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:halloween",
+   "id:c126209",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Rob Zombie's take, {hero}'s takedown"
+  ],
+  "src": "wikipedia:Halloween_(2007_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:hellraiser"
+  ],
+  "w": 3,
+  "t": [
+   "Lament Configuration: solved with {weapon}",
+   "Pinhead lost a pin",
+   "Cenobites: one fewer",
+   "Hooked chains vs. {weapon}: no contest",
+   "Hell on Earth? Rubble on screen."
+  ],
+  "src": "wikipedia:Hellraiser",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:hellraiser",
+   "id:c8917",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Hellbound again. Card unbound."
+  ],
+  "src": "wikipedia:Hellbound:_Hellraiser_II",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:chucknorrisfilms"
+  ],
+  "w": 3,
+  "t": [
+   "Roundhouse kick declined. {weapon} accepted.",
+   "Invasion U.S.A.? Invasion of the shelf."
+  ],
+  "src": "wikipedia:Chuck_Norris",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:chucknorrisfilms",
+   "id:c46512",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Missing in Action? Missing from the shelf."
+  ],
+  "src": "wikipedia:Missing_in_Action_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:chucknorrisfilms",
+   "id:c46512",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Braddock found them. Nobody finds this card."
+  ],
+  "src": "wikipedia:Braddock:_Missing_in_Action_III",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:chucknorrisfilms",
+   "id:c126166",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Rocket motorcycle vs. {weapon}: {weapon} wins"
+  ],
+  "src": "wikipedia:The_Delta_Force",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:chucknorrisfilms",
+   "id:c126125"
+  ],
+  "w": 4,
+  "t": [
+   "Booker showed up. Too late for this card."
+  ],
+  "src": "wikipedia:The_Expendables_2",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:rocky"
+  ],
+  "w": 3,
+  "t": [
+   "Raw eggs for breakfast, lead for lunch",
+   "Museum steps: one card short",
+   "If it dies, it dies.",
+   "I must break you. Done."
+  ],
+  "src": "wikipedia:Rocky_IV",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:rocky",
+   "id:c1575",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "It ain't how hard you hit. {weapon} hit hard."
+  ],
+  "src": "wikiquote:Rocky_Balboa_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:rocky",
+   "id:c553717",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Adonis Creed: one bout, one bullet"
+  ],
+  "src": "wikipedia:Creed_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:harrypotter"
+  ],
+  "w": 3,
+  "t": [
+   "Platform nine and three-quarters: closed",
+   "Reparo won't fix this one",
+   "Sorting Hat says: bin!",
+   "Nearly Headless Nick. Fully headless card.",
+   "Hogwarts Express: derailed"
+  ],
+  "src": "wikipedia:Harry_Potter_(film_series)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:harrypotter",
+   "id:c1241",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Back to Hogwarts? Expelled."
+  ],
+  "src": "wikipedia:Harry_Potter_(film_series)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:childsplay"
+  ],
+  "w": 3,
+  "t": [
+   "Good Guys doll: recalled",
+   "Charles Lee Ray, card edition: gone",
+   "Batteries not included. Bullets were.",
+   "Hid in a doll. Should have picked a tank.",
+   "Toy store return: one doll, slightly shot"
+  ],
+  "src": "wikipedia:Child's_Play_(1988_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:childsplay",
+   "id:c10455",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Chucky came back again. {weapon} didn't care."
+  ],
+  "src": "wikipedia:Chucky_(franchise)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:saw"
+  ],
+  "w": 3,
+  "t": [
+   "Billy's tricycle: flat tyre",
+   "Tape recorder found. Message: you're gone.",
+   "Jigsaw puzzle: one piece missing",
+   "Pig mask: removed"
+  ],
+  "src": "wikipedia:Saw_(franchise)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:saw",
+   "id:c656",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "The bathroom had a hacksaw. You had {weapon}."
+  ],
+  "src": "wikipedia:Saw_(2004_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:terminator"
+  ],
+  "w": 3,
+  "t": [
+   "Liquid metal won't reform this",
+   "Cyberdyne Systems: card division closed",
+   "I need your clothes, your boots and your poster",
+   "Come with me if you want to live. It didn't.",
+   "Frozen and shattered, T-1000 style"
+  ],
+  "src": "wikiquote:Terminator_2:_Judgment_Day",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:terminator",
+   "id:c528",
+   "first"
+  ],
+  "w": 4,
+  "t": [
+   "Tech Noir: closed"
+  ],
+  "src": "wikipedia:The_Terminator",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:predator"
+  ],
+  "w": 3,
+  "t": [
+   "Heat vision: this card runs cold now",
+   "Covered in mud? Should have tried {weapon}.",
+   "Trophy room: one card added",
+   "Ol' Painless is empty",
+   "Wrist bomb armed. Card disarmed."
+  ],
+  "src": "wikipedia:Predator_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:predator",
+   "id:c399",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Another hunt. Another hunter down."
+  ],
+  "src": "wikipedia:Predator_(franchise)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:alien"
+  ],
+  "w": 3,
+  "t": [
+   "Nostromo: self-destruct engaged",
+   "Mother isn't answering",
+   "Acid for blood vs. {weapon}",
+   "Power loader vs. poster: no contest",
+   "Jones the cat survived. The card didn't.",
+   "Weyland-Yutani will bill you for this"
+  ],
+  "src": "wikipedia:Alien_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:fastfurious"
+  ],
+  "w": 3,
+  "t": [
+   "Ten-second car? Zero-second poster.",
+   "Charger flipped. Card flipped.",
+   "Tokyo drift: card drifted into the bin",
+   "Dragged a vault through Rio. Not this.",
+   "Saying grace for this poster"
+  ],
+  "src": "wikipedia:Fast_&_Furious",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "fr:fastfurious",
+   "id:c9485",
+   "sequel"
+  ],
+  "w": 4,
+  "t": [
+   "Another sequel, another law of physics broken"
+  ],
+  "src": "wikipedia:Fast_&_Furious",
+  "tier": "core"
+ }
+]

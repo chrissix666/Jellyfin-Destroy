@@ -1,0 +1,1543 @@
+[
+ {
+  "need": [
+   "who:sylvesterstallone"
+  ],
+  "w": 4,
+  "t": [
+   "Cobra says: you're the disease, {weapon}'s the cure",
+   "Cliffhanger? Cliff-faller.",
+   "Over the Top. Over and out."
+  ],
+  "src": "wikiquote:Cobra_(1986_film)",
+  "tier": "core",
+  "pid": "16483"
+ },
+ {
+  "need": [
+   "who:sylvesterstallone",
+   "char:robertrockybalboa"
+  ],
+  "w": 5,
+  "t": [
+   "Went the distance. The card didn't.",
+   "Eye of the tiger, aim of {hero}"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "16483"
+ },
+ {
+  "need": [
+   "who:sylvesterstallone",
+   "char:johnrambo"
+  ],
+  "w": 5,
+  "t": [
+   "First Blood. Last card."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "16483"
+ },
+ {
+  "need": [
+   "who:brucewillis"
+  ],
+  "w": 4,
+  "t": [
+   "Korben Dallas: one taxi, zero cards",
+   "Unbreakable? Broken.",
+   "Armageddon came early for this card",
+   "Nakatomi Plaza had fewer holes"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "62"
+ },
+ {
+  "need": [
+   "who:brucewillis",
+   "char:johnmcclane"
+  ],
+  "w": 5,
+  "t": [
+   "Come out to the coast, have a few laughs... {weapon}",
+   "No shoes, no card, no problem"
+  ],
+  "src": "wikiquote:Die_Hard",
+  "tier": "core",
+  "pid": "62"
+ },
+ {
+  "need": [
+   "who:samuelljackson"
+  ],
+  "w": 4,
+  "t": [
+   "Snakes on a plane? Bullets on a page.",
+   "Mr. Glass. Shattered. Fitting.",
+   "Shaft can dig it. {hero} dug a crater.",
+   "Simon says: gone."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "2231"
+ },
+ {
+  "need": [
+   "who:samuelljackson",
+   "char:juleswinnfield"
+  ],
+  "w": 5,
+  "t": [
+   "Check out the big brain on {hero}!"
+  ],
+  "src": "wikiquote:Pulp_Fiction",
+  "tier": "core",
+  "pid": "2231"
+ },
+ {
+  "need": [
+   "who:samuelljackson",
+   "char:nickfury"
+  ],
+  "w": 5,
+  "t": [
+   "Avengers Initiative: one card short"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "2231"
+ },
+ {
+  "need": [
+   "who:tomcruise"
+  ],
+  "w": 4,
+  "t": [
+   "This message will self-destruct. So did the card.",
+   "Pre-Crime saw it coming. Couldn't stop it.",
+   "Highway to the danger zone. Exit: rubble"
+  ],
+  "src": "wikipedia:Mission:_Impossible_(film)",
+  "tier": "core",
+  "pid": "500"
+ },
+ {
+  "need": [
+   "who:tomcruise",
+   "char:ethanhunt"
+  ],
+  "w": 5,
+  "t": [
+   "Should have chosen not to accept it",
+   "Mission accepted. Card rejected."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "500"
+ },
+ {
+  "need": [
+   "who:tomcruise",
+   "char:maverick"
+  ],
+  "w": 5,
+  "t": [
+   "Maverick buzzed the tower. {hero} hit it."
+  ],
+  "src": "wikipedia:Top_Gun",
+  "tier": "core",
+  "pid": "500"
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger"
+  ],
+  "w": 4,
+  "t": [
+   "Dutch found it bleeds. {hero} found it's gone.",
+   "Get your card to Mars. Oh wait.",
+   "Crushed it. Saw it driven before him."
+  ],
+  "src": "wikiquote:Predator_(film)",
+  "tier": "core",
+  "pid": "1100"
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:theterminator"
+  ],
+  "w": 5,
+  "t": [
+   "Shades on, card down. Terminator style."
+  ],
+  "src": "wikiquote:Terminator_2:_Judgment_Day",
+  "tier": "core",
+  "pid": "1100"
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:johnmatrix"
+  ],
+  "w": 5,
+  "t": [
+   "Let off some steam, card",
+   "Promised to shoot it last. Lied."
+  ],
+  "src": "wikiquote:Commando_(film)",
+  "tier": "core",
+  "pid": "1100"
+ },
+ {
+  "need": [
+   "who:keanureeves"
+  ],
+  "w": 4,
+  "t": [
+   "Pop quiz, hotshot: where did the card go?",
+   "Be excellent to each other. Except cards.",
+   "Johnny Utah surfed in. {hero} shot through.",
+   "Constantine: sent straight to the bin"
+  ],
+  "src": "wikiquote:Speed_(1994_film)",
+  "tier": "core",
+  "pid": "6384"
+ },
+ {
+  "need": [
+   "who:keanureeves",
+   "char:neo"
+  ],
+  "w": 5,
+  "t": [
+   "Knows kung fu. Doesn't know {weapon}.",
+   "The One? Down to zero."
+  ],
+  "src": "wikiquote:The_Matrix",
+  "tier": "core",
+  "pid": "6384"
+ },
+ {
+  "need": [
+   "who:johnnydepp"
+  ],
+  "w": 4,
+  "t": [
+   "Edward Scissorhands could not trim this mess",
+   "Golden ticket: void",
+   "Sweeney Todd closed the shop",
+   "Raoul Duke saw the bats. {hero} saw the card."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "85"
+ },
+ {
+  "need": [
+   "who:johnnydepp",
+   "char:jacksparrow"
+  ],
+  "w": 5,
+  "t": [
+   "The Black Pearl sails on. This card sank.",
+   "Jack Sparrow's compass points: down"
+  ],
+  "src": "wikiquote:Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+  "tier": "core",
+  "pid": "85"
+ },
+ {
+  "need": [
+   "who:robertdeniro"
+  ],
+  "w": 4,
+  "t": [
+   "Taxi Driver: off duty",
+   "Raging Bull: the bell rang",
+   "Ace Rothstein: house always wins. Not today."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "380"
+ },
+ {
+  "need": [
+   "who:robertdeniro",
+   "char:jackbyrnes"
+  ],
+  "w": 5,
+  "t": [
+   "Out of the circle of trust, {hero}"
+  ],
+  "src": "wikipedia:Meet_the_Parents",
+  "tier": "core",
+  "pid": "380"
+ },
+ {
+  "need": [
+   "who:robertdeniro",
+   "char:travisbickle"
+  ],
+  "w": 5,
+  "t": [
+   "Someday a real rain will come. It's {weapon}."
+  ],
+  "src": "wikiquote:Taxi_Driver",
+  "tier": "core",
+  "pid": "380"
+ },
+ {
+  "need": [
+   "who:robertdeniro",
+   "char:neilmccauley"
+  ],
+  "w": 5,
+  "t": [
+   "Walked out in thirty seconds flat. Card didn't."
+  ],
+  "src": "wikiquote:Heat_(1995_film)",
+  "tier": "core",
+  "pid": "380"
+ },
+ {
+  "need": [
+   "who:markwahlberg"
+  ],
+  "w": 4,
+  "t": [
+   "Italian Job: Mini Coopers, maximum damage",
+   "Max Payne: maximum pain",
+   "The Happening: it happened",
+   "Shooter met a better shooter"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "13240"
+ },
+ {
+  "need": [
+   "who:markwahlberg",
+   "char:johnbennett"
+  ],
+  "w": 5,
+  "t": [
+   "Thunder buddies for life. Card: not."
+  ],
+  "src": "wikipedia:Ted_(film)",
+  "tier": "core",
+  "pid": "13240"
+ },
+ {
+  "need": [
+   "who:harrisonford"
+  ],
+  "w": 4,
+  "t": [
+   "Kimble: innocent. {hero}: very guilty.",
+   "Deckard retired another one",
+   "Jack Ryan read the report: card lost"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "3"
+ },
+ {
+  "need": [
+   "who:harrisonford",
+   "char:indianajones"
+  ],
+  "w": 5,
+  "t": [
+   "Indy chose wisely. This card did not."
+  ],
+  "src": "wikiquote:Indiana_Jones_and_the_Last_Crusade",
+  "tier": "core",
+  "pid": "3"
+ },
+ {
+  "need": [
+   "who:harrisonford",
+   "char:hansolo"
+  ],
+  "w": 5,
+  "t": [
+   "Laugh it up, card",
+   "Kessel Run? Card run. Under twelve seconds."
+  ],
+  "src": "wikiquote:Star_Wars_Episode_V:_The_Empire_Strikes_Back",
+  "tier": "core",
+  "pid": "3"
+ },
+ {
+  "need": [
+   "who:tomhanks"
+  ],
+  "w": 4,
+  "t": [
+   "There's a snake in my boot! And {weapon}.",
+   "Captain Miller said: earn this. {hero} didn't.",
+   "Chuck Noland delivered. {hero} returned to sender.",
+   "Viktor Navorski waited at the gate. Forever."
+  ],
+  "src": "wikiquote:Toy_Story",
+  "tier": "core",
+  "pid": "31"
+ },
+ {
+  "need": [
+   "who:tomhanks",
+   "char:forrestgump"
+  ],
+  "w": 5,
+  "t": [
+   "Stupid is as stupid does, {hero}",
+   "Mama always said: duck."
+  ],
+  "src": "wikiquote:Forrest_Gump",
+  "tier": "core",
+  "pid": "31"
+ },
+ {
+  "need": [
+   "who:morganfreeman"
+  ],
+  "w": 4,
+  "t": [
+   "Red found hope. The card found {weapon}.",
+   "Somerset had seven days left. Card: zero.",
+   "Alex Cross: crossed out",
+   "Azeem came a long way for this"
+  ],
+  "src": "wikiquote:The_Shawshank_Redemption",
+  "tier": "core",
+  "pid": "192"
+ },
+ {
+  "need": [
+   "who:morganfreeman",
+   "char:ellisboydredredding"
+  ],
+  "w": 5,
+  "t": [
+   "Zihuatanejo is that way, card"
+  ],
+  "src": "wikiquote:The_Shawshank_Redemption",
+  "tier": "core",
+  "pid": "192"
+ },
+ {
+  "need": [
+   "who:mattdamon"
+  ],
+  "w": 4,
+  "t": [
+   "How do you like them [apples|bullets]?",
+   "Mark Watney grew potatoes. {hero} grew a crater.",
+   "Ocean's Eleven: one less in the crew",
+   "Elysium: no ticket up for this card"
+  ],
+  "src": "wikiquote:Good_Will_Hunting",
+  "tier": "core",
+  "pid": "1892"
+ },
+ {
+  "need": [
+   "who:mattdamon",
+   "char:jasonbourne"
+  ],
+  "w": 5,
+  "t": [
+   "Bourne remembers nothing. Neither will the card.",
+   "The Bourne Ultimatum: final answer"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "1892"
+ },
+ {
+  "need": [
+   "who:christianbale"
+  ],
+  "w": 4,
+  "t": [
+   "Gun Kata loses to {weapon}",
+   "Borden pulled the trick. The card vanished.",
+   "Has to return some videotapes. And this card.",
+   "Reign of Fire: dragons first, then {weapon}"
+  ],
+  "src": "wikiquote:The_Prestige_(film)",
+  "tier": "core",
+  "pid": "3894"
+ },
+ {
+  "need": [
+   "who:christianbale",
+   "char:brucewayne"
+  ],
+  "w": 5,
+  "t": [
+   "Wayne Manor got rebuilt. This card won't."
+  ],
+  "src": "wikiquote:Batman_Begins",
+  "tier": "core",
+  "pid": "3894"
+ },
+ {
+  "need": [
+   "who:hughjackman"
+  ],
+  "w": 4,
+  "t": [
+   "The Prestige: the card did not come back",
+   "Van Helsing: monster hunter, hunted",
+   "24601? Now zero.",
+   "Real Steel: robot boxing, card knocked out"
+  ],
+  "src": "wikipedia:Les_Misérables_(2012_film)",
+  "tier": "core",
+  "pid": "6968"
+ },
+ {
+  "need": [
+   "who:hughjackman",
+   "char:wolverine"
+  ],
+  "w": 5,
+  "t": [
+   "Logan pops the claws. {hero} pops the card.",
+   "Logan: out of X-Men, out of cards"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "6968"
+ },
+ {
+  "need": [
+   "who:liamneeson"
+  ],
+  "w": 4,
+  "t": [
+   "Qui-Gon sensed it. Too late.",
+   "Hannibal loves it when a plan comes together",
+   "Darkman: card in the dark",
+   "Non-Stop flight. One stop: the bin."
+  ],
+  "src": "wikipedia:The_A-Team_(film)",
+  "tier": "core",
+  "pid": "3896"
+ },
+ {
+  "need": [
+   "who:liamneeson",
+   "char:bryanmills"
+  ],
+  "w": 5,
+  "t": [
+   "Bryan Mills, retired. Card, retired."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "3896"
+ },
+ {
+  "need": [
+   "who:melgibson"
+  ],
+  "w": 4,
+  "t": [
+   "They may take our posters, but never our {weapon}!",
+   "Last of the V8 cards",
+   "Two men enter, one card leaves",
+   "Payback: Porter collected"
+  ],
+  "src": "wikiquote:Braveheart",
+  "tier": "core",
+  "pid": "2461"
+ },
+ {
+  "need": [
+   "who:melgibson",
+   "char:martinriggs"
+  ],
+  "w": 5,
+  "t": [
+   "Riggs popped his shoulder. Card popped too."
+  ],
+  "src": "wikipedia:Lethal_Weapon_2",
+  "tier": "core",
+  "pid": "2461"
+ },
+ {
+  "need": [
+   "who:melgibson",
+   "ptype:director"
+  ],
+  "w": 5,
+  "t": [
+   "{name} directed epics. {hero} directed this."
+  ],
+  "src": "wikipedia:Mel_Gibson",
+  "tier": "core",
+  "pid": "2461"
+ },
+ {
+  "need": [
+   "who:bradpitt"
+  ],
+  "w": 4,
+  "t": [
+   "Benjamin Button aged backwards. Card: to dust.",
+   "Achilles: heel found",
+   "World War Z: one less zombie poster",
+   "Fury: Wardaddy's tank, {hero}'s target"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "287"
+ },
+ {
+  "need": [
+   "who:bradpitt",
+   "char:rustyryan"
+  ],
+  "w": 5,
+  "t": [
+   "Rusty Ryan ate a snack. Card got eaten."
+  ],
+  "src": "wikipedia:Ocean%27s_Eleven",
+  "tier": "core",
+  "pid": "287"
+ },
+ {
+  "need": [
+   "who:bradpitt",
+   "char:tylerdurden"
+  ],
+  "w": 5,
+  "t": [
+   "Tyler Durden would approve of this mess"
+  ],
+  "src": "wikiquote:Fight_Club_(film)",
+  "tier": "core",
+  "pid": "287"
+ },
+ {
+  "need": [
+   "who:johntravolta"
+  ],
+  "w": 4,
+  "t": [
+   "Chili Palmer says: look at me. Gone.",
+   "Broken Arrow: card lost",
+   "Swordfish: password accepted, card deleted",
+   "Sean Archer wanted his face back. Card: no."
+  ],
+  "src": "wikiquote:Get_Shorty_(film)",
+  "tier": "core",
+  "pid": "8891"
+ },
+ {
+  "need": [
+   "who:johntravolta",
+   "char:vincentvega"
+  ],
+  "w": 5,
+  "t": [
+   "Royale with cheese, side of {weapon}"
+  ],
+  "src": "wikiquote:Pulp_Fiction",
+  "tier": "core",
+  "pid": "8891"
+ },
+ {
+  "need": [
+   "who:ryanreynolds"
+  ],
+  "w": 4,
+  "t": [
+   "Pikachu wants coffee. Card wants a medic.",
+   "In brightest day... it's gone",
+   "Triple-A rated bodyguard. Card: F.",
+   "Six Underground: one more down"
+  ],
+  "src": "wikipedia:Green_Lantern_(film)",
+  "tier": "core",
+  "pid": "10859"
+ },
+ {
+  "need": [
+   "who:ryanreynolds",
+   "char:deadpool"
+  ],
+  "w": 5,
+  "t": [
+   "Deadpool regenerates. This card won't."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "10859"
+ },
+ {
+  "need": [
+   "who:angelinajolie"
+  ],
+  "w": 4,
+  "t": [
+   "Maleficent cursed it first",
+   "Tigress: kung fu didn't save it",
+   "Who is Salt? Gone, that's who.",
+   "Gone in sixty seconds? Gone in one."
+  ],
+  "src": "wikipedia:Salt_(2010_film)",
+  "tier": "core",
+  "pid": "11701"
+ },
+ {
+  "need": [
+   "who:angelinajolie",
+   "char:laracroft"
+  ],
+  "w": 5,
+  "t": [
+   "Lara Croft dual-wields. {hero} won."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "11701"
+ },
+ {
+  "need": [
+   "who:seanconnery",
+   "deceased"
+  ],
+  "w": 4,
+  "t": [
+   "The original 007. Legends stay legends.",
+   "One ping only. A legend, still.",
+   "William of Baskerville would read this rubble kindly",
+   "A true icon of the screen. Respect."
+  ],
+  "src": "wikiquote:The_Hunt_for_Red_October_(film)",
+  "tier": "core",
+  "pid": "738"
+ },
+ {
+  "need": [
+   "who:seanconnery",
+   "deceased",
+   "char:professorhenryjones"
+  ],
+  "w": 5,
+  "t": [
+   "Henry Jones Sr. would want this in a museum"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "738"
+ },
+ {
+  "need": [
+   "who:seanconnery",
+   "deceased",
+   "char:jamesbond"
+  ],
+  "w": 5,
+  "t": [
+   "Shaken or stirred, a legend for all time"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "738"
+ },
+ {
+  "need": [
+   "who:chrishemsworth"
+  ],
+  "w": 4,
+  "t": [
+   "Tyler Rake: extracted",
+   "The Huntsman lost the hunt",
+   "James Hunt lost pole position",
+   "Agent H neuralyzed this card"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "74568"
+ },
+ {
+  "need": [
+   "who:chrishemsworth",
+   "char:thor"
+  ],
+  "w": 5,
+  "t": [
+   "Bring me {hero}!",
+   "Was it worthy? The card wasn't."
+  ],
+  "src": "wikiquote:Avengers:_Infinity_War",
+  "tier": "core",
+  "pid": "74568"
+ },
+ {
+  "need": [
+   "who:willsmith"
+  ],
+  "w": 4,
+  "t": [
+   "Welcome to Earth! Welcome to {weapon}!",
+   "I, Robot: three laws, zero cards",
+   "I Am Legend: last card on Earth",
+   "Deadshot never misses. {hero} didn't either."
+  ],
+  "src": "wikiquote:Independence_Day_(1996_film)",
+  "tier": "core",
+  "pid": "2888"
+ },
+ {
+  "need": [
+   "who:willsmith",
+   "char:jay"
+  ],
+  "w": 5,
+  "t": [
+   "Men in Black: card flashed, memory wiped"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "2888"
+ },
+ {
+  "need": [
+   "who:robertdowneyjr"
+  ],
+  "w": 4,
+  "t": [
+   "Holmes saw the shot in slow motion. Too slow.",
+   "Kiss Kiss Bang Bang. Mostly bang.",
+   "Sherlock deduced it. Too late."
+  ],
+  "src": "wikipedia:Sherlock_Holmes_(2009_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:robertdowneyjr",
+   "char:tonystark"
+  ],
+  "w": 5,
+  "t": [
+   "JARVIS, log it: card destroyed",
+   "Suit up? Too late. Card down."
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:kurtrussell"
+  ],
+  "w": 4,
+  "t": [
+   "Nobody trusts anybody now. Rightly.",
+   "Tell 'em {hero}'s coming. {weapon}'s coming too.",
+   "Stuntman Mike's car: death-proof. Card: not.",
+   "Pork Chop Express: delivered"
+  ],
+  "src": "wikiquote:The_Thing_(1982_film)",
+  "tier": "core",
+  "pid": "6856"
+ },
+ {
+  "need": [
+   "who:kurtrussell",
+   "char:wyattearp"
+  ],
+  "w": 5,
+  "t": [
+   "Wyatt Earp kept the peace. {hero} kept shooting."
+  ],
+  "src": "wikiquote:Tombstone_(film)",
+  "tier": "core",
+  "pid": "6856"
+ },
+ {
+  "need": [
+   "who:benaffleck"
+  ],
+  "w": 4,
+  "t": [
+   "Argo: the fake movie was real. This card wasn't.",
+   "The Accountant: books balanced, card zeroed",
+   "Jack Ryan: sum of all cards, minus one",
+   "Chuckie said leave. The card left."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "880"
+ },
+ {
+  "need": [
+   "who:benaffleck",
+   "ptype:director"
+  ],
+  "w": 5,
+  "t": [
+   "{name} directed Argo. {hero} directed this.",
+   "Best Picture: Argo. Best shot: {hero}."
+  ],
+  "src": "wikipedia:Argo_(2012_film)",
+  "tier": "core",
+  "pid": "880"
+ },
+ {
+  "need": [
+   "who:clinteastwood"
+  ],
+  "w": 4,
+  "t": [
+   "Blondie. The Good one. Still gone.",
+   "Escape from Alcatraz? Escape from nothing.",
+   "Walt Kowalski wants it off his lawn. Done.",
+   "Deserve's got nothing to do with it"
+  ],
+  "src": "wikiquote:Unforgiven",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:clinteastwood",
+   "ptype:director"
+  ],
+  "w": 5,
+  "t": [
+   "{name} likes first takes. {hero} needed one shot."
+  ],
+  "src": "https://www.slashfilm.com/975697/why-clint-eastwood-always-tries-to-use-the-first-take-as-a-director/",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:leonardodicaprio"
+  ],
+  "w": 4,
+  "t": [
+   "Dom Cobb's top is still spinning. The card is not.",
+   "Old sport, the party's over",
+   "Hugh Glass crawled back. The card won't.",
+   "Catch me if you can? Caught."
+  ],
+  "src": "wikipedia:Inception",
+  "tier": "core",
+  "pid": "6193"
+ },
+ {
+  "need": [
+   "who:leonardodicaprio",
+   "char:jordanbelfort"
+  ],
+  "w": 5,
+  "t": [
+   "Sell me this card. Can't. It's gone."
+  ],
+  "src": "wikiquote:The_Wolf_of_Wall_Street_(2013_film)",
+  "tier": "core",
+  "pid": "6193"
+ },
+ {
+  "need": [
+   "who:russellcrowe"
+  ],
+  "w": 4,
+  "t": [
+   "Master and Commander: card overboard",
+   "Javert never let it go. {hero} did.",
+   "Bud White: card confidential",
+   "The Nice Guys: not so nice"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "934"
+ },
+ {
+  "need": [
+   "who:russellcrowe",
+   "char:maximus"
+  ],
+  "w": 5,
+  "t": [
+   "Maximus gave the signal. {weapon} answered."
+  ],
+  "src": "wikiquote:Gladiator_(2000_film)",
+  "tier": "core",
+  "pid": "934"
+ },
+ {
+  "need": [
+   "who:vindiesel"
+  ],
+  "w": 4,
+  "t": [
+   "Riddick sees in the dark. Saw this too.",
+   "Xander Cage: extreme, then extinct",
+   "Iron Giant says: Superman. Card: no.",
+   "Last Witch Hunter: last card hunted"
+  ],
+  "src": "wikipedia:The_Iron_Giant",
+  "tier": "core",
+  "pid": "12835"
+ },
+ {
+  "need": [
+   "who:vindiesel",
+   "char:dominictoretto"
+  ],
+  "w": 5,
+  "t": [
+   "Ride or die. It didn't ride."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "12835"
+ },
+ {
+  "need": [
+   "who:garyoldman"
+  ],
+  "w": 4,
+  "t": [
+   "EVERYONE! ...okay, just this card.",
+   "Zorg's ZF-1: no red button needed",
+   "Dracula: back to dust",
+   "Korshunov hijacked the wrong page"
+  ],
+  "src": "wikiquote:Léon:_The_Professional",
+  "tier": "core",
+  "pid": "64"
+ },
+ {
+  "need": [
+   "who:garyoldman",
+   "char:gordon"
+  ],
+  "w": 5,
+  "t": [
+   "Gordon lit the signal. Too late."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "64"
+ },
+ {
+  "need": [
+   "who:tommyleejones"
+  ],
+  "w": 4,
+  "t": [
+   "Gerard doesn't care. Neither does {hero}.",
+   "Two-Face flipped. Both sides: gone.",
+   "Under Siege: Strannix lost the ship",
+   "Volcano: lava? Lead."
+  ],
+  "src": "wikiquote:The_Fugitive_(film)",
+  "tier": "core",
+  "pid": "2176"
+ },
+ {
+  "need": [
+   "who:tommyleejones",
+   "char:kay"
+  ],
+  "w": 5,
+  "t": [
+   "Agent K: this card never happened"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "2176"
+ },
+ {
+  "need": [
+   "who:tommyleejones",
+   "char:samuelgerard"
+  ],
+  "w": 5,
+  "t": [
+   "Our fugitive has been on the run for nine seconds"
+  ],
+  "src": "wikiquote:The_Fugitive_(film)",
+  "tier": "core",
+  "pid": "2176"
+ },
+ {
+  "need": [
+   "who:chrisevans"
+  ],
+  "w": 4,
+  "t": [
+   "Snowpiercer: last car, last card",
+   "Flame on! ...and off.",
+   "Space Ranger mission: card down",
+   "Lloyd Hansen: Gray Man, grey dust"
+  ],
+  "src": "wikipedia:Fantastic_Four_(2005_film)",
+  "tier": "core",
+  "pid": "16828"
+ },
+ {
+  "need": [
+   "who:chrisevans",
+   "char:captainamerica"
+  ],
+  "w": 5,
+  "t": [
+   "On your left. Too late."
+  ],
+  "src": "wikiquote:Captain_America:_The_Winter_Soldier",
+  "tier": "core",
+  "pid": "16828"
+ },
+ {
+  "need": [
+   "who:willemdafoe"
+  ],
+  "w": 4,
+  "t": [
+   "All drains lead to the bin",
+   "Speed 2: cruise control, card out of control",
+   "Smecker reconstructed it. {hero} wrecked it.",
+   "Max Schreck never broke character. Card broke."
+  ],
+  "src": "wikiquote:Finding_Nemo",
+  "tier": "core",
+  "pid": "5293"
+ },
+ {
+  "need": [
+   "who:willemdafoe",
+   "char:normanosborn"
+  ],
+  "w": 5,
+  "t": [
+   "Norman Osborn, meet {weapon}"
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "5293"
+ },
+ {
+  "need": [
+   "who:patrickstewart"
+  ],
+  "w": 4,
+  "t": [
+   "Make it so. It is so.",
+   "Engage! ...disengaged.",
+   "The line must be drawn here. It was.",
+   "Professor X read its mind: empty"
+  ],
+  "src": "wikiquote:Star_Trek:_First_Contact",
+  "tier": "core",
+  "pid": "2387"
+ },
+ {
+  "need": [
+   "who:patrickstewart",
+   "char:jeanlucpicard"
+  ],
+  "w": 5,
+  "t": [
+   "Tea, Earl Grey, hot. Card: cold."
+  ],
+  "src": "wikiquote:Star_Trek:_The_Next_Generation",
+  "tier": "core",
+  "pid": "2387"
+ },
+ {
+  "need": [
+   "who:charlizetheron"
+  ],
+  "w": 4,
+  "t": [
+   "Lorraine Broughton: atomic, then gone",
+   "Mirror, mirror, on the wall: shattered",
+   "Stella cracked the safe. {hero} cracked the card.",
+   "Prometheus: Vickers ran the wrong way"
+  ],
+  "src": "wikipedia:Snow_White_and_the_Huntsman",
+  "tier": "core",
+  "pid": "6885"
+ },
+ {
+  "need": [
+   "who:charlizetheron",
+   "char:imperatorfuriosa"
+  ],
+  "w": 5,
+  "t": [
+   "Out here, everything hurts. Especially cards.",
+   "Furiosa took the War Rig. {hero} took the shot."
+  ],
+  "src": "wikiquote:Mad_Max:_Fury_Road",
+  "tier": "core",
+  "pid": "6885"
+ },
+ {
+  "need": [
+   "who:matthewmcconaughey"
+  ],
+  "w": 4,
+  "t": [
+   "Alright, alright, alright... gone.",
+   "Time is a flat circle. So is the hole.",
+   "Fugazi. The card? Gone.",
+   "Cooper went through the wormhole. Card: the bin."
+  ],
+  "src": "wikiquote:True_Detective",
+  "tier": "core",
+  "pid": "10297"
+ },
+ {
+  "need": [
+   "who:matthewmcconaughey",
+   "char:markhanna"
+  ],
+  "w": 5,
+  "t": [
+   "Mark Hanna's chest thump: card fumbled"
+  ],
+  "src": "wikipedia:The_Wolf_of_Wall_Street_(2013_film)",
+  "tier": "core",
+  "pid": "10297"
+ },
+ {
+  "need": [
+   "who:genehackman",
+   "deceased"
+  ],
+  "w": 4,
+  "t": [
+   "Popeye Doyle. A legend of the screen, always.",
+   "Little Bill, Lex, Popeye: one legend, many faces",
+   "Captain Ramsey ran a tight ship. A true great.",
+   "An actor's actor. Even the rubble stands still."
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:genehackman",
+   "deceased",
+   "char:lexluthor"
+  ],
+  "w": 5,
+  "t": [
+   "Lex Luthor, played by a master. Fondly remembered."
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:danielradcliffe"
+  ],
+  "w": 4,
+  "t": [
+   "Guns Akimbo: two guns, one card",
+   "Igor: it's alive! ...not anymore",
+   "Swiss Army Man: many tools, one shot",
+   "Walter Mabry lost the trick"
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:danielradcliffe",
+   "char:harrypotter"
+  ],
+  "w": 5,
+  "t": [
+   "The boy who lived. The card who didn't.",
+   "The Marauder's Map shows one card fewer"
+  ],
+  "src": "wikiquote:Harry_Potter_and_the_Prisoner_of_Azkaban_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:benkingsley"
+  ],
+  "w": 4,
+  "t": [
+   "Nizam wanted the dagger. Got {weapon}.",
+   "Lucky Number Slevin: unlucky card",
+   "Species: Fitch lost the specimen",
+   "Mazer Rackham: training over"
+  ],
+  "src": "wikipedia:Prince_of_Persia:_The_Sands_of_Time_(film)",
+  "tier": "core",
+  "pid": "2282"
+ },
+ {
+  "need": [
+   "who:sigourneyweaver"
+  ],
+  "w": 4,
+  "t": [
+   "Never give up, never surrender. Surrendered.",
+   "Gatekeeper? Gate closed.",
+   "Grace Augustine: Pandora rejected it",
+   "Gwen DeMarco repeated it: gone"
+  ],
+  "src": "wikiquote:Galaxy_Quest",
+  "tier": "core",
+  "pid": "10205"
+ },
+ {
+  "need": [
+   "who:sigourneyweaver",
+   "char:ripley"
+  ],
+  "w": 5,
+  "t": [
+   "Last survivor of the Nostromo. Card: not."
+  ],
+  "src": "wikiquote:Alien_(film)",
+  "tier": "core",
+  "pid": "10205"
+ },
+ {
+  "need": [
+   "who:danielcraig"
+  ],
+  "w": 4,
+  "t": [
+   "A card-shaped hole in a donut's hole",
+   "Lord Asriel's compass points down",
+   "Joe Bang blew it. Literally.",
+   "Skyfall: the card fell"
+  ],
+  "src": "wikiquote:Knives_Out",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:danielcraig",
+   "char:jamesbond"
+  ],
+  "w": 5,
+  "t": [
+   "Do I look like I give a #@!%?"
+  ],
+  "src": "wikiquote:Casino_Royale_(2006_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:joshbrolin"
+  ],
+  "w": 4,
+  "t": [
+   "Goonies never say die. Card: did.",
+   "Llewelyn Moss found the case. {hero} found him.",
+   "Jonah Hex: hexed",
+   "Agent K, young edition: card neutralized"
+  ],
+  "src": "wikiquote:The_Goonies",
+  "tier": "core",
+  "pid": "16851"
+ },
+ {
+  "need": [
+   "who:joshbrolin",
+   "char:thanos"
+  ],
+  "w": 5,
+  "t": [
+   "Thanos balanced the page. Minus one card.",
+   "Fine, I'll do it myself. {hero} did."
+  ],
+  "src": "wikipedia:Avengers:_Age_of_Ultron",
+  "tier": "core",
+  "pid": "16851"
+ },
+ {
+  "need": [
+   "who:henrycavill"
+  ],
+  "w": 4,
+  "t": [
+   "Napoleon Solo: card from nowhere",
+   "Immortals? Mortal card.",
+   "August Walker: the mission fell"
+  ],
+  "src": "wikipedia:Henry_Cavill",
+  "tier": "core",
+  "pid": "73968"
+ },
+ {
+  "need": [
+   "who:henrycavill",
+   "char:superman"
+  ],
+  "w": 5,
+  "t": [
+   "Superman flew in. The card flew out."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "73968"
+ },
+ {
+  "need": [
+   "who:wesleysnipes"
+  ],
+  "w": 4,
+  "t": [
+   "Always bet on black",
+   "John Cutter foiled the hijack. Not this.",
+   "Simon Phoenix: demolished",
+   "Nino Brown: New Jack City, old card"
+  ],
+  "src": "wikiquote:Passenger_57",
+  "tier": "core",
+  "pid": "10814"
+ },
+ {
+  "need": [
+   "who:wesleysnipes",
+   "char:blade"
+  ],
+  "w": 5,
+  "t": [
+   "The Daywalker walked away. Card stayed."
+  ],
+  "src": "sheet",
+  "tier": "core",
+  "pid": "10814"
+ },
+ {
+  "need": [
+   "who:ralphfiennes"
+  ],
+  "w": 4,
+  "t": [
+   "M. Gustave: the hotel is closed",
+   "Harry Waters sticks to his principles. So does {hero}.",
+   "Hades: the underworld takes this card",
+   "M approves. Barely."
+  ],
+  "src": "wikiquote:In_Bruges",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:ralphfiennes",
+   "char:lordvoldemort"
+  ],
+  "w": 5,
+  "t": [
+   "The Dark Lord lost a Horcrux",
+   "He Who Must Not Be Named: shot"
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:elijahwood"
+  ],
+  "w": 4,
+  "t": [
+   "Mumble danced. The card didn't.",
+   "Deep Impact: direct hit",
+   "Eternal Sunshine: erased from memory",
+   "Number 9 stitched up. Card: not."
+  ],
+  "src": "sheet",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:elijahwood",
+   "char:frodo"
+  ],
+  "w": 5,
+  "t": [
+   "Dropped the card into Mount Doom",
+   "It's a dangerous business, {hero}, going out your door"
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:emmawatson"
+  ],
+  "w": 4,
+  "t": [
+   "Be our guest? Not anymore.",
+   "Belle closed the book on this one"
+  ],
+  "src": "wikipedia:Beauty_and_the_Beast_(2017_film)",
+  "tier": "core",
+  "pid": "10990"
+ },
+ {
+  "need": [
+   "who:emmawatson",
+   "char:hermionegranger"
+  ],
+  "w": 5,
+  "t": [
+   "Hermione would have read about this in a book",
+   "Hermione punched Malfoy. {hero} shot the card.",
+   "Brightest witch of her age. Card: dimmed."
+  ],
+  "src": "wikipedia:Harry_Potter_and_the_Prisoner_of_Azkaban_(film)",
+  "tier": "core",
+  "pid": "10990"
+ },
+ {
+  "need": [
+   "who:jeffbridges"
+  ],
+  "w": 4,
+  "t": [
+   "Rooster Cogburn: true grit, true aim",
+   "Starman came, saw, left the card in pieces",
+   "Hell or High Water: high water won"
+  ],
+  "src": "wikipedia:True_Grit_(2010_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:jeffbridges"
+  ],
+  "w": 5,
+  "t": [
+   "Derezzed.",
+   "Kevin Flynn entered the Grid. Card left it."
+  ],
+  "src": "wikipedia:Tron",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "who:jeffbridges",
+   "char:obadiahstane"
+  ],
+  "w": 5,
+  "t": [
+   "Built in a cave! With {weapon}!"
+  ],
+  "src": "wikiquote:Iron_Man_(film)",
+  "tier": "core"
+ }
+]

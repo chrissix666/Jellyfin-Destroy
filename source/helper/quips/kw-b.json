@@ -1,0 +1,1091 @@
+[
+ {
+  "need": [
+   "kw:neonoir"
+  ],
+  "w": 2,
+  "t": [
+   "Neo-noir? Neo-gone.",
+   "Rain, neon, and one very dead poster",
+   "The femme fatale met {weapon}",
+   "Voice-over: it was a dark night. Then darker.",
+   "Pink neon, black outcome"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:superhuman"
+  ],
+  "w": 2,
+  "t": [
+   "Superhuman. Not bulletproof.",
+   "Human after all",
+   "Powers: revoked",
+   "Super strength vs. {weapon}: {weapon} wins",
+   "Beyond human. Below rubble."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:woods"
+  ],
+  "w": 2,
+  "t": [
+   "Don't go into the woods. {hero} did.",
+   "Lost in the woods. Found in pieces.",
+   "Timber!",
+   "Cabin in the woods? Cabin in ruins.",
+   "Not out of the woods. Never will be."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:seriesofmurders",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "The pattern ends here",
+   "Victim count: plus one poster",
+   "Connect the dots. With bullet holes.",
+   "Case file closed with {weapon}",
+   "The detective's corkboard got a new hole"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:gore"
+  ],
+  "w": 2,
+  "t": [
+   "Ketchup budget: exceeded",
+   "Practical effects: practically gone",
+   "Splatter? Shatter.",
+   "Gorehounds, look away",
+   "Fake blood, real holes"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:warrior"
+  ],
+  "w": 2,
+  "t": [
+   "Warrior down",
+   "Fell in battle against {weapon}",
+   "Warrior spirit, paper body",
+   "Valhalla's waiting room: now open",
+   "No shield could stop {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spinoff"
+  ],
+  "w": 2,
+  "t": [
+   "Side character, main target",
+   "Spun off. Then shot off.",
+   "The supporting cast wanted a movie. Denied.",
+   "Spin-off: spun into the bin",
+   "Too many spin-offs, not enough bullets"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:corruption"
+  ],
+  "w": 2,
+  "t": [
+   "Bribe declined. Bullet accepted.",
+   "Corrupt? Now also corrupted.",
+   "Dirty money, clean shot",
+   "The system was rotten anyway",
+   "Nobody's on the payroll now"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:future"
+  ],
+  "w": 2,
+  "t": [
+   "The future is now. Now it's the past.",
+   "No future for {title}",
+   "Future cancelled",
+   "Predicted the future: holes",
+   "Flying cars, grounded poster"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:fbi"
+  ],
+  "w": 2,
+  "t": [
+   "Federal case. Federal bullet.",
+   "FBI! Open up! ...it's open now",
+   "Agent down. Badge recovered.",
+   "The Bureau is not happy",
+   "Most wanted? Most wasted."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:killer"
+  ],
+  "w": 2,
+  "t": [
+   "Killer? Meet a bigger one: {weapon}",
+   "Body count: one more",
+   "Who's the killer now?",
+   "Kill streak: {hero}",
+   "Stalked, cornered, shot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:hitman"
+  ],
+  "w": 2,
+  "t": [
+   "The target was the hitman",
+   "Payment refused. Bullet delivered.",
+   "Silenced. No silencer needed.",
+   "Professional courtesy: none",
+   "{hero} works for free"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:flashback"
+  ],
+  "w": 2,
+  "t": [
+   "No flashbacks. No future either.",
+   "Remember when this was a poster?",
+   "Flashback to five seconds ago: intact",
+   "Cut back to the present: rubble",
+   "Non-linear? Now non-existent."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:escape"
+  ],
+  "w": 2,
+  "t": [
+   "The great escape failed",
+   "No way out. Only holes.",
+   "Escape route blocked by {weapon}",
+   "Almost made it",
+   "Escaped the plot, not the bullet"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:centralintelligenceagencycia"
+  ],
+  "w": 2,
+  "t": [
+   "Langley lost an asset",
+   "Plausible deniability: it was never there",
+   "Redacted.",
+   "Classified: [rubble|holes]",
+   "Black ops, black smoke"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:deathmatch"
+  ],
+  "w": 2,
+  "t": [
+   "Two enter. {hero} leaves.",
+   "Last one standing: {hero}",
+   "Deathmatch: {hero} 1, {title} 0",
+   "Frag!",
+   "Respawn disabled"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dreams"
+  ],
+  "w": 2,
+  "t": [
+   "Dream sequence: interrupted",
+   "Pinch yourself. Still gone.",
+   "Woke up to rubble",
+   "Lucid dreaming? Lucid shooting.",
+   "Dreamt of a poster. Woke up to holes."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:ghost"
+  ],
+  "w": 2,
+  "t": [
+   "Already dead. Now deader.",
+   "Boo! *BANG*",
+   "Can't shoot a ghost? Watch this.",
+   "Unfinished business: finished",
+   "Haunted house, vacant lot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:secretorganization"
+  ],
+  "w": 2,
+  "t": [
+   "Secret no more",
+   "The secret society met {weapon}",
+   "Membership revoked",
+   "The secret handshake didn't help",
+   "Their headquarters: exposed"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:swordfight"
+  ],
+  "w": 2,
+  "t": [
+   "Brought a sword to a gunfight",
+   "En garde! *BANG*",
+   "Parry this, {title}",
+   "Touché.",
+   "Steel vs. {weapon}: no contest"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:alieninvasion"
+  ],
+  "w": 2,
+  "t": [
+   "Invasion repelled",
+   "Mothership down",
+   "Take me to your leader. Too late.",
+   "Earth 1, invaders 0",
+   "Should've stayed home, little green poster"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:superheroteam"
+  ],
+  "w": 2,
+  "t": [
+   "Team-up? Team down.",
+   "Assembled. Disassembled.",
+   "Every hero gets a hole",
+   "Group photo: ruined",
+   "Not even teamwork stops {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:training"
+  ],
+  "w": 2,
+  "t": [
+   "Training montage: skipped",
+   "All that training for nothing",
+   "Lesson one: duck",
+   "The student failed the final exam",
+   "Practice makes perforated"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:organizedcrime"
+  ],
+  "w": 2,
+  "t": [
+   "Organized crime, disorganized poster",
+   "The family business is closed",
+   "Racket: busted",
+   "Nobody talks. Nobody's left.",
+   "The boss got bossed"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:undercover"
+  ],
+  "w": 2,
+  "t": [
+   "Undercover? Under rubble.",
+   "Deep cover, deeper hole",
+   "Blew the cover. And the poster.",
+   "The mole got whacked",
+   "Identity unknown. Now irrelevant."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:riddle"
+  ],
+  "w": 2,
+  "t": [
+   "Riddle me this: where did it go?",
+   "Answer: {weapon}",
+   "What has holes and no poster? This.",
+   "Solved it. With force.",
+   "No clues left"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:rescuemission"
+  ],
+  "w": 2,
+  "t": [
+   "Rescue mission: failed",
+   "Nobody's coming",
+   "Extraction point: the bin",
+   "Saved by {hero}? Shot by {hero}.",
+   "Leave no poster behind? Left it."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:rescue"
+  ],
+  "w": 2,
+  "t": [
+   "Help arrived. With {weapon}.",
+   "Rescued from the shelf. Permanently.",
+   "Too late to save this one",
+   "Lifeguard on break",
+   "Save it! ...never mind"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:antihero"
+  ],
+  "w": 2,
+  "t": [
+   "Anti-hero, meet anti-poster",
+   "Morally grey, physically holey",
+   "Not a hero. Not a poster.",
+   "Bad guy? Good riddance.",
+   "The lesser evil lost"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:basedontvseries"
+  ],
+  "w": 2,
+  "t": [
+   "Should have stayed on TV",
+   "The show was better",
+   "Big screen, big hole",
+   "From the small screen to the bin",
+   "Previously on TV. Now on nothing."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:survivalhorror"
+  ],
+  "w": 2,
+  "t": [
+   "Didn't survive the horror",
+   "Ammo low. Still enough.",
+   "Save point not reached",
+   "Survival rate: zero",
+   "Hide, run, get shot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:friendship"
+  ],
+  "w": 2,
+  "t": [
+   "Best friends forever? For now.",
+   "Some friend {hero} is",
+   "Unfriended.",
+   "Buddy movie, solo ending",
+   "With friends like {hero}..."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:hospital"
+  ],
+  "w": 2,
+  "t": [
+   "Visiting hours: over",
+   "Discharged. In pieces.",
+   "Ward closed for renovation",
+   "Doctor! ...too late",
+   "Insurance won't cover this"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:newjersey"
+  ],
+  "w": 2,
+  "t": [
+   "Garden State, rubble state",
+   "What exit? The last one.",
+   "Turnpike closed",
+   "New Jersey, new holes",
+   "Made it out of Jersey. Not out of range."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:slaughter",
+   "!truestory",
+   "!genre:history"
+  ],
+  "w": 2,
+  "t": [
+   "Body count: {hero} wins",
+   "Too much carnage. Added more.",
+   "The massacre got massacred",
+   "Clean-up on aisle five",
+   "Bloodbath: drained"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:adventurer"
+  ],
+  "w": 2,
+  "t": [
+   "Treasure map: shredded",
+   "Explorer? Exploded.",
+   "Fortune found: {weapon}",
+   "Last expedition",
+   "Packed for adventure. Not for {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:fictionalgovernmentagency"
+  ],
+  "w": 2,
+  "t": [
+   "Agency defunded",
+   "Budget cut by {hero}",
+   "This agency doesn't exist. Now really.",
+   "Need-to-know basis: gone",
+   "Acronym unknown, target known"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:bloodandgore"
+  ],
+  "w": 2,
+  "t": [
+   "Red paint everywhere",
+   "Splatter count: one more",
+   "Corn syrup budget: blown",
+   "Messy. Very messy.",
+   "Not for the squeamish. Neither is {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mindgame"
+  ],
+  "w": 2,
+  "t": [
+   "Mind game over",
+   "Outsmarted by {weapon}",
+   "Checkmate.",
+   "Played. Lost.",
+   "Twist: it was {hero} all along"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:army",
+   "!truestory",
+   "!genre:war"
+  ],
+  "w": 2,
+  "t": [
+   "Army of one: {hero}",
+   "Retreat!",
+   "Dishonourable discharge",
+   "Fall out!",
+   "Boot camp didn't cover {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spacetravel"
+  ],
+  "w": 2,
+  "t": [
+   "Lift-off: aborted",
+   "Hyperspace? Hyper-holes.",
+   "Signal lost",
+   "Docking failed",
+   "Next stop: nowhere"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:quest"
+  ],
+  "w": 2,
+  "t": [
+   "Quest failed",
+   "Side quest: destroy {title}",
+   "Quest log: empty",
+   "Fetch quest: fetched nothing",
+   "Quest reward: {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:chainsaw"
+  ],
+  "w": 2,
+  "t": [
+   "Out of gas",
+   "Brrrrm... *BANG*",
+   "Pull the cord. Too late.",
+   "The saw stalled",
+   "Cut short"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:kgb",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Dossier closed",
+   "The Cold War got hot",
+   "Moscow will not be pleased",
+   "No more secrets, comrade",
+   "The double agent got doubled"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:motorcycle"
+  ],
+  "w": 2,
+  "t": [
+   "Crashed and burned",
+   "Two wheels, zero chance",
+   "Helmet recommended",
+   "Rev it up. Shot it down.",
+   "Easy rider? Easy target."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:sports"
+  ],
+  "w": 2,
+  "t": [
+   "Final score: {hero} 1, {title} 0",
+   "Red card!",
+   "Foul!",
+   "Benched. Permanently.",
+   "Season over",
+   "Out of bounds"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:evildoll"
+  ],
+  "w": 2,
+  "t": [
+   "Wind-up key: snapped",
+   "Back in the toy box",
+   "Stuffing everywhere",
+   "Porcelain? Shattered.",
+   "That smile is gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:killerdoll"
+  ],
+  "w": 2,
+  "t": [
+   "The doll is dead. Probably.",
+   "Check under the bed. Still gone.",
+   "Batteries removed",
+   "Toy recall",
+   "Not so cute now"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:explosion"
+  ],
+  "w": 2,
+  "t": [
+   "Kaboom! Again.",
+   "Bigger boom",
+   "Cool guys don't look at explosions",
+   "Pyro budget: doubled",
+   "That one was real"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:evil"
+  ],
+  "w": 2,
+  "t": [
+   "Evil: defeated",
+   "Good wins. Barely.",
+   "Pure evil, pure holes",
+   "Darkness: lights out",
+   "Banished."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:battle",
+   "!truestory",
+   "!genre:war"
+  ],
+  "w": 2,
+  "t": [
+   "Battle lost",
+   "Victory: {hero}",
+   "Casualty report: one poster",
+   "The battle is over. The war too.",
+   "Charge! ...into {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:boxing"
+  ],
+  "w": 2,
+  "t": [
+   "TKO.",
+   "Split decision: {weapon}",
+   "Throw in the towel",
+   "Knockout punch: {weapon}",
+   "Glass jaw, glass poster"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:urbansetting"
+  ],
+  "w": 2,
+  "t": [
+   "Urban renewal",
+   "City block, city wreck",
+   "Concrete jungle, concrete rubble",
+   "Downtown: down",
+   "Noise complaint filed"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:fakeidentity"
+  ],
+  "w": 2,
+  "t": [
+   "Fake name, real holes",
+   "Identity theft? Identity gone.",
+   "ID check: failed",
+   "Whoever it was, it's gone",
+   "Forged papers, shredded papers"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:macabre"
+  ],
+  "w": 2,
+  "t": [
+   "Grim. Then grimmer.",
+   "Spooky, and now holey",
+   "The undertaker sends regards",
+   "Dark humour, darker ending",
+   "Cheerful, isn't it?"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mission"
+  ],
+  "w": 2,
+  "t": [
+   "Mission failed. We'll get 'em next time.",
+   "Objective: complete",
+   "Mission scrubbed",
+   "Abort! Abort!",
+   "Debriefing: there's nothing left"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:island"
+  ],
+  "w": 2,
+  "t": [
+   "Voted off the island",
+   "Castaway, cast off",
+   "Tropical getaway, tropical gone",
+   "No boat out",
+   "Shipwrecked twice"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:sanfranciscocalifornia"
+  ],
+  "w": 2,
+  "t": [
+   "The Golden Gate is closed",
+   "Fog rolled in. Poster rolled out.",
+   "Cable car to nowhere",
+   "Steep hills, steep fall",
+   "San Fran-gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:carrace"
+  ],
+  "w": 2,
+  "t": [
+   "Checkered flag: shredded",
+   "Pit stop: permanent",
+   "Last lap",
+   "Did not finish",
+   "Pole position: in the bin"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:nightmare"
+  ],
+  "w": 2,
+  "t": [
+   "Bad dream: over",
+   "Nightmare fuel: used up",
+   "Night light on",
+   "Sleep tight now",
+   "The monster under the bed got shot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:holidayhorror"
+  ],
+  "w": 2,
+  "t": [
+   "Holiday cancelled",
+   "Season's beatings",
+   "Not so festive now",
+   "Home for the holidays? Home in pieces.",
+   "Unwrapped. With {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:basedonvideogame"
+  ],
+  "w": 2,
+  "t": [
+   "Press F to pay respects",
+   "Boss fight: won",
+   "Achievement unlocked: {title} destroyed",
+   "No save point",
+   "Cutscene skipped",
+   "Lives left: 0"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:teenfantasy"
+  ],
+  "w": 2,
+  "t": [
+   "Prophecy cancelled",
+   "Teen angst, adult {weapon}",
+   "Grounded. Forever.",
+   "No sequel for this young adult saga",
+   "Destiny: postponed"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:teleportation"
+  ],
+  "w": 2,
+  "t": [
+   "Arrived in pieces",
+   "Blink and it's gone. Literally.",
+   "Port failed",
+   "Wrong coordinates",
+   "Teleported. Partially."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:pinhead"
+  ],
+  "w": 2,
+  "t": [
+   "Pinhead, meet {weapon}",
+   "One more hole in the head",
+   "Pins out",
+   "Pincushion retired",
+   "The puzzle box stays shut",
+   "Hell raised. Hell razed."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:manvsmachine"
+  ],
+  "w": 2,
+  "t": [
+   "Man 1, machine 0",
+   "Power cut",
+   "Machines lost this round",
+   "Human error: none",
+   "Firmware update: {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:deathgame"
+  ],
+  "w": 2,
+  "t": [
+   "Game rules: changed",
+   "Player eliminated",
+   "Nobody wins this game",
+   "Rules said no guns. {hero} didn't read them.",
+   "Final round: skipped"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:sadistichorror"
+  ],
+  "w": 2,
+  "t": [
+   "Too nasty. Now nothing.",
+   "Squeamish? Good news.",
+   "The cruelty ends here",
+   "Mercy, finally",
+   "Nasty piece of work. In pieces."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:betrayal"
+  ],
+  "w": 2,
+  "t": [
+   "Et tu, {hero}?",
+   "Backstabbed. Then shot.",
+   "Trust issues: confirmed",
+   "Double-crossed. Then crossed out.",
+   "Saw it coming. Didn't dodge."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:ghost",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Boo-hoo.",
+   "Ectoplasm everywhere",
+   "Spooky. Then splattered.",
+   "Who you gonna call? {hero}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:gore",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Splatstick: stuck",
+   "Funny and messy. Now just messy.",
+   "Laughed so hard it fell apart"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:boxing",
+   "genre:drama"
+  ],
+  "w": 3,
+  "t": [
+   "Comeback story: cancelled",
+   "The underdog stayed down",
+   "Final round, final scene"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ }
+]

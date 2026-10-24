@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Jellyfin.Plugin.Destroy</RootNamespace>
+    <AssemblyName>Jellyfin.Plugin.Destroy</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DebugType>none</DebugType>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net8.0'">
+    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net10.0'">
+    <Version>2.0.0.0</Version>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Jellyfin.Controller" Version="10.10.*" Condition="'$(TargetFramework)' == 'net8.0'">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+    <PackageReference Include="Jellyfin.Model" Version="10.10.*" Condition="'$(TargetFramework)' == 'net8.0'">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+    <PackageReference Include="Jellyfin.Controller" Version="12.0.0" Condition="'$(TargetFramework)' == 'net10.0'">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+    <PackageReference Include="Jellyfin.Model" Version="12.0.0" Condition="'$(TargetFramework)' == 'net10.0'">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Configuration\configPage.html" />
+    <EmbeddedResource Include="..\..\dist\Jellyfin-Destroy.js" LogicalName="Jellyfin.Plugin.Destroy.Web.script.js" />
+    <EmbeddedResource Include="..\..\dist\heroes\sheet.png" LogicalName="Jellyfin.Plugin.Destroy.Web.sheet.png" />
+    <EmbeddedResource Include="..\..\dist\heroes\sheet.json" LogicalName="Jellyfin.Plugin.Destroy.Web.sheet.json" />
+    <None Include="..\..\dist\quotes.zip" Link="quotes.zip" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Destroy</title>
+</head>
+<body>
+<div id="DestroyConfigPage" data-role="page" class="page type-interior pluginConfigurationPage" data-require="emby-button,emby-select,emby-checkbox">
+<div data-role="content"><div class="content-primary">
+<style>
+    #DestroyConfigPage { font-size: 14.888889px; color: #ccc; background: #101010; }
+    #DestroyConfigPage h2 { font-size: 1.5em; font-weight: 400; margin: .3em 0 .6em; color: #fff; }
+    #DestroyConfigPage h3 { font-size: 1.17em; font-weight: 400; color: #fff; }
+    #DestroyConfigPage .dsRow { display: grid; grid-template-columns: 246px 1fr; align-items: center; padding: 2px 0;
+        border-top: 1px solid rgba(255,255,255,0.08); column-gap: 8px; row-gap: 0; }
+    #DestroyConfigPage .dsSubheading + .dsRow { border-top: none; }
+    #DestroyConfigPage .dsRowLabelSpan { grid-column: 1; grid-row: 1 / 3; align-self: center; }
+    #DestroyConfigPage .dsRowMerged .dsDesc { grid-row: 2; grid-column: 1 / -1; margin: 0; }
+    #DestroyConfigPage .dsRowMerged > select,
+    #DestroyConfigPage .dsRowMerged > input,
+    #DestroyConfigPage .dsRowMerged > div:not(.dsDesc) { grid-row: 1 !important; grid-column: 2 !important; }
+    #DestroyConfigPage .dsDesc { font-size: 10.5px; line-height: 14px; min-height: 14px; color: #777; padding: 4px 0 1px 254px;
+        white-space: normal; overflow-wrap: break-word; }
+    #DestroyConfigPage .dsTabDescArea { padding: 4px 0 8px; }
+    #DestroyConfigPage .dsTabDescArea .dsDesc { padding: 0; }
+    #DestroyConfigPage .dsRow.dsRowCheckbox { height: 46px; padding: 2px 0; }
+    #DestroyConfigPage .dsDescInline { font-size: 10.5px; color: #777; display: inline-flex; align-items: center; line-height: normal; }
+    #DestroyConfigPage .dsSubheading { font-size: 13px; font-weight: 500; margin: 14px 0 4px; color: inherit; }
+    #DestroyConfigPage .dsSelectCompact, #DestroyConfigPage .dsShortcutField {
+        max-width: 320px; width: 100%; box-sizing: border-box; height: 30px; background: rgba(255,255,255,0.05);
+        border: 1px solid rgba(255,255,255,0.2); border-radius: 3px; color: inherit; padding: 0 8px; font-size: 13px; font-family: inherit; }
+    #DestroyConfigPage .dsSelectCompact option { background: #1c1c1c; color: #eee; }
+    #DestroyConfigPage .dsShortcutField { max-width: 143px; text-align: left; cursor: pointer; }
+    #DestroyConfigPage .dsShortcutField.dsListening { border-color: #00a4dc; color: #fff; }
+    #DestroyConfigPage .dsShortcutMsg { min-height: 14px; }
+    #DestroyConfigPage .dsShortcutMsg.dsIeSuccess { color: #6dcf6d; }
+    #DestroyConfigPage .dsShortcutMsg.dsIeError { color: #e07a7a; }
+    #DestroyConfigPage .dsMasterMsg { margin-top: 0; padding: 0 0 2px 254px; }
+    #DestroyConfigPage .dsFieldDisabled { opacity: 0.35; pointer-events: none; }
+    #DestroyConfigPage .dsFieldDisabled .dsFieldDisabled { opacity: 1; }
+    #DestroyConfigPage select:disabled, #DestroyConfigPage input:disabled,
+    #DestroyConfigPage .dsFieldDisabled button:disabled { opacity: 1 !important; }
+    #DestroyConfigPage .checkboxContainer { grid-column: 2 !important; justify-self: start !important; margin: 0 !important; }
+    #DestroyConfigPage .emby-checkbox-label { display: flex; align-items: center; gap: 10px; margin: 0; padding: 0 !important; height: 30px !important; cursor: pointer; }
+    #DestroyConfigPage .dsRowCheckbox input[type=checkbox] { -webkit-appearance: none; appearance: none; position: relative; width: 16px; height: 16px;
+        margin: 0; border: 0.14em solid currentColor; border-radius: 3px; background: transparent; cursor: pointer; flex-shrink: 0; }
+    #DestroyConfigPage .dsRowCheckbox input[type=checkbox]:checked { background: #00a4dc; border-color: #00a4dc; }
+    #DestroyConfigPage .dsRowCheckbox input[type=checkbox]:checked::after { content: ""; position: absolute; left: 4px; top: 0; width: 4px; height: 8px;
+        border: solid #fff; border-width: 0 2px 2px 0; transform: rotate(45deg); }
+    #DestroyConfigPage .dsTabHeaderRow { display: flex; justify-content: space-between; align-items: center; }
+    #DestroyConfigPage .dsTabHeaderRow h3 { margin: 0; }
+    #DestroyConfigPage .dsActionBtn { display: inline-block !important; box-sizing: border-box !important; padding: 0 !important; font-size: 12px !important;
+        font-weight: normal !important; font-family: inherit !important; border: 1px solid rgba(255,255,255,0.25) !important; border-radius: 3px !important;
+        background: rgba(255,255,255,0.08) !important; color: #eee !important; cursor: pointer !important; width: 112px !important; height: 29px !important;
+        line-height: 27px !important; text-align: center !important; margin: 0 !important; }
+    #DestroyConfigPage .dsActionBtn:hover { background: rgba(255,255,255,0.18) !important; }
+    #DestroyConfigPage button.dsAccentBtn { background: #00a4dc; border-color: #00a4dc; color: #fff; }
+    #DestroyConfigPage button.dsAccentBtn:hover { background: #0090c2; }
+    #DestroyConfigPage .dsExportImportBox { max-width: 54em; margin: 20px 0 0; padding: 16px 0 0; border-top: 1px solid rgba(255,255,255,0.15); }
+    #DestroyConfigPage .dsIeHeading { margin: 0 0 10px; font-size: 14px; font-weight: 500; }
+    #DestroyConfigPage .dsCodeArea { display: block; width: 100%; height: 70px; background: #1c1c1c; border: 1px solid #333; border-radius: 4px; color: #ccc;
+        font-family: monospace; font-size: 11px; line-height: 1.4; padding: 8px; box-sizing: border-box; resize: vertical; margin-bottom: 10px; }
+    #DestroyConfigPage .dsCodeArea:focus { outline: none; border-color: #00a4dc; }
+    #DestroyConfigPage .dsIeButtonRow { display: flex; gap: 8px; width: 100%; flex-wrap: wrap; }
+    #DestroyConfigPage .dsIeButtonRow button { flex: 1; min-width: 120px; font-size: 12.5px; padding: 8px 4px; }
+    #DestroyConfigPage .dsIeButtonRow .dsIeBtnCopy { background: #2a2a2a; color: #ddd; }
+    #DestroyConfigPage .dsIeButtonRow .dsIeBtnCopy:disabled { opacity: .5; cursor: default; }
+    #DestroyConfigPage .dsIeBtnImport { background: #3a1f1f !important; border: 1px solid #6b3535 !important; color: #e0a0a0 !important; }
+    #DestroyConfigPage .dsIeStatus { font-size: 10.5px; min-height: 14px; margin-top: 8px; }
+    #DestroyConfigPage .dsIeStatus.dsIeSuccess { color: #6dcf6d; }
+    #DestroyConfigPage .dsIeStatus.dsIeError { color: #e07a7a; }
+    #DestroyConfigPage .dsHeroDropdown { position: relative; display: inline-block; max-width: 320px; width: 100%; }
+    #DestroyConfigPage .dsHeroBtn { display: inline-flex; align-items: center; justify-content: space-between; text-align: left; cursor: pointer; }
+    #DestroyConfigPage .dsHeroChevron { margin-left: 8px; font-size: 11px; opacity: .8; }
+    #DestroyConfigPage .dsHeroPanel { position: absolute; left: 0; top: 100%; z-index: 40; min-width: 320px; max-height: 340px; overflow-y: auto; background: #202020;
+        border: 1px solid rgba(255,255,255,.18); border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,.6); padding: 6px; box-sizing: border-box; }
+    #DestroyConfigPage .dsHeroGroup { font-size: 10.5px; color: #777; padding: 6px 6px 2px; border-top: 1px solid rgba(255,255,255,.08); }
+    #DestroyConfigPage .dsHeroItem { display: block; width: 100%; text-align: left; background: none; border: 0; color: #ddd; font: inherit; font-size: 13px; padding: 4px 6px 4px 14px; border-radius: 3px; cursor: pointer; }
+    #DestroyConfigPage .dsHeroItem:hover, #DestroyConfigPage .dsHeroItem:focus { background: rgba(255,255,255,.08); outline: none; }
+    #DestroyConfigPage .dsHeroItem.dsHeroOn { color: #00a4dc; }
+    #DestroyConfigPage .dsHeroItem.dsHeroAuto { padding-left: 6px; font-weight: 500; }
+    #DestroyConfigPage .dsHeroPreview { position: fixed; z-index: 41; pointer-events: none; box-sizing: border-box; padding: 12px; background: rgba(10,10,10,.92);
+        border: 1px solid rgba(255,255,255,.18); border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,.6); flex-direction: column; align-items: center; width: 276px; }
+    #DestroyConfigPage .dsHeroPreview canvas { width: 250px; height: 170px; image-rendering: pixelated; }
+    #DestroyConfigPage .dsHeroPName { font-size: 14px; color: #fff; font-weight: 500; margin-top: 6px; text-align: center; }
+    #DestroyConfigPage .dsHeroPInfo { font-size: 10.5px; color: #999; text-align: center; margin-top: 2px; }
+    #DestroyConfigPage .content-primary { container-type: inline-size; container-name: dspage; }
+    @container dspage (max-width: 803.98px) {
+        #DestroyConfigPage .dsRow { grid-template-columns: minmax(0, 1fr); row-gap: 4px; padding: 6px 0; }
+        #DestroyConfigPage .dsRow.dsRowCheckbox { height: auto; }
+        #DestroyConfigPage .dsRow.dsRowCheckbox > .checkboxContainer { grid-column: 1 !important; }
+        #DestroyConfigPage .dsRowLabelSpan { grid-column: 1; grid-row: 1; }
+        #DestroyConfigPage .dsRowMerged > select,
+        #DestroyConfigPage .dsRowMerged > input,
+        #DestroyConfigPage .dsRowMerged > div:not(.dsDesc) { grid-row: 2 !important; grid-column: 1 !important; }
+        #DestroyConfigPage .dsRowMerged .dsDesc { grid-row: 3; }
+        #DestroyConfigPage .dsDesc, #DestroyConfigPage .dsMasterMsg { padding-left: 0; }
+        #DestroyConfigPage .emby-checkbox-label { height: auto !important; min-height: 30px; align-items: flex-start; }
+        #DestroyConfigPage .emby-checkbox-label input[type=checkbox] { margin-top: 2px; }
+        #DestroyConfigPage .dsTabHeaderRow { flex-wrap: wrap; gap: 6px; }
+    }
+</style>
+<form id="DestroyConfigForm">
+    <h2>Destroy</h2>
+
+    <div class="dsTabHeaderRow"><h3>Settings</h3><button type="button" is="emby-button" class="raised dsActionBtn emby-button" id="dsRestoreBtn">Restore defaults</button></div>
+    <div class="dsTabDescArea"><div class="dsDesc">Destroy turns the page a user is looking at into a playground: run, jump and shoot it apart, the real page is never touched.</div></div>
+
+    <div class="dsRow dsRowCheckbox"><label for="Enabled">Enable Destroy</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="Enabled" name="Enabled" type="checkbox"><span class="dsDescInline">Turns the game on for every user; when off, the plugin stays installed but does nothing.</span></label></div></div>
+    <div class="dsIeStatus dsMasterMsg" id="dsMasterMsg"></div>
+
+    <div id="dsDependents">
+    <div class="dsSubheading">Start</div>
+    <div class="dsRow dsRowCheckbox"><label for="ShowPlayButton">Show Play Button</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="ShowPlayButton" name="ShowPlayButton" type="checkbox"><span class="dsDescInline">Shows the Destroy button in the Jellyfin header that starts the game.</span></label></div></div>
+    <div class="dsRow dsRowCheckbox"><label for="ShortcutEnabled">Enable Start Shortcut</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="ShortcutEnabled" name="ShortcutEnabled" type="checkbox"><span class="dsDescInline">Lets users start the game with a keyboard shortcut.</span></label></div></div>
+    <div class="dsRow dsRowMerged" id="dsShortcutRow"><label class="dsRowLabelSpan" for="Shortcut">Start Shortcut</label>
+        <input id="Shortcut" name="Shortcut" type="button" class="dsShortcutField" value="Alt+Shift+D">
+        <div class="dsDesc dsShortcutMsg" id="dsShortcutMsg">Click the field and press the new keys; anything the browser or Jellyfin already uses is refused.</div></div>
+
+    <div class="dsSubheading">Controller</div>
+    <div class="dsRow dsRowCheckbox"><label for="ControllerEnabled">Enable Controller</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="ControllerEnabled" name="ControllerEnabled" type="checkbox"><span class="dsDescInline">When a controller is used, it steers the game and the on-screen hints show controller buttons instead of keys.</span></label></div></div>
+    <div class="dsRow dsRowCheckbox" id="dsPadStartRow"><label for="ControllerStart">Controller Start (View + Menu)</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="ControllerStart" name="ControllerStart" type="checkbox"><span class="dsDescInline">Pressing View and Menu together starts the game, so it can be played without a keyboard.</span></label></div></div>
+
+    <div class="dsSubheading">Sound</div>
+    <div class="dsRow dsRowCheckbox"><label for="StartMuted">Start Muted</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="StartMuted" name="StartMuted" type="checkbox"><span class="dsDescInline">The game starts with the sound off; players switch it on and off with M.</span></label></div></div>
+
+    <div class="dsSubheading">Game</div>
+    <div class="dsRow dsRowMerged" id="dsHeroRow"><span class="dsRowLabelSpan">Hero</span>
+        <div class="dsHeroDropdown" id="dsHeroDropdown">
+            <button type="button" class="emby-select-withcolor emby-select dsSelectCompact dsHeroBtn" id="dsHeroBtn" aria-haspopup="listbox" aria-expanded="false"><span id="dsHeroLabel">Automatic</span><span class="dsHeroChevron">&#9662;</span></button>
+            <input type="text" id="Hero" name="Hero" style="display:none;">
+            <div class="dsHeroPanel" id="dsHeroPanel" style="display:none;">
+                <div class="dsHeroList" id="dsHeroList" role="listbox"></div>
+            </div>
+            <div class="dsHeroPreview" id="dsHeroPreview" style="display:none;"><canvas id="dsHeroCanvas" width="250" height="170"></canvas>
+                <div class="dsHeroPName" id="dsHeroPName"></div><div class="dsHeroPInfo" id="dsHeroPInfo"></div></div>
+        </div>
+        <div class="dsDesc">Automatic picks the hero that fits the film or series on screen, or a random one where none fits; any other choice always starts with that hero.</div></div>
+    <div class="dsRow dsRowMerged"><label class="dsRowLabelSpan" for="EffectQuality">Effect Quality</label>
+        <select id="EffectQuality" name="EffectQuality" is="emby-select" class="emby-select-withcolor emby-select dsSelectCompact">
+            <option value="auto">Automatic</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+        <div class="dsDesc">How many sparks, smoke and debris are drawn; Automatic lowers them on slower computers.</div></div>
+    <div class="dsRow dsRowCheckbox"><label for="ShowOneLiners">Show One-Liners</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="ShowOneLiners" name="ShowOneLiners" type="checkbox"><span class="dsDescInline">Shows the funny pop-up lines about films, actors and the page while it is being destroyed.</span></label></div></div>
+    <div class="dsRow dsRowCheckbox"><label for="AllowPersonalSettings">Allow Personal Settings</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="AllowPersonalSettings" name="AllowPersonalSettings" type="checkbox"><span class="dsDescInline">Lets each user change shortcut, hero, effect quality and one-liners for their own browser in the game's menu.</span></label></div></div>
+    <div class="dsSubheading">Diagnostics</div>
+    <div class="dsRow dsRowCheckbox"><label for="RecordDiagnostics">Record Diagnostics</label>
+        <div class="checkboxContainer"><label class="emby-checkbox-label"><input id="RecordDiagnostics" name="RecordDiagnostics" type="checkbox"><span class="dsDescInline">Records what happens in the game, problems and performance, into the folder destroy-diagnostics in the server's data folder.</span></label></div></div>
+    </div>
+
+    <div class="dsExportImportBox">
+        <h3 class="dsIeHeading">Backup / restore via code</h3>
+        <textarea id="dsCodeBox" class="dsCodeArea" placeholder="Click &quot;Generate&quot; to create a backup code, or paste a previously saved one here to restore it."></textarea>
+        <div class="dsIeButtonRow">
+            <button type="button" is="emby-button" id="dsGenerateBtn" class="block emby-button dsAccentBtn">Generate</button>
+            <button type="button" is="emby-button" id="dsCopyBtn" class="block emby-button dsIeBtnCopy" disabled>Copy to clipboard</button>
+            <button type="button" is="emby-button" id="dsImportBtn" class="block emby-button dsIeBtnImport">Import</button>
+            <button type="button" is="emby-button" id="dsSaveAllBtn" class="block emby-button dsAccentBtn">Save all settings</button>
+        </div>
+        <div id="dsIeStatus" class="dsIeStatus"></div>
+    </div>
+
+    <div style="margin-top: 10px;">
+        <button is="emby-button" type="submit" class="raised button-submit block emby-button dsAccentBtn"><span>Save</span></button>
+    </div>
+    <div class="dsDesc" style="margin-top: 1.5em;">Quotes are taken from public sources, mainly English Wikiquote (CC BY-SA 4.0). Film, series and cast data come from TMDb and Wikidata; this product uses the TMDB API but is not endorsed or certified by TMDB. Titles, characters and quotes belong to their respective owners.</div>
+</form>
+</div></div>
+
+<script type="text/javascript">
+(function () {
+    var DestroyConfig = { pluginUniqueId: '9332385a-9eeb-4410-a224-b699c4e3098b' };
+    var page = document.querySelector('#DestroyConfigPage:not([data-ds-wired])') || document.querySelector('#DestroyConfigPage');
+    page.setAttribute('data-ds-wired', '1');
+    var DS_FIELDS = {
+        Enabled: { type: 'checkbox', def: true },
+        ShowPlayButton: { type: 'checkbox', def: true },
+        ShortcutEnabled: { type: 'checkbox', def: true },
+        Shortcut: { type: 'shortcut', def: 'Alt+Shift+D' },
+        ControllerEnabled: { type: 'checkbox', def: true },
+        ControllerStart: { type: 'checkbox', def: true },
+        StartMuted: { type: 'checkbox', def: true },
+        Hero: { type: 'hero', def: 'auto' },
+        EffectQuality: { type: 'select', def: 'auto' },
+        ShowOneLiners: { type: 'checkbox', def: true },
+        AllowPersonalSettings: { type: 'checkbox', def: true },
+        RecordDiagnostics: { type: 'checkbox', def: false }
+    };
+    var $ = function (id) { return page.querySelector('#' + id); };
+    function setField(id, v) { var el = $(id), t = DS_FIELDS[id].type; if (t === 'checkbox') el.checked = !!v; else el.value = v; if (t === 'shortcut') el.dataset.v = v; if (t === 'hero') heroLabel(v); }
+    function getField(id) { var el = $(id), t = DS_FIELDS[id].type; return t === 'checkbox' ? el.checked : el.value; }
+    function restore() { Object.keys(DS_FIELDS).forEach(function (k) { setField(k, DS_FIELDS[k].def); }); masterMsg(); shortcutMsg(); deps(); }
+
+    function startWays() { return getField('ShowPlayButton') || getField('ShortcutEnabled') || (getField('ControllerEnabled') && getField('ControllerStart')); }
+    function fade(el, off) {
+        el.classList.toggle('dsFieldDisabled', off);
+        el.querySelectorAll('input,select,button').forEach(function (c) { c.dataset['off' + el.id] = off ? '1' : ''; c.disabled = Object.keys(c.dataset).some(function (k) { return /^off/.test(k) && c.dataset[k]; }); });
+    }
+    function deps() {
+        fade($('dsDependents'), !getField('Enabled'));
+        fade($('dsShortcutRow'), !getField('ShortcutEnabled'));
+        fade($('dsPadStartRow'), !getField('ControllerEnabled'));
+    }
+    function masterMsg(t, ok) { var m = $('dsMasterMsg'); m.textContent = t || ''; m.className = 'dsIeStatus dsMasterMsg' + (t ? (ok ? ' dsIeSuccess' : ' dsIeError') : ''); }
+    ['ShowPlayButton', 'ShortcutEnabled', 'ControllerEnabled', 'ControllerStart'].forEach(function (id) {
+        $(id).addEventListener('change', function () {
+            if (!startWays() && getField('Enabled')) { setField('Enabled', false); masterMsg('No way to start the game is left, so Destroy is off.', false); }
+            deps();
+        });
+    });
+    $('Enabled').addEventListener('change', function () {
+        masterMsg();
+        if (getField('Enabled') && !startWays()) { setField('ShowPlayButton', true); masterMsg('Show Play Button was switched back on, so the game can be started.', true); }
+        deps();
+    });
+
+    var DEFAULT_MSG = 'Click the field and press the new keys; anything the browser or Jellyfin already uses is refused.';
+    function shortcutMsg(text, cls) { var m = $('dsShortcutMsg'); m.textContent = text || DEFAULT_MSG; m.className = 'dsDesc dsShortcutMsg' + (cls ? ' ' + cls : ''); }
+    function comboText(s) {
+        var k = /^Key[A-Z]$/.test(s.code) ? s.code.slice(3) : /^Digit\d$/.test(s.code) ? s.code.slice(5) : s.code;
+        return (s.ctrl ? 'Ctrl+' : '') + (s.alt ? 'Alt+' : '') + (s.shift ? 'Shift+' : '') + (s.meta ? 'Win+' : '') + k;
+    }
+    function shortcutApi() { return window.DestroyJellyfin && window.DestroyJellyfin.shortcut; }
+    var listening = false, field = $('Shortcut');
+    function stopListening() { listening = false; field.classList.remove('dsListening'); field.value = field.dataset.v || DS_FIELDS.Shortcut.def; }
+    field.addEventListener('click', function () {
+        if (!shortcutApi()) { shortcutMsg('The Destroy script is not loaded in this tab yet - reload the page.', 'dsIeError'); return; }
+        listening = true; field.classList.add('dsListening'); field.value = 'Press keys...'; shortcutMsg('Press the new combination now; Esc cancels.');
+    });
+    field.addEventListener('blur', function () { if (listening) { stopListening(); shortcutMsg(); } });
+    field.addEventListener('keydown', function (e) {
+        if (!listening) return;
+        e.preventDefault(); e.stopPropagation();
+        if (e.code === 'Escape') { stopListening(); shortcutMsg(); return; }
+        var api = shortcutApi(), s = api.fromEvent(e);
+        if (/^(Control|Shift|Alt|Meta|OS|AltGraph)/.test(e.code)) return;
+        var why = api.check(s, e);
+        if (why) { stopListening(); shortcutMsg(why, 'dsIeError'); return; }
+        field.dataset.v = comboText(s); stopListening();
+        shortcutMsg(api.label(s) + ' is free and will start the game.', 'dsIeSuccess');
+    });
+    function validShortcut(v) {
+        var api = shortcutApi(), s = api && api.parse(String(v || ''));
+        return !!api && !!s && !api.check(s);
+    }
+
+    var SHEET = null, sheetImg = new Image(), animId = 0, animHero = null;
+    function heroLabel(v) { var h = SHEET && SHEET.heroes.find(function (x) { return x.id === v; }); $('dsHeroLabel').textContent = v === 'auto' || !h ? 'Automatic' : h.name; }
+    function buildList() {
+        var list = $('dsHeroList'), cur = $('Hero').value; list.innerHTML = '';
+        var add = function (id, text, cls) { var b = document.createElement('button'); b.type = 'button'; b.className = 'dsHeroItem' + (cls ? ' ' + cls : '') + (id === cur ? ' dsHeroOn' : ''); b.dataset.id = id; b.textContent = text; list.appendChild(b); };
+        add('auto', 'Automatic', 'dsHeroAuto');
+        var groups = {};
+        if (SHEET) SHEET.heroes.forEach(function (h) { (groups[h.franchise] = groups[h.franchise] || []).push(h); });
+        Object.keys(groups).sort(function (a, b) { return a.localeCompare(b); }).forEach(function (g) {
+            var d = document.createElement('div'); d.className = 'dsHeroGroup'; d.textContent = g; list.appendChild(d);
+            groups[g].sort(function (a, b) { return a.name.localeCompare(b.name); }).forEach(function (h) { add(h.id, h.name); });
+        });
+    }
+    function hidePreview() { $('dsHeroPreview').style.display = 'none'; animHero = null; cancelAnimationFrame(animId); }
+    function setOpen(open) {
+        $('dsHeroPanel').style.display = open ? 'block' : 'none'; $('dsHeroBtn').setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) { buildList(); var on = $('dsHeroList').querySelector('.dsHeroOn'); if (on) on.scrollIntoView({ block: 'center' }); } else hidePreview();
+    }
+    function showPreview(h, anchor) {
+        var pv = $('dsHeroPreview'); animHero = h;
+        $('dsHeroPName').textContent = h.name; $('dsHeroPInfo').textContent = h.franchise + ' - ' + h.weapon;
+        pv.style.display = 'flex';
+        var list = $('dsHeroPanel').getBoundingClientRect(), w = pv.offsetWidth, ht = pv.offsetHeight, x = list.right + 10;
+        if (x + w > window.innerWidth - 8) x = Math.max(8, list.left - w - 10);
+        var r = anchor.getBoundingClientRect(), y = Math.min(Math.max(8, r.top - ht / 2 + r.height / 2), window.innerHeight - ht - 8);
+        pv.style.left = x + 'px'; pv.style.top = y + 'px';
+        cancelAnimationFrame(animId); var t0 = performance.now();
+        (function draw(now) {
+            if (animHero !== h) return;
+            var g = $('dsHeroCanvas').getContext('2d'), f = 1 + (Math.floor((now - t0) / 100) % 8);
+            g.imageSmoothingEnabled = false; g.clearRect(0, 0, 250, 170);
+            g.drawImage(sheetImg, f * SHEET.cw, h.row * SHEET.ch, SHEET.cw, SHEET.ch, 0, 0, 250, 170);
+            animId = requestAnimationFrame(draw);
+        })(t0);
+    }
+    $('dsHeroBtn').addEventListener('click', function () { setOpen($('dsHeroPanel').style.display === 'none'); });
+    $('dsHeroList').addEventListener('mouseover', function (e) {
+        var b = e.target.closest('.dsHeroItem'); if (!b) return;
+        var h = SHEET && SHEET.heroes.find(function (x) { return x.id === b.dataset.id; });
+        if (h) showPreview(h, b); else hidePreview();
+    });
+    $('dsHeroList').addEventListener('mouseleave', hidePreview);
+    $('dsHeroList').addEventListener('click', function (e) { var b = e.target.closest('.dsHeroItem'); if (!b) return; setField('Hero', b.dataset.id); setOpen(false); $('dsHeroBtn').focus(); });
+    page.addEventListener('mousedown', function (e) { if ($('dsHeroPanel').style.display !== 'none' && !$('dsHeroDropdown').contains(e.target)) setOpen(false); });
+    page.addEventListener('keydown', function (e) { if (e.key === 'Escape' && $('dsHeroPanel').style.display !== 'none') { setOpen(false); $('dsHeroBtn').focus(); } });
+    function authFetch(path) {
+        return fetch(ApiClient.getUrl(path), { headers: { Authorization: 'MediaBrowser Token="' + ApiClient.accessToken() + '"' } })
+            .then(function (r) { if (!r.ok) throw new Error(r.status); return r; });
+    }
+    if (!window.__dsHeroSheet) {
+        window.__dsHeroSheet = authFetch('Destroy/heroes/sheet.json').then(function (r) { return r.json(); }).then(function (j) {
+            return authFetch('Destroy/heroes/sheet.png').then(function (r) { return r.blob(); }).then(function (b) { return { json: j, url: URL.createObjectURL(b) }; });
+        });
+        window.__dsHeroSheet.catch(function () { window.__dsHeroSheet = null; });
+    }
+    window.__dsHeroSheet.then(function (sh) { SHEET = sh.json; sheetImg.src = sh.url; heroLabel($('Hero').value); })
+        .catch(function () { });
+    function status(t, ok) { var s = $('dsIeStatus'); s.textContent = t; s.className = 'dsIeStatus ' + (ok ? 'dsIeSuccess' : 'dsIeError'); }
+    $('dsGenerateBtn').addEventListener('click', function () {
+        var o = {}; Object.keys(DS_FIELDS).forEach(function (k) { o[k] = getField(k); });
+        $('dsCodeBox').value = btoa(unescape(encodeURIComponent(JSON.stringify(o)))); $('dsCopyBtn').disabled = false; status('Backup code generated.', true);
+    });
+    $('dsCopyBtn').addEventListener('click', function () {
+        var box = $('dsCodeBox'), text = box.value; box.focus(); box.select();
+        var legacy = function () { var ok = false; try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+            if (ok) status('Copied to clipboard.', true); else status('Copying is blocked here - the code is selected, press Ctrl+C.', false); };
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(function () { status('Copied to clipboard.', true); }, legacy);
+        else legacy();
+    });
+    function validValue(k, v) {
+        var t = DS_FIELDS[k].type;
+        if (t === 'checkbox') return typeof v === 'boolean';
+        if (t === 'select') return [].some.call($(k).options, function (o) { return o.value === v; });
+        if (t === 'hero') return v === 'auto' || (!!SHEET && SHEET.heroes.some(function (h) { return h.id === v; }));
+        if (t === 'shortcut') return validShortcut(v);
+        return false;
+    }
+    function masterCheck() {
+        if (getField('Enabled') && !startWays()) { setField('Enabled', false); masterMsg('No way to start the game is left, so Destroy is off.', false); }
+    }
+    $('dsImportBtn').addEventListener('click', function () {
+        var o; try { o = JSON.parse(decodeURIComponent(escape(atob($('dsCodeBox').value.trim())))); } catch (e) { o = null; }
+        if (!o || typeof o !== 'object') { status('This is not a valid backup code.', false); return; }
+        var n = 0, bad = [];
+        Object.keys(o).forEach(function (k) { if (!DS_FIELDS[k]) return; if (validValue(k, o[k])) { setField(k, o[k]); n++; } else bad.push(k); });
+        masterMsg(); masterCheck(); deps();
+        if (bad.length) status('Applied ' + n + ' settings; not allowed, kept as they were: ' + bad.join(', ') + '. Click Save to keep them.', false);
+        else status('Applied ' + n + ' settings. Click Save to keep them.', true);
+    });
+    $('dsSaveAllBtn').addEventListener('click', function () { $('DestroyConfigForm').requestSubmit(); });
+    $('dsRestoreBtn').addEventListener('click', restore);
+    function load() {
+        stopListening();
+        Dashboard.showLoadingMsg();
+        ApiClient.getPluginConfiguration(DestroyConfig.pluginUniqueId).then(function (config) {
+            Object.keys(DS_FIELDS).forEach(function (k) { setField(k, config[k] === undefined || config[k] === null ? DS_FIELDS[k].def : config[k]); });
+            masterMsg(); shortcutMsg(); masterCheck(); deps();
+            Dashboard.hideLoadingMsg();
+        }).catch(function () { Dashboard.hideLoadingMsg(); Dashboard.alert('Loading the settings failed.'); });
+    }
+    page.addEventListener('pageshow', load);
+    function cleanUp() { setOpen(false); hidePreview(); if (listening) { stopListening(); shortcutMsg(); } }
+    page.addEventListener('viewhide', cleanUp);
+    page.addEventListener('pagehide', cleanUp);
+    $('DestroyConfigForm').addEventListener('submit', function (e) {
+        e.preventDefault();
+        Dashboard.showLoadingMsg();
+        ApiClient.getPluginConfiguration(DestroyConfig.pluginUniqueId).then(function (config) {
+            Object.keys(DS_FIELDS).forEach(function (k) { config[k] = k === 'Shortcut' ? (field.dataset.v || DS_FIELDS.Shortcut.def) : getField(k); });
+            return ApiClient.updatePluginConfiguration(DestroyConfig.pluginUniqueId, config);
+        }).then(function (result) { Dashboard.processPluginConfigurationUpdateResult(result); })
+          .catch(function () { Dashboard.hideLoadingMsg(); Dashboard.alert('Saving the settings failed.'); });
+        return false;
+    });
+
+})();
+</script>
+</div>
+</body>
+</html>

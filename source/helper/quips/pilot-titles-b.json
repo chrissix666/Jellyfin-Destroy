@@ -1,0 +1,1261 @@
+[
+ {
+  "need": [
+   "id:m278"
+  ],
+  "w": 4,
+  "t": [
+   "Behind this poster: a tunnel. Andy says hi.",
+   "Hope is a good thing. This card was not.",
+   "Nineteen years with a rock hammer. One shot with {weapon}.",
+   "Crawled through 500 yards of [muck|rubble]. Card didn't."
+  ],
+  "src": "wikiquote:The_Shawshank_Redemption",
+  "tier": "core",
+  "ids": {
+   "tmdb": "278",
+   "imdb": "tt0111161"
+  }
+ },
+ {
+  "need": [
+   "who:timrobbins",
+   "char:andydufresne"
+  ],
+  "w": 5,
+  "t": [
+   "Andy Dufresne escaped Shawshank. Not {weapon}.",
+   "No more Mozart over the yard speakers"
+  ],
+  "src": "wikiquote:The_Shawshank_Redemption",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m238"
+  ],
+  "w": 4,
+  "t": [
+   "An offer it couldn't refuse: {weapon}",
+   "Leave the card. Take the cannoli.",
+   "It's not personal. It's strictly {weapon}.",
+   "Found a horse head in bed. Found a hole on the page."
+  ],
+  "src": "wikiquote:The_Godfather",
+  "tier": "core",
+  "ids": {
+   "tmdb": "238",
+   "imdb": "tt0068646",
+   "coll": "230"
+  }
+ },
+ {
+  "need": [
+   "who:alpacino",
+   "char:michaelcorleone"
+  ],
+  "w": 5,
+  "t": [
+   "Gun behind the toilet tank? {hero} carries {weapon}.",
+   "Michael settled family business. {hero} settled this."
+  ],
+  "src": "wikipedia:The_Godfather",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m240"
+  ],
+  "w": 4,
+  "t": [
+   "\"I know it was you, {hero}. You broke my card.\"",
+   "Keep your friends close and your posters closer",
+   "200 minutes of Corleone. Zero left.",
+   "Two Vitos, two eras, one {weapon}"
+  ],
+  "src": "wikipedia:The_Godfather_Part_II",
+  "tier": "core",
+  "ids": {
+   "tmdb": "240",
+   "imdb": "tt0071562",
+   "coll": "230"
+  }
+ },
+ {
+  "need": [
+   "who:robertdeniro",
+   "char:vitocorleone"
+  ],
+  "w": 5,
+  "t": [
+   "Young Vito spoke Sicilian. {weapon} speaks for itself."
+  ],
+  "src": "wikipedia:The_Godfather_Part_II",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m155"
+  ],
+  "w": 4,
+  "t": [
+   "Some men just want to watch the card burn",
+   "Wanna know how I got these holes?",
+   "How about a magic trick? I make this card disappear.",
+   "You either die a hero or live long enough to get shot"
+  ],
+  "src": "wikiquote:The_Dark_Knight_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "155",
+   "imdb": "tt0468569",
+   "coll": "263"
+  }
+ },
+ {
+  "need": [
+   "who:christianbale",
+   "char:brucewayne"
+  ],
+  "w": 5,
+  "t": [
+   "Batman has one rule. {hero} has {weapon}.",
+   "The Batpod is parked. Permanently."
+  ],
+  "src": "wikipedia:The_Dark_Knight",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m389"
+  ],
+  "w": 4,
+  "t": [
+   "Twelve jurors. One verdict: shot.",
+   "Juror 8 voted not guilty. {weapon} voted guilty.",
+   "The switchblade wasn't unique. Neither was this card.",
+   "Reasonable doubt? Not about this hole."
+  ],
+  "src": "wikipedia:12_Angry_Men_(1957_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "389",
+   "imdb": "tt0050083"
+  }
+ },
+ {
+  "need": [
+   "id:m424"
+  ],
+  "w": 4,
+  "t": [
+   "Even {hero} holds fire for this one",
+   "Seven Oscars, Best Picture. A moment of respect.",
+   "Spielberg's masterpiece stays. Only the card is gone."
+  ],
+  "src": "wikipedia:Schindler's_List",
+  "tier": "core",
+  "ids": {
+   "tmdb": "424",
+   "imdb": "tt0108052"
+  }
+ },
+ {
+  "need": [
+   "id:m122"
+  ],
+  "w": 4,
+  "t": [
+   "Eleven Oscars. One {weapon}.",
+   "\"I can't carry it for you... but I can shoot it!\"",
+   "The beacons are lit! Gondor calls for {weapon}!",
+   "I am no man! ...and this is no card anymore",
+   "Mount Doom? Card doom."
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Return_of_the_King",
+  "tier": "core",
+  "ids": {
+   "tmdb": "122",
+   "imdb": "tt0167260",
+   "coll": "119"
+  }
+ },
+ {
+  "need": [
+   "who:seanastin",
+   "char:sam"
+  ],
+  "w": 5,
+  "t": [
+   "Po-tay-toes! Boil 'em, mash 'em, shoot 'em",
+   "Sam carried Frodo. Nobody carried this card."
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Two_Towers",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m680"
+  ],
+  "w": 4,
+  "t": [
+   "What's in the briefcase? Not this card.",
+   "Royale with Cheese. Card with holes.",
+   "Zed's dead, baby. Card's dead.",
+   "The Wolf solves problems. {hero} creates them.",
+   "Twist contest trophy: shot off the shelf"
+  ],
+  "src": "wikiquote:Pulp_Fiction",
+  "tier": "core",
+  "ids": {
+   "tmdb": "680",
+   "imdb": "tt0110912"
+  }
+ },
+ {
+  "need": [
+   "who:samuelljackson",
+   "char:juleswinnfield"
+  ],
+  "w": 5,
+  "t": [
+   "Jules wanted to walk the earth. The card can't walk.",
+   "Mmm-mm. That is a tasty card!"
+  ],
+  "src": "wikiquote:Pulp_Fiction",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m429"
+  ],
+  "w": 4,
+  "t": [
+   "When you have to shoot, shoot. {hero} didn't talk.",
+   "Two kinds of cards, my friend: shot and next",
+   "Sad Hill Cemetery: one more grave",
+   "Three-way duel. The card lost."
+  ],
+  "src": "wikiquote:The_Good,_the_Bad_and_the_Ugly",
+  "tier": "core",
+  "ids": {
+   "tmdb": "429",
+   "imdb": "tt0060196",
+   "coll": "48317"
+  }
+ },
+ {
+  "need": [
+   "who:clinteastwood",
+   "char:blondie"
+  ],
+  "w": 5,
+  "t": [
+   "Blondie shot the rope. {hero} shot the card.",
+   "Blondie's poncho has a hole now"
+  ],
+  "src": "wikipedia:The_Good,_the_Bad_and_the_Ugly",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m550"
+  ],
+  "w": 4,
+  "t": [
+   "The things you own end up owning you. Not this card.",
+   "Space monkey reporting: card destroyed",
+   "Project Mayhem, card division",
+   "Lost everything? Now free to shoot anything."
+  ],
+  "src": "wikiquote:Fight_Club_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "550",
+   "imdb": "tt0137523"
+  }
+ },
+ {
+  "need": [
+   "who:bradpitt",
+   "char:tylerdurden"
+  ],
+  "w": 5,
+  "t": [
+   "You are not your card. Not anymore.",
+   "Tyler spliced a single frame into this card",
+   "Tyler sold soap. {hero} sells holes."
+  ],
+  "src": "wikiquote:Fight_Club_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m13"
+  ],
+  "w": 4,
+  "t": [
+   "Stupid is as {weapon} does",
+   "Ran across America for three years. {weapon} caught up.",
+   "Bubba Gump Shrimp: closed",
+   "A feather on the wind, a card in the bin"
+  ],
+  "src": "wikiquote:Forrest_Gump",
+  "tier": "core",
+  "ids": {
+   "tmdb": "13",
+   "imdb": "tt0109830"
+  }
+ },
+ {
+  "need": [
+   "who:tomhanks",
+   "char:forrestgump"
+  ],
+  "w": 5,
+  "t": [
+   "Mama always said: duck when {hero} shows up"
+  ],
+  "src": "wikiquote:Forrest_Gump",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m27205"
+  ],
+  "w": 4,
+  "t": [
+   "We need to go deeper. Into the rubble.",
+   "The top keeps spinning. The card does not.",
+   "The Penrose stairs lead straight to the bin",
+   "A dream within a dream within a crater",
+   "Kick! ...the card never woke up"
+  ],
+  "src": "wikipedia:Inception",
+  "tier": "core",
+  "ids": {
+   "tmdb": "27205",
+   "imdb": "tt1375666"
+  }
+ },
+ {
+  "need": [
+   "who:tomhardy",
+   "char:eames"
+  ],
+  "w": 5,
+  "t": [
+   "You mustn't be afraid to shoot a little bigger, darling"
+  ],
+  "src": "wikiquote:Inception",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m121"
+  ],
+  "w": 4,
+  "t": [
+   "The battle of Helm's Deep is over. The card is too.",
+   "The Ents marched on Isengard. {hero} marched on this.",
+   "Helm's Deep held. This card didn't.",
+   "Look to my coming at first light. Card: gone by dawn."
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Two_Towers",
+  "tier": "core",
+  "ids": {
+   "tmdb": "121",
+   "imdb": "tt0167261",
+   "coll": "119"
+  }
+ },
+ {
+  "need": [
+   "who:andyserkis",
+   "char:gollum"
+  ],
+  "w": 5,
+  "t": [
+   "Smeagol wants it. {hero} shot it.",
+   "Gollum, gollum... gone, gone"
+  ],
+  "src": "wikipedia:Gollum",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m510"
+  ],
+  "w": 4,
+  "t": [
+   "Won all five big Oscars. Lost one card.",
+   "World Series on a blank TV. Card on a blank page.",
+   "\"But I tried, didn't I?\" - the card, before {weapon}",
+   "The Chief broke out through the window. Card can't."
+  ],
+  "src": "wikipedia:One_Flew_Over_the_Cuckoo's_Nest_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "510",
+   "imdb": "tt0073486"
+  }
+ },
+ {
+  "need": [
+   "who:jacknicholson",
+   "char:randlepatrickmcmurphy"
+  ],
+  "w": 5,
+  "t": [
+   "McMurphy took the bus fishing. The card took a bullet."
+  ],
+  "src": "wikipedia:One_Flew_Over_the_Cuckoo's_Nest_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m769"
+  ],
+  "w": 4,
+  "t": [
+   "As far back as I can remember, I wanted to shoot cards",
+   "The Copacabana long take: cut short",
+   "Jimmy said don't buy anything. The card bought a bullet.",
+   "Paulie sliced garlic with a razor. {hero} sliced this."
+  ],
+  "src": "wikiquote:Goodfellas",
+  "tier": "core",
+  "ids": {
+   "tmdb": "769",
+   "imdb": "tt0099685"
+  }
+ },
+ {
+  "need": [
+   "who:robertdeniro",
+   "char:jamesconway"
+  ],
+  "w": 5,
+  "t": [
+   "Jimmy Conway tipped everybody. {hero} tipped {weapon}."
+  ],
+  "src": "wikipedia:Goodfellas",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m346"
+  ],
+  "w": 4,
+  "t": [
+   "Seven samurai couldn't guard this card",
+   "Hired for rice. Fired by {weapon}.",
+   "The farmers won. Not us. Not the card either.",
+   "Kurosawa's epic: one card shorter"
+  ],
+  "src": "wikipedia:Seven_Samurai",
+  "tier": "core",
+  "ids": {
+   "tmdb": "346",
+   "imdb": "tt0047478"
+  }
+ },
+ {
+  "need": [
+   "id:m598"
+  ],
+  "w": 4,
+  "t": [
+   "Li'l Dice became Li'l Ze. The card became confetti.",
+   "The chicken escaped. The card didn't.",
+   "City of God, page of rubble"
+  ],
+  "src": "wikipedia:City_of_God_(2002_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "598",
+   "imdb": "tt0317248"
+  }
+ },
+ {
+  "need": [
+   "who:alexandrerodrigues",
+   "char:buscaprocket"
+  ],
+  "w": 5,
+  "t": [
+   "Rocket got the photo. {hero} got the shot."
+  ],
+  "src": "wikipedia:City_of_God_(2002_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m807"
+  ],
+  "w": 4,
+  "t": [
+   "Seven deadly sins. The eighth: shooting cards.",
+   "Gluttony, greed, sloth... and {weapon}",
+   "\"The world is a fine place and worth fighting for.\" Card: neither."
+  ],
+  "src": "wikiquote:Seven_(1995_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "807",
+   "imdb": "tt0114369"
+  }
+ },
+ {
+  "need": [
+   "who:morganfreeman",
+   "char:somerset"
+  ],
+  "w": 5,
+  "t": [
+   "Somerset: one week from retirement. Card: retired."
+  ],
+  "src": "wikipedia:Seven_(1995_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m274"
+  ],
+  "w": 4,
+  "t": [
+   "Quid pro quo, Clarice. A card for a bullet.",
+   "Love your suit. Hate your card.",
+   "I'm having an old card for dinner",
+   "Night-vision goggles? The card never saw it coming."
+  ],
+  "src": "wikiquote:The_Silence_of_the_Lambs_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "274",
+   "imdb": "tt0102926",
+   "coll": "9743"
+  }
+ },
+ {
+  "need": [
+   "who:jodiefoster",
+   "char:claricestarling"
+  ],
+  "w": 5,
+  "t": [
+   "FBI trainee Starling aced this exam"
+  ],
+  "src": "wikipedia:The_Silence_of_the_Lambs_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1585"
+  ],
+  "w": 4,
+  "t": [
+   "Every time a bell rings, a card gets shot",
+   "Bedford Falls lost a card. Pottersville gained a hole.",
+   "No man is a failure who has friends. Cards have none.",
+   "George offered to lasso the moon. {hero} shot the card."
+  ],
+  "src": "wikiquote:It's_a_Wonderful_Life",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1585",
+   "imdb": "tt0038650"
+  }
+ },
+ {
+  "need": [
+   "id:m637"
+  ],
+  "w": 4,
+  "t": [
+   "Three Oscars, one tender film. {hero} pauses.",
+   "Buongiorno, principessa! A little respect, please."
+  ],
+  "src": "wikipedia:Life_Is_Beautiful",
+  "tier": "core",
+  "ids": {
+   "tmdb": "637",
+   "imdb": "tt0118799"
+  }
+ },
+ {
+  "need": [
+   "id:m629"
+  ],
+  "w": 4,
+  "t": [
+   "The greatest trick {hero} ever pulled: shooting this card",
+   "And like that... poof. The card's gone.",
+   "Five suspects, one lineup, zero cards",
+   "Keyser Soze? Keyser Gone-ze."
+  ],
+  "src": "wikiquote:The_Usual_Suspects",
+  "tier": "core",
+  "ids": {
+   "tmdb": "629",
+   "imdb": "tt0114814"
+  }
+ },
+ {
+  "need": [
+   "id:m129"
+  ],
+  "w": 4,
+  "t": [
+   "Her parents turned into pigs. The card turned into dust.",
+   "No-Face offered gold. {hero} offered {weapon}.",
+   "The bathhouse is closed for repairs",
+   "Soot sprites carried coal. Now they carry rubble."
+  ],
+  "src": "wikipedia:Spirited_Away",
+  "tier": "core",
+  "ids": {
+   "tmdb": "129",
+   "imdb": "tt0245429"
+  }
+ },
+ {
+  "need": [
+   "who:rumihiiragi",
+   "char:chihiroogino"
+  ],
+  "w": 5,
+  "t": [
+   "Yubaba took her name. {hero} took the card."
+  ],
+  "src": "wikipedia:Spirited_Away",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m857"
+  ],
+  "w": 4,
+  "t": [
+   "Five Oscars, Spielberg's second for directing",
+   "Ceasefire. Some films deserve a salute."
+  ],
+  "src": "wikipedia:Saving_Private_Ryan",
+  "tier": "core",
+  "ids": {
+   "tmdb": "857",
+   "imdb": "tt0120815"
+  }
+ },
+ {
+  "need": [
+   "id:m101"
+  ],
+  "w": 4,
+  "t": [
+   "Leon's plant survived. The card didn't.",
+   "No women, no kids. Cards: fair game.",
+   "Milk, sunglasses and {weapon}"
+  ],
+  "src": "wikipedia:Leon:_The_Professional",
+  "tier": "core",
+  "ids": {
+   "tmdb": "101",
+   "imdb": "tt0110413"
+  }
+ },
+ {
+  "need": [
+   "who:garyoldman",
+   "char:normanstansfield"
+  ],
+  "w": 5,
+  "t": [
+   "Stansfield wanted EVERYONE. {hero} wanted this card.",
+   "Beethoven before the shooting? {hero} skipped it."
+  ],
+  "src": "wikipedia:Leon:_The_Professional",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m324857"
+  ],
+  "w": 4,
+  "t": [
+   "Leap of faith: missed",
+   "Anyone can wear the mask. Nobody can fix this card.",
+   "Six Spider-People, one {weapon}",
+   "Kingpin's collider: shut down. Card: also."
+  ],
+  "src": "wikipedia:Spider-Man:_Into_the_Spider-Verse",
+  "tier": "core",
+  "ids": {
+   "tmdb": "324857",
+   "imdb": "tt4633694",
+   "coll": "573436"
+  }
+ },
+ {
+  "need": [
+   "who:shameikmoore",
+   "char:milesmoralesvoice"
+  ],
+  "w": 5,
+  "t": [
+   "Miles took a leap of faith. {hero} took a shot."
+  ],
+  "src": "wikipedia:Spider-Man:_Into_the_Spider-Verse",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m497"
+  ],
+  "w": 4,
+  "t": [
+   "Mr. Jingles survived. This card didn't.",
+   "Mr. Jingles knows a trick. The card knew none.",
+   "Cold Mountain Penitentiary: one card short"
+  ],
+  "src": "wikipedia:The_Green_Mile_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "497",
+   "imdb": "tt0120689"
+  }
+ },
+ {
+  "need": [
+   "who:tomhanks",
+   "char:pauledgecomb"
+  ],
+  "w": 5,
+  "t": [
+   "Paul Edgecomb made it to 108. The card didn't."
+  ],
+  "src": "wikipedia:The_Green_Mile_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m157336"
+  ],
+  "w": 4,
+  "t": [
+   "Do not go gentle into that good night. The card went anyway.",
+   "One hour on Miller's planet: seven years. Card: one shot.",
+   "Murph's bookshelf spelled it out: GONE",
+   "We used to look up at the stars. Now we look at rubble."
+  ],
+  "src": "wikipedia:Interstellar_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "157336",
+   "imdb": "tt0816692"
+  }
+ },
+ {
+  "need": [
+   "who:matthewmcconaughey",
+   "char:cooper"
+  ],
+  "w": 5,
+  "t": [
+   "Cooper took the wormhole. The card took {weapon}."
+  ],
+  "src": "wikipedia:Interstellar_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m539"
+  ],
+  "w": 4,
+  "t": [
+   "Bates Motel: twelve cabins, twelve vacancies",
+   "A boy's best friend is his mother. Not this card.",
+   "Cue the shrieking violins",
+   "Should have checked out of the Bates Motel"
+  ],
+  "src": "wikiquote:Psycho_(1960_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "539",
+   "imdb": "tt0054215",
+   "coll": "119674"
+  }
+ },
+ {
+  "need": [
+   "id:m73"
+  ],
+  "w": 4,
+  "t": [
+   "Edward Norton, Best Actor nominee. A moment, please.",
+   "Not a film for jokes. {hero} holds fire."
+  ],
+  "src": "wikipedia:American_History_X",
+  "tier": "core",
+  "ids": {
+   "tmdb": "73",
+   "imdb": "tt0120586"
+  }
+ },
+ {
+  "need": [
+   "id:m901"
+  ],
+  "w": 4,
+  "t": [
+   "A silent film in 1931. {weapon}: not silent.",
+   "The Tramp lost the boxing match. So did the card.",
+   "No dialogue. Just {weapon}.",
+   "Chaplin wrote, directed, starred and scored. One shot."
+  ],
+  "src": "wikipedia:City_Lights",
+  "tier": "core",
+  "ids": {
+   "tmdb": "901",
+   "imdb": "tt0021749"
+  }
+ },
+ {
+  "need": [
+   "id:m335"
+  ],
+  "w": 4,
+  "t": [
+   "\"You brought two too many.\" {hero} brought {weapon}.",
+   "Sweetwater got its railroad. The card got a hole.",
+   "A fly, a dripping hat, a long wait... and a shot",
+   "Morricone's harmonica theme, cut short"
+  ],
+  "src": "wikiquote:Once_Upon_a_Time_in_the_West",
+  "tier": "core",
+  "ids": {
+   "tmdb": "335",
+   "imdb": "tt0064116"
+  }
+ },
+ {
+  "need": [
+   "id:m289"
+  ],
+  "w": 4,
+  "t": [
+   "Here's looking at you, card.",
+   "Round up the usual shooters",
+   "Of all the cards on all the pages, {hero} shot this one",
+   "We'll always have Paris. Not this card.",
+   "I'm shocked, shocked to find shooting going on in here!"
+  ],
+  "src": "wikiquote:Casablanca_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "289",
+   "imdb": "tt0034583"
+  }
+ },
+ {
+  "need": [
+   "id:m3082"
+  ],
+  "w": 4,
+  "t": [
+   "Fed into the gears. Just like the Tramp.",
+   "The feeding machine broke down. So did the card.",
+   "Tightened bolts all day. {hero} loosened this one.",
+   "The Tramp's last film. The card's last stand."
+  ],
+  "src": "wikipedia:Modern_Times_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "3082",
+   "imdb": "tt0027977"
+  }
+ },
+ {
+  "need": [
+   "id:m423"
+  ],
+  "w": 4,
+  "t": [
+   "Palme d'Or and three Oscars. A moment of quiet.",
+   "Chopin, not {weapon}. Let it play."
+  ],
+  "src": "wikipedia:The_Pianist_(2002_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "423",
+   "imdb": "tt0253474"
+  }
+ },
+ {
+  "need": [
+   "id:m77338"
+  ],
+  "w": 4,
+  "t": [
+   "Boogie Wonderland? Boogie Rubbleland.",
+   "Paragliding over the Alps beats getting shot",
+   "Driss drove the Maserati. {hero} drove {weapon}."
+  ],
+  "src": "wikipedia:The_Intouchables",
+  "tier": "core",
+  "ids": {
+   "tmdb": "77338",
+   "imdb": "tt1675434"
+  }
+ },
+ {
+  "need": [
+   "who:omarsy",
+   "char:driss"
+  ],
+  "w": 5,
+  "t": [
+   "Driss danced. The card dropped."
+  ],
+  "src": "wikipedia:The_Intouchables",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1422"
+  ],
+  "w": 4,
+  "t": [
+   "A rat on the windowsill. A card on the floor.",
+   "Cop in the mob, mobster in the cops, card in the bin",
+   "Who's the rat? Who cares. The card's gone."
+  ],
+  "src": "wikipedia:The_Departed",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1422",
+   "imdb": "tt0407887"
+  }
+ },
+ {
+  "need": [
+   "who:markwahlberg",
+   "char:dignam"
+  ],
+  "w": 5,
+  "t": [
+   "Maybe. Maybe not. Maybe #@!% yourself, card.",
+   "I'm the guy who does his job. You must be the other card."
+  ],
+  "src": "wikiquote:The_Departed",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m244786"
+  ],
+  "w": 4,
+  "t": [
+   "Rushing or dragging? {hero} was shooting.",
+   "Fletcher threw a chair. {hero} threw {weapon}.",
+   "No two words more harmful than \"good card\""
+  ],
+  "src": "wikiquote:Whiplash_(2014_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "244786",
+   "imdb": "tt2582802"
+  }
+ },
+ {
+  "need": [
+   "who:jksimmons",
+   "char:fletcher"
+  ],
+  "w": 5,
+  "t": [
+   "Fletcher counts it in. {weapon} counts it out.",
+   "Not quite my tempo. Not quite my card."
+  ],
+  "src": "wikipedia:Whiplash_(2014_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m567"
+  ],
+  "w": 4,
+  "t": [
+   "Watched the neighbours. Missed {weapon}.",
+   "Jeff's telephoto lens caught it all",
+   "Flashbulbs couldn't stop Thorwald. Nothing stops {hero}.",
+   "Courtyard view: one window less"
+  ],
+  "src": "wikipedia:Rear_Window",
+  "tier": "core",
+  "ids": {
+   "tmdb": "567",
+   "imdb": "tt0047396"
+  }
+ },
+ {
+  "need": [
+   "id:m8587"
+  ],
+  "w": 4,
+  "t": [
+   "Everything the light touches is rubble",
+   "Hakuna matata: it means no more card",
+   "Remember who you are: a shredded card",
+   "Be prepared! ...it wasn't",
+   "Circle of life, card of rubble"
+  ],
+  "src": "wikiquote:The_Lion_King",
+  "tier": "core",
+  "ids": {
+   "tmdb": "8587",
+   "imdb": "tt0110357",
+   "coll": "94032"
+  }
+ },
+ {
+  "need": [
+   "id:m98"
+  ],
+  "w": 4,
+  "t": [
+   "What we do in life echoes in eternity. This shot too.",
+   "Commodus gave the thumbs down. {hero} agreed.",
+   "Unleash hell? {hero} unleashed {weapon}.",
+   "The Colosseum roars. The card does not."
+  ],
+  "src": "wikiquote:Gladiator_(2000_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "98",
+   "imdb": "tt0172495"
+  }
+ },
+ {
+  "need": [
+   "who:russellcrowe",
+   "char:maximus"
+  ],
+  "w": 5,
+  "t": [
+   "Maximus held the soil. {hero} held {weapon}."
+  ],
+  "src": "wikipedia:Gladiator_(2000_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1124"
+  ],
+  "w": 4,
+  "t": [
+   "Are you watching closely? Too late.",
+   "The Pledge, the Turn, the Prestige... {weapon}",
+   "Tesla's machine copied it. {hero} deleted it.",
+   "The Transported Man: transported to the bin"
+  ],
+  "src": "wikipedia:The_Prestige_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1124",
+   "imdb": "tt0482571"
+  }
+ },
+ {
+  "need": [
+   "who:hughjackman",
+   "char:robertangier"
+  ],
+  "w": 5,
+  "t": [
+   "The Real Transported Man: really gone"
+  ],
+  "src": "wikipedia:The_Prestige_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m28"
+  ],
+  "w": 4,
+  "t": [
+   "I love the smell of {weapon} in the morning",
+   "Never get out of the boat. The card did.",
+   "The horror... the horror... of {weapon}",
+   "Up the river, down the bin"
+  ],
+  "src": "wikiquote:Apocalypse_Now",
+  "tier": "core",
+  "ids": {
+   "tmdb": "28",
+   "imdb": "tt0078788"
+  }
+ },
+ {
+  "need": [
+   "who:martinsheen",
+   "char:captainbenjaminwillard"
+  ],
+  "w": 5,
+  "t": [
+   "Card... #@!%. Still only on the page."
+  ],
+  "src": "wikiquote:Apocalypse_Now",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m77"
+  ],
+  "w": 4,
+  "t": [
+   "Remember Sammy Jankis. Forget this card.",
+   "Polaroid says: card destroyed. Trust it.",
+   "Told backwards, this card starts as rubble"
+  ],
+  "src": "wikipedia:Memento_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "77",
+   "imdb": "tt0209144"
+  }
+ },
+ {
+  "need": [
+   "who:guypearce",
+   "char:leonard"
+  ],
+  "w": 5,
+  "t": [
+   "Leonard took a Polaroid of the wreckage"
+  ],
+  "src": "wikipedia:Memento_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m914"
+  ],
+  "w": 4,
+  "t": [
+   "Hynkel danced with the globe. {hero} shot the card.",
+   "Chaplin's first true talkie. The card has no last words.",
+   "A barber, a dictator and {weapon}",
+   "Chaplin's closing speech still stands. The card doesn't."
+  ],
+  "src": "wikipedia:The_Great_Dictator",
+  "tier": "core",
+  "ids": {
+   "tmdb": "914",
+   "imdb": "tt0032553"
+  }
+ },
+ {
+  "need": [
+   "id:m11216"
+  ],
+  "w": 4,
+  "t": [
+   "The censored kisses survived. The card didn't.",
+   "Cinema Paradiso: demolished. Again.",
+   "Projected onto the square's wall. Shot off this one.",
+   "Toto grew up in the projection booth. The card didn't."
+  ],
+  "src": "wikipedia:Cinema_Paradiso",
+  "tier": "core",
+  "ids": {
+   "tmdb": "11216",
+   "imdb": "tt0095765"
+  }
+ },
+ {
+  "need": [
+   "id:m12477"
+  ],
+  "w": 4,
+  "t": [
+   "Released alongside My Neighbor Totoro. Handle gently.",
+   "Some cards deserve a moment's quiet"
+  ],
+  "src": "wikipedia:Grave_of_the_Fireflies",
+  "tier": "core",
+  "ids": {
+   "tmdb": "12477",
+   "imdb": "tt0095327"
+  }
+ },
+ {
+  "need": [
+   "id:m599"
+  ],
+  "w": 4,
+  "t": [
+   "I am big. It's the cards that got small.",
+   "All right, {hero}, I'm ready for my close-up",
+   "Norma's comeback: cancelled",
+   "Waiting for DeMille to call. {hero} called instead."
+  ],
+  "src": "wikiquote:Sunset_Boulevard_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "599",
+   "imdb": "tt0043014"
+  }
+ },
+ {
+  "need": [
+   "id:m582"
+  ],
+  "w": 4,
+  "t": [
+   "Bugged the attic. Shot the card.",
+   "HGW XX/7 heard everything. Even this.",
+   "Sonata for a Good Man: unplayed",
+   "The book was dedicated to HGW XX/7. The shot: to this card."
+  ],
+  "src": "wikipedia:The_Lives_of_Others",
+  "tier": "core",
+  "ids": {
+   "tmdb": "582",
+   "imdb": "tt0405094"
+  }
+ },
+ {
+  "need": [
+   "id:m299536"
+  ],
+  "w": 4,
+  "t": [
+   "Perfectly balanced. Now perfectly broken.",
+   "Six Infinity Stones, one {weapon}",
+   "Bring me Thanos! ...brought {weapon} instead",
+   "You should have gone for the card",
+   "The hardest choices require the strongest {weapon}"
+  ],
+  "src": "wikiquote:Avengers:_Infinity_War",
+  "tier": "core",
+  "ids": {
+   "tmdb": "299536",
+   "imdb": "tt4154756",
+   "coll": "86311"
+  }
+ },
+ {
+  "need": [
+   "who:joshbrolin",
+   "char:thanos"
+  ],
+  "w": 5,
+  "t": [
+   "The Mad Titan wanted half. {hero} took all of it.",
+   "Thanos needed six stones. {hero} needed one shot."
+  ],
+  "src": "wikiquote:Avengers:_Infinity_War",
+  "tier": "core"
+ }
+]

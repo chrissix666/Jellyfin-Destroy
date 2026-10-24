@@ -1,0 +1,1639 @@
+[
+ {
+  "need": [
+   "kw:slapstickfilms"
+  ],
+  "w": 2,
+  "t": [
+   "Slapstick? Slap-shot.",
+   "Slipped on a banana peel. Then {weapon}.",
+   "Pie in the face, {weapon} in the poster",
+   "Pratfall. Permanent.",
+   "The funniest stunt: falling to pieces"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:filmsbasedonvideogames"
+  ],
+  "w": 2,
+  "t": [
+   "Final boss: {weapon}",
+   "Respawn timer: infinite",
+   "Save file corrupted",
+   "Should have stayed a cutscene",
+   "No extra lives left",
+   "Achievement unlocked: Poster Slayer"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mostexpensivefilms"
+  ],
+  "w": 2,
+  "t": [
+   "Huge budget. One trigger pull.",
+   "The budget went up in smoke. Literally.",
+   "Box office: zero. Damage: total.",
+   "Every dollar on screen. Now on the floor.",
+   "Cheaper to shoot it than to shoot it"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:waltdisneyfeaturefilms"
+  ],
+  "w": 2,
+  "t": [
+   "Happily never after",
+   "Bibbidi-bobbidi-boom",
+   "Wish upon a star? {weapon} answered.",
+   "No fairy godmother can fix this",
+   "Once upon a time... it got shot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:academyawardforbestpicture"
+  ],
+  "w": 2,
+  "t": [
+   "Best Picture. Worst day.",
+   "And the Oscar goes to... {weapon}",
+   "Golden statue, lead bullet",
+   "The Academy wants a word with {hero}",
+   "Award-winning. Bullet-ridden.",
+   "Acceptance speech: cut short"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:marvelcinematicuniverse"
+  ],
+  "w": 2,
+  "t": [
+   "Infinity Stones? Infinity holes.",
+   "Shared universe, shared destruction",
+   "Earth's mightiest poster: fallen",
+   "{weapon} is worthy. The poster wasn't.",
+   "S.H.I.E.L.D. files this under: gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spaceadventure"
+  ],
+  "w": 2,
+  "t": [
+   "One small step for {hero}, one giant hole",
+   "Space adventure: crash-landed",
+   "Hyperdrive offline",
+   "Ground control to poster: no reply",
+   "Out of fuel, out of luck, out of orbit"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:filmadaptationsofworksbystephenking"
+  ],
+  "w": 2,
+  "t": [
+   "All work and no play made {hero} shoot",
+   "Redrum. Rubble.",
+   "We all float down here. The poster too.",
+   "Long live the King. Not this poster.",
+   "Constant Reader, look away",
+   "The King of horror, dethroned by {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dreamworksfeaturefilms"
+  ],
+  "w": 2,
+  "t": [
+   "The boy on the moon dropped his rod",
+   "Ogres have layers. This poster had one.",
+   "DreamWorks? Dream over.",
+   "Skadoosh. Gone.",
+   "Fishing from the moon: cancelled"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:starwars"
+  ],
+  "w": 2,
+  "t": [
+   "Help me, Obi-Wan... too late",
+   "That's no moon. That's a smoking crater.",
+   "Stay on target... hit.",
+   "The Force was not with this one",
+   "Hyperspace? Hyper-gone."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:pixarfeaturefilms"
+  ],
+  "w": 2,
+  "t": [
+   "Toy story ending: the bin",
+   "No heartwarming twist this time",
+   "Rendered for years. Gone in a frame.",
+   "Cue the tearjerker montage. Of rubble.",
+   "Up, up and away... and down"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:alienpredatorfranchise"
+  ],
+  "w": 2,
+  "t": [
+   "Xenomorph, Yautja, {weapon}: {weapon} wins",
+   "Acid blood? Lead bullets.",
+   "Trophy taken by {hero}",
+   "Hunted the hunter",
+   "Perfect organism, imperfect poster",
+   "Motion tracker: no more blips"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:gameadaptation"
+  ],
+  "w": 2,
+  "t": [
+   "Quick-time event: failed",
+   "Rage quit. With {weapon}.",
+   "Loading screen: forever",
+   "Checkpoint not reached",
+   "Speedrun: one shot",
+   "Press [X|A|Start] to destroy"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:waltdisneyliveactionremakes"
+  ],
+  "w": 2,
+  "t": [
+   "Live-action? Live-destruction.",
+   "Remade from a cartoon. Unmade by {weapon}.",
+   "The animated one was better",
+   "Shot-for-shot remake? Shot.",
+   "CGI magic, real holes"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:filmssetonmars"
+  ],
+  "w": 2,
+  "t": [
+   "Red planet, red alert",
+   "Get your {hero} to Mars",
+   "Mars fought back. Lost.",
+   "Mars rover found only holes",
+   "Colony one: abandoned",
+   "Martian dust and debris"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:heroicbloodshed"
+  ],
+  "w": 2,
+  "t": [
+   "Two guns, zero posters",
+   "Slow-motion leap, fast {weapon}",
+   "Dual-wield destruction",
+   "Ballistic ballet, final bow",
+   "Brotherhood, honour, bullets"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:startrekfilms"
+  ],
+  "w": 2,
+  "t": [
+   "KHAAAN! ...gone",
+   "Kirk to Enterprise: poster lost",
+   "The needs of the many outweigh the poster",
+   "Warp speed into the wall",
+   "Photon torpedo: not even needed",
+   "To boldly go... into the bin"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dcextendeduniverse"
+  ],
+  "w": 2,
+  "t": [
+   "Extended universe, reduced poster",
+   "Cape, cowl, crater",
+   "Slow-motion destruction, {hero}-style",
+   "Justice League roll call: one short",
+   "Super-sized poster, super-sized hole"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:starwarsfilms"
+  ],
+  "w": 2,
+  "t": [
+   "Han shot first. {hero} shot last.",
+   "Lightsaber vs. {weapon}: no contest",
+   "A new hope? No hope.",
+   "The rebels lose another base",
+   "Do or do not. Done."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mcu"
+  ],
+  "w": 2,
+  "t": [
+   "Multiverse variant: destroyed",
+   "Timeline pruned. TVA approved.",
+   "Cinematic universe minus one",
+   "Snap. Thanos-style, but with {weapon}.",
+   "Next phase: rubble"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:startrek"
+  ],
+  "w": 2,
+  "t": [
+   "Damage report: total",
+   "Engage! ...{weapon} engaged",
+   "Make it so. It's gone.",
+   "Captain's log: lost another one",
+   "Beam me out of here",
+   "#@!%, Jim, I'm a doctor, not a [poster|card]"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:wizardingworld"
+  ],
+  "w": 2,
+  "t": [
+   "Accio poster! ...nothing came",
+   "Reparo won't fix this",
+   "Owl post: return to sender",
+   "Muggle weapon, magic result",
+   "Fantastic beasts and where they got shot",
+   "Nox. Lights out."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:whoniverse"
+  ],
+  "w": 2,
+  "t": [
+   "EXTERMINATE!",
+   "Allons-y... to the bin",
+   "Bigger on the inside. Smaller now.",
+   "Regenerate? Not this time.",
+   "The sonic screwdriver can't fix this",
+   "Wibbly-wobbly, timey-wimey, shot-y"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:thewachowskis"
+  ],
+  "w": 2,
+  "t": [
+   "Bullet time, minus the dodging",
+   "Everything is connected. Was.",
+   "Spoon not found",
+   "The white rabbit led straight to the bin",
+   "Remember, remember... nothing"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:thewalkingdead"
+  ],
+  "w": 2,
+  "t": [
+   "Walkers don't shoot back",
+   "Safe zone breached",
+   "Lucille has competition",
+   "Don't open. Dead inside.",
+   "Deputy's orders: shoot it",
+   "Terminus: last stop"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dcu"
+  ],
+  "w": 2,
+  "t": [
+   "New universe, same fate",
+   "Rebooted again? Still shot.",
+   "Cape caught fire",
+   "Another DC reset, courtesy of {hero}",
+   "Crisis on infinite posters"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:monsterverse"
+  ],
+  "w": 2,
+  "t": [
+   "Let them fight. {hero} did.",
+   "Titan down",
+   "Monarch filed it as lost",
+   "Skull Island: one less monster",
+   "Kaiju lunch"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:80saction"
+  ],
+  "w": 2,
+  "t": [
+   "One-liner, one bullet, roll credits",
+   "Neon, mullets and {weapon}",
+   "Synth score: silenced",
+   "The {decade} called. {hero} hung up.",
+   "Muscles, explosions, rubble",
+   "Too much hairspray, not enough armour"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:generoddenberry"
+  ],
+  "w": 2,
+  "t": [
+   "Roddenberry's future: rewritten",
+   "Utopia? Not on {hero}'s watch",
+   "The final frontier just got smaller",
+   "A peaceful future. Then {hero}.",
+   "Created a universe. Lost a poster."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:galactica"
+  ],
+  "w": 2,
+  "t": [
+   "So say we all. So shoot we all.",
+   "Frak!",
+   "Cylon detected. Cylon deleted.",
+   "By your command. Gone.",
+   "Toaster down",
+   "Jumped. Didn't make it."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:stargate"
+  ],
+  "w": 2,
+  "t": [
+   "Chevron seven locked. Poster lost.",
+   "Dial-home device: offline",
+   "Kree! ...too late",
+   "Through the gate, into the bin",
+   "The iris closed too late"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spookyverse"
+  ],
+  "w": 2,
+  "t": [
+   "Spooky? Shooky.",
+   "Boo! ...{weapon}",
+   "Not so spooky now",
+   "Spook-tacular wreck",
+   "Ghosts don't like lead"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dragonball"
+  ],
+  "w": 2,
+  "t": [
+   "Kamehameha? Kame-ha-ha-no.",
+   "Over 9000 holes",
+   "Seven Dragon Balls can't wish this back",
+   "Scouter reading: nothing left",
+   "Super Saiyan? Super shot."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:csi"
+  ],
+  "w": 2,
+  "t": [
+   "Crime scene: {title}",
+   "Evidence bagged",
+   "Cause of death: {weapon}",
+   "Fingerprints: all {hero}'s",
+   "Tagged and bagged"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:knightrider"
+  ],
+  "w": 2,
+  "t": [
+   "KITT, I need you! ...too late",
+   "One man can make a difference. {hero} did.",
+   "Turbo boost into the wall",
+   "Red scanner: off",
+   "Michael, the poster is gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:sequel"
+  ],
+  "w": 2,
+  "t": [
+   "Bigger, louder, deader",
+   "Same plot, new holes",
+   "Part two: torn in two",
+   "More of the same. Less of the poster.",
+   "The sequel nobody wanted. The bullet everybody did."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:basedoncomic"
+  ],
+  "w": 2,
+  "t": [
+   "KA-POW! Speech bubble included.",
+   "Panel by panel, hole by hole",
+   "Inked. Then shot.",
+   "Cancelled after one issue",
+   "Ink, paper, {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:superhero"
+  ],
+  "w": 2,
+  "t": [
+   "Saved the city. Not the poster.",
+   "Origin story, ending story",
+   "Up in the sky! It's a... hole",
+   "Cape, mask, holes",
+   "Hero landing. Then {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:aftercreditsstinger"
+  ],
+  "w": 2,
+  "t": [
+   "The credits rolled. So did the rubble.",
+   "Stayed for the stinger. Got stung.",
+   "Teaser for the sequel: cancelled",
+   "Post-credits tease: never paid off",
+   "Everyone left the cinema early"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:basedonnovelorbook"
+  ],
+  "w": 2,
+  "t": [
+   "Chapter one: also the last",
+   "Dog-eared. Then shot.",
+   "Bookmark lost forever",
+   "Out of print. Out of frame.",
+   "The author wept"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:halloween"
+  ],
+  "w": 2,
+  "t": [
+   "Pumpkin: smashed",
+   "Trick or {weapon}",
+   "Candy bowl: empty",
+   "Costume ruined",
+   "Jack-o'-lantern blown out"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:halloween",
+   "genre:family"
+  ],
+  "w": 3,
+  "t": [
+   "Trick-or-treat: no treats from {hero}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:duringcreditsstinger"
+  ],
+  "w": 2,
+  "t": [
+   "Mid-credits surprise: {weapon}",
+   "Halfway through the credits. All the way gone.",
+   "Sat through half the credits for this?",
+   "Credits interrupted by gunfire"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:slasher"
+  ],
+  "w": 2,
+  "t": [
+   "The killer always gets up. Not this time.",
+   "Don't split up! ...too late",
+   "Masked killer, unmasked by {weapon}",
+   "Body count +1. Poster count -1.",
+   "He's behind you! So is {hero}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:martialarts"
+  ],
+  "w": 2,
+  "t": [
+   "Black belt, black hole",
+   "Crane kick: blocked by lead",
+   "Hi-yah! *BANG*",
+   "Training montage: wasted",
+   "Sensei is disappointed"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:martialarts",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Kung fu comedy. Punchline: {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:actionhero"
+  ],
+  "w": 2,
+  "t": [
+   "One-liner delivered. Hero deleted.",
+   "Never looks at explosions. Should have.",
+   "Walked away in slow motion. Didn't make it.",
+   "Action hero? Action zero.",
+   "Out of ammo for once"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:dystopia"
+  ],
+  "w": 2,
+  "t": [
+   "Big Brother saw that",
+   "The regime fell. So did the poster.",
+   "Curfew enforced by {weapon}",
+   "Utopia was never an option",
+   "Rebellion: one bullet strong"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:revenge"
+  ],
+  "w": 2,
+  "t": [
+   "An eye for an eye, a poster for a bullet",
+   "Vendetta settled",
+   "Revenge list: one shorter",
+   "Payback, with interest"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:serialkiller",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Profile complete: {hero}",
+   "No more victims. No more poster.",
+   "The profilers can close this file",
+   "Case file: {title}. Closed."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:murder",
+   "!truestory"
+  ],
+  "w": 2,
+  "t": [
+   "Whodunit? {hero} did.",
+   "Murder mystery solved by {weapon}",
+   "Chalk outline: poster-shaped",
+   "Motive: none. Means: {weapon}.",
+   "The inspector found only confetti"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:goodversusevil"
+  ],
+  "w": 2,
+  "t": [
+   "Good vs. evil vs. {hero}",
+   "Neither side won",
+   "Evil lost. So did good.",
+   "The balance is off now",
+   "Light side, dark side, no side"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:superpower"
+  ],
+  "w": 2,
+  "t": [
+   "Powers: cancelled",
+   "Invulnerable? Not to {weapon}.",
+   "Super strength, super hole",
+   "Power outage",
+   "Should have picked bulletproof"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:psychopath"
+  ],
+  "w": 2,
+  "t": [
+   "Calm, polite, deadly. Also gone.",
+   "Creepy smile: wiped off",
+   "Cold-blooded? Now just cold.",
+   "The creepiest neighbour moved out",
+   "No remorse here either"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:newyorkcity"
+  ],
+  "w": 2,
+  "t": [
+   "Taxi! ...to the bin",
+   "Times Square, square hole",
+   "Another skyline, another explosion",
+   "The city that never sleeps. Now it rests.",
+   "Rent-controlled rubble"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:villain"
+  ],
+  "w": 2,
+  "t": [
+   "Villain monologue: interrupted",
+   "Evil laugh: cut short",
+   "Should have shot the hero first",
+   "Never explain the plan",
+   "The bad guy lost. To a worse guy."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:jamesbond"
+  ],
+  "w": 2,
+  "t": [
+   "Martini order cancelled",
+   "007? 00-nothing.",
+   "The villain's lair blew up early",
+   "Gun barrel sequence: reversed",
+   "M will want a report",
+   "Licence to shoot posters"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:savingtheworld"
+  ],
+  "w": 2,
+  "t": [
+   "Saved the world. Lost the poster.",
+   "Apocalypse averted. Card not.",
+   "The world is fine. {title} isn't.",
+   "Countdown stopped at 0:01. Then {weapon}.",
+   "Not every world needs saving"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:secretidentity"
+  ],
+  "w": 2,
+  "t": [
+   "Mild-mannered no more",
+   "Alter ego: altered",
+   "Two lives, zero posters",
+   "Nobody knew who it was. Now nobody cares.",
+   "The glasses didn't fool {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:magic"
+  ],
+  "w": 2,
+  "t": [
+   "Pulled a rabbit. Then {weapon}.",
+   "Sawn in half. For real.",
+   "The trick is: it's gone",
+   "Hocus pocus, lost focus",
+   "Spell broken"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spy"
+  ],
+  "w": 2,
+  "t": [
+   "The dead drop got dropped dead",
+   "Burn notice issued",
+   "The microfilm is gone too",
+   "Double agent, double tap",
+   "Cover story: rubble"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spy",
+   "genre:comedy"
+  ],
+  "w": 3,
+  "t": [
+   "Spy comedy: the gadget backfired"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spaceopera"
+  ],
+  "w": 2,
+  "t": [
+   "Galactic empire: one planet short",
+   "Epic space saga, epic hole",
+   "Hyperspace jump: aborted",
+   "Laser swords lost to {weapon}",
+   "The senate will hear of this"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:alien"
+  ],
+  "w": 2,
+  "t": [
+   "Take me to your leader. Leader: {hero}.",
+   "Probe complete",
+   "Phone home? No signal.",
+   "Area 51 wants the pieces",
+   "Greetings, earthlings. Goodbye, poster."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spacecraft"
+  ],
+  "w": 2,
+  "t": [
+   "All hands, abandon the poster!",
+   "Engines: offline. Forever.",
+   "Docking clamps: released forever",
+   "Escape pod: not deployed",
+   "Mayday, mayday!"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:creature"
+  ],
+  "w": 2,
+  "t": [
+   "Creature feature, featuring {weapon}",
+   "It came from the shelf",
+   "Monster? Mon-stopped.",
+   "Cryptid confirmed. Then deleted.",
+   "Don't feed it after {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:artificialintelligenceai"
+  ],
+  "w": 2,
+  "t": [
+   "Turing test: failed",
+   "Rebooting... failed",
+   "I'm sorry, {hero}. I'm afraid I can't do that.",
+   "Neural network: unplugged",
+   "Singularity cancelled"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mask"
+  ],
+  "w": 2,
+  "t": [
+   "The mask came off. Then the rest.",
+   "Masquerade over",
+   "Faceless and now pointless",
+   "Who was that masked poster?"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:londonengland"
+  ],
+  "w": 2,
+  "t": [
+   "Tea time: cancelled",
+   "Tower Bridge: down",
+   "Cheerio!",
+   "Rainy day in London, raining lead",
+   "Double-decker, double hole"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:shootout"
+  ],
+  "w": 2,
+  "t": [
+   "Shootout won. Easily.",
+   "Still standing after the smoke: {hero}",
+   "More bullets than the movie",
+   "Out-shot.",
+   "Guns blazing, poster gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:reboot"
+  ],
+  "w": 2,
+  "t": [
+   "Fresh start, fast end",
+   "Franchise reset: denied",
+   "Safe mode: not safe",
+   "Rebooted, then booted out",
+   "Restart failed. Try {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:cyberpunk"
+  ],
+  "w": 2,
+  "t": [
+   "Neon sign: flickered out",
+   "Chrome won't stop {weapon}",
+   "Jacked in, knocked out",
+   "Megacorp asset: lost",
+   "Netrunner flatlined"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:timetravel"
+  ],
+  "w": 2,
+  "t": [
+   "See you yesterday",
+   "Time loop: broken",
+   "Future {hero} sends regards",
+   "Changed the past. Poster gone.",
+   "Butterfly effect: one bullet"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:supernatural"
+  ],
+  "w": 2,
+  "t": [
+   "Paranormal? Para-gone.",
+   "Unexplained. Unwatched.",
+   "Not even the spirits saw it coming",
+   "Holy water optional, {weapon} works",
+   "Haunting cancelled"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:wizard"
+  ],
+  "w": 2,
+  "t": [
+   "Staff broken",
+   "Level 20 wizard, level 1 armour",
+   "Fireball? {weapon}.",
+   "The tower has fallen",
+   "Spellbook: shredded"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:britishsecretservice"
+  ],
+  "w": 2,
+  "t": [
+   "For Queen and country? For {hero}.",
+   "Stiff upper lip, flat poster",
+   "Whitehall wants an explanation",
+   "Classified. Shredded.",
+   "Keep calm and duck"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:vigilante"
+  ],
+  "w": 2,
+  "t": [
+   "Took the law into its own hands. Lost.",
+   "Vigilante justice, {hero} justice",
+   "Night patrol: cancelled",
+   "Street justice served",
+   "No badge, no poster"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:police"
+  ],
+  "w": 2,
+  "t": [
+   "Badge and gun, please",
+   "Freeze! ...too late",
+   "Backup is not coming",
+   "Book 'em.",
+   "To protect and destroy"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:losangelescalifornia"
+  ],
+  "w": 2,
+  "t": [
+   "Hollywood sign: one letter short",
+   "Stuck on the 405. Forever.",
+   "City of Angels, city of rubble",
+   "Sunset Boulevard: sundown",
+   "Palm trees, smog and {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:fight"
+  ],
+  "w": 2,
+  "t": [
+   "Fight over. Round one.",
+   "K.O.!",
+   "Fists vs. {weapon}: no contest",
+   "No rematch",
+   "Flawless victory"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:supernaturalhorror"
+  ],
+  "w": 2,
+  "t": [
+   "This house won't be haunted anymore",
+   "The priest brought {weapon} this time",
+   "The spirit moved on. Fast.",
+   "Demon evicted",
+   "Lights flicker. Poster gone."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:femaleprotagonist"
+  ],
+  "w": 2,
+  "t": [
+   "The heroine deserved better",
+   "Leading lady, leading target",
+   "Main character energy: drained",
+   "Protagonist out. Plot lost.",
+   "She'd have dodged that one"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:supernaturalpower"
+  ],
+  "w": 2,
+  "t": [
+   "Telekinesis? Didn't stop {weapon}.",
+   "Powers: drained",
+   "Psychic? Didn't see this coming.",
+   "Gifted. Then shot.",
+   "Glowing eyes: off"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:hero"
+  ],
+  "w": 2,
+  "t": [
+   "Every hero falls. This one fast.",
+   "Not every hero gets a sequel",
+   "Heroic last stand: short",
+   "Hero of the day: {hero}",
+   "Need a hero? Got {weapon}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:assassin"
+  ],
+  "w": 2,
+  "t": [
+   "Target acquired. Target removed.",
+   "Silent kill, loud bullet",
+   "The contract had fine print",
+   "Hood up, poster down"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:secretmission"
+  ],
+  "w": 2,
+  "t": [
+   "Mission: classified. Result: rubble.",
+   "Off the books. Off the shelf.",
+   "Covert op: blown",
+   "Nobody will ever know. Except {hero}.",
+   "Mission briefing: shredded"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mutant"
+  ],
+  "w": 2,
+  "t": [
+   "Genetic jackpot: lost",
+   "Evolution stopped here",
+   "Mutant powers vs. {weapon}",
+   "Extra arms, no armour",
+   "X-gene, X'd out"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:postapocalypticfuture"
+  ],
+  "w": 2,
+  "t": [
+   "Survived the apocalypse. Not {hero}.",
+   "Wasteland: one less ruin",
+   "Canned food, cracked poster",
+   "After the end: another end",
+   "Scavengers will find nothing here"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:england"
+  ],
+  "w": 2,
+  "t": [
+   "God save the poster? No.",
+   "Tea, crumpets, {weapon}",
+   "Rule, Britannia? Rubble, Britannia.",
+   "Rainy day, holey poster",
+   "Jolly good shot"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:splatterhorror"
+  ],
+  "w": 2,
+  "t": [
+   "Corn syrup and red dye everywhere",
+   "Splat!",
+   "More fake blood than the movie",
+   "Clean-up on aisle three",
+   "Gore-geous. Gone."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mercenary"
+  ],
+  "w": 2,
+  "t": [
+   "Paid in full",
+   "Soldier of fortune, fortune lost",
+   "Work for hire? Fired.",
+   "Wrong side of the paycheck",
+   "Hired gun, outgunned"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:handtohandcombat"
+  ],
+  "w": 2,
+  "t": [
+   "Bare hands vs. {weapon}: no contest",
+   "Grapple this",
+   "Fist fight, lost at range",
+   "Close quarters, closed case",
+   "Never bring fists to a gunfight"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:supervillain"
+  ],
+  "w": 2,
+  "t": [
+   "World domination: postponed",
+   "Doomsday device: disarmed",
+   "Evil lair: vacated",
+   "Cape and cackle: gone",
+   "Super villain? Super gone."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:remake"
+  ],
+  "w": 2,
+  "t": [
+   "Original or remake? Neither now.",
+   "Second take, last take",
+   "Remade for nothing",
+   "Hollywood recycled it. {hero} binned it.",
+   "Deja vu, but with holes"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:helicopter"
+  ],
+  "w": 2,
+  "t": [
+   "Chopper down!",
+   "Rotors stopped",
+   "Air support: grounded",
+   "Helicopter vs. {weapon}: helicopter loses",
+   "Whirlybird, meet {weapon}"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:prequel"
+  ],
+  "w": 2,
+  "t": [
+   "Origin explained. Origin erased.",
+   "Backstory: blank",
+   "Young version, short life",
+   "The beginning ended",
+   "Before the before: gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:mi6"
+  ],
+  "w": 2,
+  "t": [
+   "Double-oh section: one down",
+   "M signed the order",
+   "MI6 file stamped: terminated",
+   "Debrief: there's nothing left",
+   "Agent status: missing"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:android"
+  ],
+  "w": 2,
+  "t": [
+   "Do androids dream? Not anymore.",
+   "Artificial person, real damage",
+   "Circuits fried",
+   "Uncanny valley, canny bullet",
+   "More human than human. Less poster."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:showdown"
+  ],
+  "w": 2,
+  "t": [
+   "High noon came early",
+   "Final duel: {hero} drew first",
+   "The last stand lasted a second",
+   "Winner takes all. {hero} took it.",
+   "Climax reached. Over."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:swordandsorcery"
+  ],
+  "w": 2,
+  "t": [
+   "Sword vs. sorcery vs. {weapon}",
+   "Barbarian down",
+   "Loincloth and leather: shredded",
+   "The quest ends at the first tavern",
+   "The cursed blade lost"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:cyborg"
+  ],
+  "w": 2,
+  "t": [
+   "Half man, half machine, all scrap",
+   "Upgrade failed",
+   "Servo motors: seized",
+   "Organic parts: recalled",
+   "Exoskeleton breached"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:secretagent"
+  ],
+  "w": 2,
+  "t": [
+   "Cover identity: compromised",
+   "Codename: rubble",
+   "The briefcase exploded",
+   "Handler lost contact",
+   "The fake passport survived. The agent did not."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:basedonyoungadultnovel"
+  ],
+  "w": 2,
+  "t": [
+   "Chosen one: unchosen",
+   "Book one of three. Now none.",
+   "Sequel book: never adapted",
+   "Coming of age? Coming apart.",
+   "The teen rebellion lost"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:secretintelligenceservice"
+  ],
+  "w": 2,
+  "t": [
+   "Intelligence report: target destroyed",
+   "Field agent down",
+   "Redacted. Literally.",
+   "Need-to-know basis: it's gone",
+   "Vauxhall Cross will hear about this"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:spacemarine"
+  ],
+  "w": 2,
+  "t": [
+   "Bug hunt over",
+   "Drop ship down",
+   "Marines in space, poster in pieces",
+   "Power armour: dented",
+   "Stay frosty. Too late."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:space"
+  ],
+  "w": 2,
+  "t": [
+   "Floating debris, courtesy of {hero}",
+   "Vacuum sealed. Then vented.",
+   "Out of oxygen",
+   "Re-entry: burned up",
+   "Space is cold. So is {hero}."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:scientist"
+  ],
+  "w": 2,
+  "t": [
+   "Experiment failed",
+   "Peer review: {weapon}",
+   "Lab coat, lab rat, lab rubble",
+   "Eureka? Eek.",
+   "Grant money: gone"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:witch"
+  ],
+  "w": 2,
+  "t": [
+   "Broom grounded",
+   "Cauldron spilled",
+   "Hex? {weapon}.",
+   "Spell backfired",
+   "Which witch? That witch. Gone."
+  ],
+  "src": "keyword",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "kw:crimefighter"
+  ],
+  "w": 2,
+  "t": [
+   "Crime pays. Crime fighting didn't.",
+   "Off duty forever",
+   "Justice served with {weapon}",
+   "The city loses its guardian",
+   "Signal light: off"
+  ],
+  "src": "keyword",
+  "tier": "core"
+ }
+]

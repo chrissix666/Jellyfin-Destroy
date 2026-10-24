@@ -1,0 +1,1545 @@
+[
+ {
+  "need": [
+   "id:m218"
+  ],
+  "w": 4,
+  "t": [
+   "Came back from 2029. For this card.",
+   "Phone book, page Connor. Then this card.",
+   "Tech Noir: closed for the night",
+   "{title}: flattened in the hydraulic press"
+  ],
+  "src": "wikipedia:The_Terminator",
+  "tier": "core",
+  "ids": {
+   "tmdb": "218",
+   "imdb": "tt0088247",
+   "coll": "528"
+  }
+ },
+ {
+  "need": [
+   "who:michaelbiehn",
+   "char:kylereese"
+  ],
+  "w": 5,
+  "t": [
+   "Come with me if you want to... too late",
+   "Reese came back for Sarah. Not for this card."
+  ],
+  "src": "wikiquote:The_Terminator",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1368"
+  ],
+  "w": 4,
+  "t": [
+   "Hope, Washington: population minus one card",
+   "He only wanted something to eat",
+   "Survival knife vs. {weapon}",
+   "A one-man war in the woods. Lost to a card."
+  ],
+  "src": "wikipedia:First_Blood",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1368",
+   "imdb": "tt0083944",
+   "coll": "5039"
+  }
+ },
+ {
+  "need": [
+   "who:sylvesterstallone",
+   "char:johnrambo"
+  ],
+  "w": 5,
+  "t": [
+   "Rambo owned the woods. Not this card.",
+   "Green Beret. Gray rubble."
+  ],
+  "src": "wikipedia:First_Blood",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m5548"
+  ],
+  "w": 4,
+  "t": [
+   "You have twenty seconds to comply. Took one.",
+   "ED-209 fell down the stairs again",
+   "OCP: Omni Consumer Rubble",
+   "Serve the public trust? Served it {weapon}."
+  ],
+  "src": "wikipedia:RoboCop",
+  "tier": "core",
+  "ids": {
+   "tmdb": "5548",
+   "imdb": "tt0093870",
+   "coll": "5547"
+  }
+ },
+ {
+  "need": [
+   "who:peterweller",
+   "char:officeralexjmurphy"
+  ],
+  "w": 5,
+  "t": [
+   "Part man. Part machine. All rubble.",
+   "Murphy kept his gun in his leg. {hero} didn't."
+  ],
+  "src": "wikipedia:RoboCop",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m106"
+  ],
+  "w": 4,
+  "t": [
+   "Covered in mud. Still spotted.",
+   "Thermal vision never saw {hero} coming",
+   "Old Painless vs. {weapon}: Old Painless lost",
+   "Come on! Do it! Kill me! ...okay, done."
+  ],
+  "src": "wikipedia:Predator_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "106",
+   "imdb": "tt0093773",
+   "coll": "399"
+  }
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:majoralandutchschaefer"
+  ],
+  "w": 5,
+  "t": [
+   "What the #@!% are you? A card. Was.",
+   "Dutch made it to the chopper. The card didn't."
+  ],
+  "src": "wikipedia:Predator_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m169"
+  ],
+  "w": 4,
+  "t": [
+   "L.A., 1997: heat wave and holes",
+   "A Xenomorph skull in the trophy room. Now this.",
+   "Subway car: cleared out",
+   "The hunter got hunted. Then shot."
+  ],
+  "src": "wikipedia:Predator_2",
+  "tier": "core",
+  "ids": {
+   "tmdb": "169",
+   "imdb": "tt0100403",
+   "coll": "399"
+  }
+ },
+ {
+  "need": [
+   "who:dannyglover",
+   "char:lieutenantmikeharrigan"
+  ],
+  "w": 5,
+  "t": [
+   "Harrigan got an old pistol as a trophy. {hero}: this.",
+   "Harrigan hung from the ledge. The card just dropped."
+  ],
+  "src": "wikipedia:Predator_2",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m10999"
+  ],
+  "w": 4,
+  "t": [
+   "Remember when I said I'd shoot you last? I lied.",
+   "Bennett let off steam. {hero} let off {weapon}.",
+   "Eleven hours until the plane lands. One second here.",
+   "Raided the surplus store for this"
+  ],
+  "src": "wikiquote:Commando_(1985_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "10999",
+   "imdb": "tt0088944"
+  }
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:johnmatrix"
+  ],
+  "w": 5,
+  "t": [
+   "John Matrix: one-man army, one card short",
+   "Matrix jumped from a plane for less"
+  ],
+  "src": "wikipedia:Commando_(1985_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m562"
+  ],
+  "w": 4,
+  "t": [
+   "Nakatomi Plaza: one more floor gone",
+   "Shoot the glass!",
+   "Barefoot on broken card glass",
+   "Come out to the coast, have a few laughs... and holes"
+  ],
+  "src": "wikipedia:Die_Hard",
+  "tier": "core",
+  "ids": {
+   "tmdb": "562",
+   "imdb": "tt0095016",
+   "coll": "1570"
+  }
+ },
+ {
+  "need": [
+   "who:brucewillis",
+   "char:johnmcclane"
+  ],
+  "w": 5,
+  "t": [
+   "McClane crawled through the vents for this?",
+   "Now I have a machine gun. {weapon} says ho-ho-ho."
+  ],
+  "src": "wikipedia:Die_Hard",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m941"
+  ],
+  "w": 4,
+  "t": [
+   "Murtaugh's birthday: ruined",
+   "Shadow Company: disbanded",
+   "A fight on Murtaugh's lawn. Card lost."
+  ],
+  "src": "wikipedia:Lethal_Weapon",
+  "tier": "core",
+  "ids": {
+   "tmdb": "941",
+   "imdb": "tt0093409",
+   "coll": "945"
+  }
+ },
+ {
+  "need": [
+   "who:dannyglover",
+   "char:rogermurtaugh"
+  ],
+  "w": 5,
+  "t": [
+   "Murtaugh turned fifty. The card turned to dust.",
+   "Murtaugh wants a quiet life. Not today."
+  ],
+  "src": "wikipedia:Lethal_Weapon",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1366"
+  ],
+  "w": 4,
+  "t": [
+   "Fifteen rounds? One shot.",
+   "Punched frozen meat. {hero} shot a card.",
+   "Up the museum steps, down the drain",
+   "Went the distance? Not even one round."
+  ],
+  "src": "wikipedia:Rocky",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1366",
+   "imdb": "tt0075148",
+   "coll": "1575"
+  }
+ },
+ {
+  "need": [
+   "who:taliashire",
+   "char:adriannaadrianpennino"
+  ],
+  "w": 5,
+  "t": [
+   "Adrian! ...the card is gone, Adrian!",
+   "Adrian left the pet shop. The card left the shelf."
+  ],
+  "src": "wikipedia:Rocky",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m9659"
+  ],
+  "w": 4,
+  "t": [
+   "Last of the V8 Interceptors: parked",
+   "Main Force Patrol: one card down",
+   "The Toecutter's gang never stood a chance",
+   "The road is empty. So is the shelf."
+  ],
+  "src": "wikipedia:Mad_Max_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "9659",
+   "imdb": "tt0079501",
+   "coll": "8945"
+  }
+ },
+ {
+  "need": [
+   "who:melgibson",
+   "char:maxrockatansky"
+  ],
+  "w": 5,
+  "t": [
+   "Max wasn't mad yet. Now he is.",
+   "Max drove the black Interceptor. {hero} drove {weapon}."
+  ],
+  "src": "wikipedia:Mad_Max_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m348"
+  ],
+  "w": 4,
+  "t": [
+   "Nostromo self-destruct: T-minus now",
+   "Mother, the card is gone",
+   "Jonesy survived. The card didn't.",
+   "Ash was an android. The card was cardboard."
+  ],
+  "src": "wikipedia:Alien_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "348",
+   "imdb": "tt0078748",
+   "coll": "8091"
+  }
+ },
+ {
+  "need": [
+   "who:sigourneyweaver",
+   "char:ripley"
+  ],
+  "w": 5,
+  "t": [
+   "Ripley saved the cat. Not the card.",
+   "Last survivor of the Nostromo. Last card: gone."
+  ],
+  "src": "wikipedia:Alien_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1103"
+  ],
+  "w": 4,
+  "t": [
+   "Manhattan is a prison. This card is a crater.",
+   "Air Force One went down. So did this.",
+   "The President's tape: swapped for {weapon}",
+   "Fly a glider into Manhattan? Shoot a card instead."
+  ],
+  "src": "wikipedia:Escape_from_New_York",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1103",
+   "imdb": "tt0082340",
+   "coll": "115838"
+  }
+ },
+ {
+  "need": [
+   "who:kurtrussell",
+   "char:snakeplissken"
+  ],
+  "w": 5,
+  "t": [
+   "Everyone heard Snake was dead. The card is.",
+   "Call me Snake. Call this gone."
+  ],
+  "src": "wikipedia:Escape_from_New_York",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m24"
+  ],
+  "w": 4,
+  "t": [
+   "Hattori Hanzo steel vs. {weapon}",
+   "Death List Five: one more name crossed out",
+   "House of Blue Leaves: cleaned out",
+   "Wiggle your big toe. The card can't."
+  ],
+  "src": "wikipedia:Kill_Bill:_Volume_1",
+  "tier": "core",
+  "ids": {
+   "tmdb": "24",
+   "imdb": "tt0266697",
+   "coll": "2883"
+  }
+ },
+ {
+  "need": [
+   "who:lucyliu",
+   "char:orenishii"
+  ],
+  "w": 5,
+  "t": [
+   "O-Ren's snow garden: now a crater",
+   "O-Ren ruled Tokyo. Not this page."
+  ],
+  "src": "wikipedia:Kill_Bill:_Volume_1",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m245891"
+  ],
+  "w": 4,
+  "t": [
+   "Baba Yaga sends his regards",
+   "Shouldn't have touched the Mustang",
+   "The Continental: no business on the premises. Oops.",
+   "Stole the car, killed the dog. Big mistake."
+  ],
+  "src": "wikipedia:John_Wick_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "245891",
+   "imdb": "tt2911666",
+   "coll": "404609"
+  }
+ },
+ {
+  "need": [
+   "who:willemdafoe",
+   "char:marcus"
+  ],
+  "w": 5,
+  "t": [
+   "Marcus took the shot from the rooftop",
+   "Marcus fired a warning shot. {hero} didn't."
+  ],
+  "src": "wikipedia:John_Wick_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m954"
+  ],
+  "w": 4,
+  "t": [
+   "Hung from the ceiling at Langley. Dropped this.",
+   "Exploding gum: chewed",
+   "NOC list: one name shorter",
+   "Helicopter in the Channel Tunnel. Card in the bin."
+  ],
+  "src": "wikipedia:Mission:_Impossible_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "954",
+   "imdb": "tt0117060",
+   "coll": "87359"
+  }
+ },
+ {
+  "need": [
+   "who:tomcruise",
+   "char:ethanhunt"
+  ],
+  "w": 5,
+  "t": [
+   "Ethan never touched the floor. The card did.",
+   "Ethan Hunt: IMF agent, card hunter"
+  ],
+  "src": "wikipedia:Mission:_Impossible_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m646"
+  ],
+  "w": 4,
+  "t": [
+   "Crab Key: evacuated",
+   "Swapped the Beretta for a Walther. Then {weapon}.",
+   "The dragon of Crab Key: just a tank. Now scrap.",
+   "Tarantula in the bed. {weapon} in the card.",
+   "Dr. No? Dr. No more."
+  ],
+  "src": "wikipedia:Dr._No_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "646",
+   "imdb": "tt0055928",
+   "coll": "645"
+  }
+ },
+ {
+  "need": [
+   "id:m85"
+  ],
+  "w": 4,
+  "t": [
+   "Swapped the idol for a bag of sand. Didn't work.",
+   "Outran the boulder. Not {weapon}.",
+   "Brought a sword to a gunfight. Like this card.",
+   "It's not the years, honey. It's {weapon}."
+  ],
+  "src": "wikipedia:Raiders_of_the_Lost_Ark",
+  "tier": "core",
+  "ids": {
+   "tmdb": "85",
+   "imdb": "tt0082971",
+   "coll": "84"
+  }
+ },
+ {
+  "need": [
+   "who:karenallen",
+   "char:marionravenwood"
+  ],
+  "w": 5,
+  "t": [
+   "Marion won the drinking contest. Card lost.",
+   "Don't look at it, Marion! ...too late, card."
+  ],
+  "src": "wikipedia:Raiders_of_the_Lost_Ark",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m603"
+  ],
+  "w": 4,
+  "t": [
+   "Guns. Lots of guns. One card.",
+   "I know kung fu. The card knew nothing.",
+   "Followed the white rabbit into the bin",
+   "Took the red pill. Took the card too."
+  ],
+  "src": "wikiquote:The_Matrix_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "603",
+   "imdb": "tt0133093",
+   "coll": "2344"
+  }
+ },
+ {
+  "need": [
+   "who:hugoweaving",
+   "char:agentsmith"
+  ],
+  "w": 5,
+  "t": [
+   "Mister Anderson... the card is gone",
+   "Smith can jump into anyone. Not into this card."
+  ],
+  "src": "wikiquote:The_Matrix_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m607"
+  ],
+  "w": 4,
+  "t": [
+   "Noisy Cricket: louder than expected",
+   "The galaxy is on Orion's belt. The card: on the floor.",
+   "Edgar suit: torn at the seams",
+   "Frank the pug saw nothing"
+  ],
+  "src": "wikipedia:Men_in_Black_(1997_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "607",
+   "imdb": "tt0119654",
+   "coll": "86055"
+  }
+ },
+ {
+  "need": [
+   "who:tommyleejones",
+   "char:kay"
+  ],
+  "w": 5,
+  "t": [
+   "Kay will neuralyze you after this",
+   "Agent Kay retired. So did this card."
+  ],
+  "src": "wikipedia:Men_in_Black_(1997_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m620"
+  ],
+  "w": 4,
+  "t": [
+   "Stay Puft: toasted marshmallow",
+   "Slimed.",
+   "Choose the form of the Destructor: {weapon}",
+   "Walter Peck shut down the grid. {hero} shut this."
+  ],
+  "src": "wikipedia:Ghostbusters",
+  "tier": "core",
+  "ids": {
+   "tmdb": "620",
+   "imdb": "tt0087332",
+   "coll": "2980"
+  }
+ },
+ {
+  "need": [
+   "who:billmurray",
+   "char:petervenkman"
+  ],
+  "w": 5,
+  "t": [
+   "Back off, man. {hero} is a scientist.",
+   "Venkman got slimed. The card got shot."
+  ],
+  "src": "wikiquote:Ghostbusters",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m105"
+  ],
+  "w": 4,
+  "t": [
+   "Hit 88 mph. Hit the card too.",
+   "Flux capacitor: fluxed",
+   "Hill Valley clock tower: struck again",
+   "Enchantment Under the Sea: cancelled"
+  ],
+  "src": "wikipedia:Back_to_the_Future",
+  "tier": "core",
+  "ids": {
+   "tmdb": "105",
+   "imdb": "tt0088763",
+   "coll": "264"
+  }
+ },
+ {
+  "need": [
+   "who:thomasfwilson",
+   "char:bifftannen"
+  ],
+  "w": 5,
+  "t": [
+   "Biff landed in manure. The card landed worse.",
+   "Hello? Card? Anybody home?"
+  ],
+  "src": "wikipedia:Back_to_the_Future",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m11"
+  ],
+  "w": 4,
+  "t": [
+   "One shot. Right in the exhaust port.",
+   "Trash compactor: card-sized now",
+   "A more wretched hive of scum and rubble",
+   "That's no moon. That's a crater."
+  ],
+  "src": "wikipedia:Star_Wars_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "11",
+   "imdb": "tt0076759",
+   "coll": "10"
+  }
+ },
+ {
+  "need": [
+   "who:harrisonford",
+   "char:hansolo"
+  ],
+  "w": 5,
+  "t": [
+   "Han shot first. {hero} shot this.",
+   "Kessel Run: under twelve parsecs. Card: one shot."
+  ],
+  "src": "wikipedia:Star_Wars_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1891"
+  ],
+  "w": 4,
+  "t": [
+   "Do. Or do not. There is no card.",
+   "Han got carbonite. The card got shattered.",
+   "Hoth: one more AT-AT down",
+   "No... {hero} is your father."
+  ],
+  "src": "wikiquote:Star_Wars_Episode_V:_The_Empire_Strikes_Back",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1891",
+   "imdb": "tt0080684",
+   "coll": "10"
+  }
+ },
+ {
+  "need": [
+   "who:billydeewilliams",
+   "char:landocalrissian"
+  ],
+  "w": 5,
+  "t": [
+   "This deal is getting worse all the time!",
+   "Lando's Cloud City: under new management"
+  ],
+  "src": "wikiquote:Star_Wars_Episode_V:_The_Empire_Strikes_Back",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m152"
+  ],
+  "w": 4,
+  "t": [
+   "V'Ger seeks the Creator. Found {hero}.",
+   "Voyager 6 came home. The card didn't.",
+   "The refit Enterprise: refitted with holes",
+   "Transporter accident: card edition"
+  ],
+  "src": "wikipedia:Star_Trek:_The_Motion_Picture",
+  "tier": "core",
+  "ids": {
+   "tmdb": "152",
+   "imdb": "tt0079945",
+   "coll": "151"
+  }
+ },
+ {
+  "need": [
+   "who:williamshatner",
+   "char:admiraljamestkirk"
+  ],
+  "w": 5,
+  "t": [
+   "Admiral Kirk took the center seat. Lost the card.",
+   "Kirk wanted the Enterprise back. Not like this."
+  ],
+  "src": "wikipedia:Star_Trek:_The_Motion_Picture",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m22"
+  ],
+  "w": 4,
+  "t": [
+   "Parley? Denied.",
+   "The Code is more like guidelines. {weapon} isn't.",
+   "Cursed Aztec gold. Cursed card.",
+   "Moonlight shows skeletons. {weapon} shows holes."
+  ],
+  "src": "wikipedia:Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+  "tier": "core",
+  "ids": {
+   "tmdb": "22",
+   "imdb": "tt0325980",
+   "coll": "295"
+  }
+ },
+ {
+  "need": [
+   "who:geoffreyrush",
+   "char:hectorbarbossa"
+  ],
+  "w": 5,
+  "t": [
+   "Best start believing in rubble, Miss Turner",
+   "Barbossa wanted the curse lifted. Not the card."
+  ],
+  "src": "wikiquote:Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m120"
+  ],
+  "w": 4,
+  "t": [
+   "Second breakfast: cancelled",
+   "The Bridge of Khazad-dum: collapsed",
+   "Speak, friend, and enter. The card didn't.",
+   "What to do with the time given us? {weapon}."
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+  "tier": "core",
+  "ids": {
+   "tmdb": "120",
+   "imdb": "tt0120737",
+   "coll": "119"
+  }
+ },
+ {
+  "need": [
+   "who:viggomortensen",
+   "char:aragorn"
+  ],
+  "w": 5,
+  "t": [
+   "You have my sword. And my {weapon}.",
+   "Strider left Bree. The card left the shelf."
+  ],
+  "src": "wikiquote:The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m671"
+  ],
+  "w": 4,
+  "t": [
+   "Platform 9 3/4: closed",
+   "Troll in the dungeon! Card on the floor!",
+   "The Sorting Hat says: the bin!",
+   "Fluffy fell asleep. The card fell apart.",
+   "The Mirror of Erised shows: an intact card"
+  ],
+  "src": "wikipedia:Harry_Potter_and_the_Philosopher's_Stone_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "671",
+   "imdb": "tt0241527",
+   "coll": "1241"
+  }
+ },
+ {
+  "need": [
+   "id:m9799"
+  ],
+  "w": 4,
+  "t": [
+   "You owe me a ten-second card",
+   "Tuna on white, no crust. Card on floor, no chance.",
+   "Hijacked trucks full of DVD players. And this.",
+   "That hundred shot of NOS blew the card's welds",
+   "Street race over. Card over."
+  ],
+  "src": "wikipedia:The_Fast_and_the_Furious_(2001_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "9799",
+   "imdb": "tt0232500",
+   "coll": "9485"
+  }
+ },
+ {
+  "need": [
+   "id:m1995"
+  ],
+  "w": 4,
+  "t": [
+   "Croft Manor's training robot: scrap",
+   "Triangle of Light: dimmed",
+   "Raided the tomb. Razed the card.",
+   "Planetary alignment: one card out of line"
+  ],
+  "src": "wikipedia:Lara_Croft:_Tomb_Raider",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1995",
+   "imdb": "tt0146316",
+   "coll": "2467"
+  }
+ },
+ {
+  "need": [
+   "who:angelinajolie",
+   "char:laracroft"
+  ],
+  "w": 5,
+  "t": [
+   "Lara dual-wields. {hero} brought {weapon}.",
+   "Lara bungee-danced in the hall. The card fell."
+  ],
+  "src": "wikipedia:Lara_Croft:_Tomb_Raider",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1726"
+  ],
+  "w": 4,
+  "t": [
+   "Arc reactor: unplugged",
+   "Jericho missile demo: right on the card",
+   "Mark I, Mark II, Mark gone",
+   "Built in a cave. Broken on a page."
+  ],
+  "src": "wikipedia:Iron_Man_(2008_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1726",
+   "imdb": "tt0371746",
+   "coll": "131292"
+  }
+ },
+ {
+  "need": [
+   "who:jeffbridges",
+   "char:obadiahstane"
+  ],
+  "w": 5,
+  "t": [
+   "Tony built it in a cave! With a box of scraps!",
+   "Obadiah's Iron Monger: monger no more"
+  ],
+  "src": "wikiquote:Iron_Man_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1771"
+  ],
+  "w": 4,
+  "t": [
+   "Frozen almost 70 years. Shot in one.",
+   "Super-soldier serum: no help to the card",
+   "The Tesseract can't save this card",
+   "The Valkyrie went down in the ice. And this."
+  ],
+  "src": "wikipedia:Captain_America:_The_First_Avenger",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1771",
+   "imdb": "tt0458339",
+   "coll": "131295"
+  }
+ },
+ {
+  "need": [
+   "who:hayleyatwell",
+   "char:peggycarter"
+  ],
+  "w": 5,
+  "t": [
+   "Peggy Carter is still waiting for that dance",
+   "Peggy hit the target. So did {hero}."
+  ],
+  "src": "wikiquote:Captain_America:_The_First_Avenger",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m10195"
+  ],
+  "w": 4,
+  "t": [
+   "Another! *smashes card*",
+   "Whosoever holds this {weapon}... is worthy",
+   "Bifrost Bridge: broken. Card: too.",
+   "The Destroyer came to New Mexico. So did {hero}."
+  ],
+  "src": "wikiquote:Thor_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "10195",
+   "imdb": "tt0800369",
+   "coll": "131296"
+  }
+ },
+ {
+  "need": [
+   "who:katdennings",
+   "char:darcylewis"
+  ],
+  "w": 5,
+  "t": [
+   "Darcy tased a god. {hero} shot a card.",
+   "Darcy brought a taser. {hero} brought {weapon}."
+  ],
+  "src": "wikiquote:Thor_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1927"
+  ],
+  "w": 4,
+  "t": [
+   "Hulk tossed tanks in the desert. {hero} tossed this.",
+   "Gamma blast: card exposed",
+   "Bruce got angry. The card got holes.",
+   "Hulk wrecked the lab. {hero} wrecked the card."
+  ],
+  "src": "wikipedia:Hulk_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1927",
+   "imdb": "tt0286716"
+  }
+ },
+ {
+  "need": [
+   "who:ericbana",
+   "char:brucebanner"
+  ],
+  "w": 5,
+  "t": [
+   "Banner stayed calm. The card didn't.",
+   "Bruce Banner: angry, then green, then gone"
+  ],
+  "src": "wikipedia:Hulk_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m557"
+  ],
+  "w": 4,
+  "t": [
+   "Pumpkin bomb: delivered",
+   "Upside-down kiss in the rain. Card upside-down in the bin.",
+   "Three minutes with Bone Saw? One shot with {weapon}.",
+   "J. Jonah Jameson wants pictures of this"
+  ],
+  "src": "wikipedia:Spider-Man_(2002_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "557",
+   "imdb": "tt0145487",
+   "coll": "556"
+  }
+ },
+ {
+  "need": [
+   "who:kirstendunst",
+   "char:maryjanewatson"
+  ],
+  "w": 5,
+  "t": [
+   "MJ got saved. The card didn't.",
+   "Mary Jane hung from the bridge. The card just fell."
+  ],
+  "src": "wikipedia:Spider-Man_(2002_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m36657"
+  ],
+  "w": 4,
+  "t": [
+   "Statue of Liberty showdown: card lost",
+   "What happens to a card struck by {weapon}? Same thing.",
+   "The X-Jet landed. The card took off.",
+   "Magneto's machine wanted mutants. Got a crater."
+  ],
+  "src": "wikipedia:X-Men_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "36657",
+   "imdb": "tt0120903",
+   "coll": "748"
+  }
+ },
+ {
+  "need": [
+   "who:halleberry",
+   "char:storm"
+  ],
+  "w": 5,
+  "t": [
+   "Storm calls lightning. {hero} calls {weapon}.",
+   "Storm brewing. Card dissolving."
+  ],
+  "src": "wikipedia:X-Men_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m293660"
+  ],
+  "w": 4,
+  "t": [
+   "Only twelve bullets. {hero} needed one.",
+   "Superhero landing! Right on the card.",
+   "Dopinder's taxi: meter still running",
+   "Colossus wants you to be a hero. Too late."
+  ],
+  "src": "wikiquote:Deadpool_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "293660",
+   "imdb": "tt1431045",
+   "coll": "448150"
+  }
+ },
+ {
+  "need": [
+   "who:edskrein",
+   "char:ajax"
+  ],
+  "w": 5,
+  "t": [
+   "Ajax's real name is Francis. The card's: gone.",
+   "Francis would hate this"
+  ],
+  "src": "wikipedia:Deadpool_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m268"
+  ],
+  "w": 4,
+  "t": [
+   "Where does {hero} get those wonderful toys?",
+   "Smylex in the card. No smile left.",
+   "Batwing down. One long gun.",
+   "Axis Chemicals: closed for good"
+  ],
+  "src": "wikipedia:Batman_(1989_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "268",
+   "imdb": "tt0096895",
+   "coll": "120794"
+  }
+ },
+ {
+  "need": [
+   "who:kimbasinger",
+   "char:vickivale"
+  ],
+  "w": 5,
+  "t": [
+   "Vicki Vale snapped photos. {hero} snapped this.",
+   "Vicki Vale got the story. The card got shot."
+  ],
+  "src": "wikipedia:Batman_(1989_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m1924"
+  ],
+  "w": 4,
+  "t": [
+   "Flew around the Earth to undo this. Too late.",
+   "Daily Planet: stop the presses, the card is gone",
+   "Lex Luthor's missile hit the card",
+   "Fortress of Solitude: lonelier now",
+   "You've got me? Who's got the card?"
+  ],
+  "src": "wikipedia:Superman_(1978_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "1924",
+   "imdb": "tt0078346",
+   "coll": "8537"
+  }
+ },
+ {
+  "need": [
+   "id:m141052"
+  ],
+  "w": 4,
+  "t": [
+   "Three Mother Boxes. One card. Zero left.",
+   "Steppenwolf came for the boxes. Got this.",
+   "Parademons smell fear. And rubble.",
+   "Superman came back. The card won't."
+  ],
+  "src": "wikipedia:Justice_League_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "141052",
+   "imdb": "tt0974015",
+   "coll": "8537"
+  }
+ },
+ {
+  "need": [
+   "who:jasonmomoa",
+   "char:aquaman"
+  ],
+  "w": 5,
+  "t": [
+   "I hear you can talk to fish. The card can't."
+  ],
+  "src": "wikiquote:Justice_League_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m280"
+  ],
+  "w": 4,
+  "t": [
+   "Thumbs up from the molten steel",
+   "T-1000: liquid metal, solid holes",
+   "Shotgun from a box of roses",
+   "Judgment Day postponed. This card: not."
+  ],
+  "src": "wikipedia:Terminator_2:_Judgment_Day",
+  "tier": "core",
+  "ids": {
+   "tmdb": "280",
+   "imdb": "tt0103064",
+   "coll": "528"
+  }
+ },
+ {
+  "need": [
+   "who:robertpatrick",
+   "char:t1000"
+  ],
+  "w": 5,
+  "t": [
+   "T-1000 reformed. The card can't.",
+   "Liquid metal can't pour this back together"
+  ],
+  "src": "wikipedia:Terminator_2:_Judgment_Day",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m87101"
+  ],
+  "w": 4,
+  "t": [
+   "Old, not obsolete? This card: obsolete.",
+   "Genisys launch: cancelled",
+   "John Connor turned T-3000. The card turned to dust.",
+   "A new 1984. Same rubble."
+  ],
+  "src": "wikipedia:Terminator_Genisys",
+  "tier": "core",
+  "ids": {
+   "tmdb": "87101",
+   "imdb": "tt1340138",
+   "coll": "528"
+  }
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:guardian"
+  ],
+  "w": 5,
+  "t": [
+   "Pops waited since 1973. The card didn't wait.",
+   "Pops: old, not obsolete. The card: both."
+  ],
+  "src": "wikipedia:Terminator_Genisys",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m11690"
+  ],
+  "w": 4,
+  "t": [
+   "Dim Mak, card edition",
+   "Broke only the bottom brick. And this card.",
+   "Hong Kong, the Kumite, one shot",
+   "Chong Li's knockout record: broken. Like this card."
+  ],
+  "src": "wikipedia:Bloodsport_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "11690",
+   "imdb": "tt0092675",
+   "coll": "36694"
+  }
+ },
+ {
+  "need": [
+   "who:boloyeung",
+   "char:chongli"
+  ],
+  "w": 5,
+  "t": [
+   "Chong Li: champion. The card: not.",
+   "Chong Li threw salt. {hero} threw {weapon}."
+  ],
+  "src": "wikipedia:Bloodsport_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m861"
+  ],
+  "w": 4,
+  "t": [
+   "Get your #@!% to Mars",
+   "Rekall implanted this card. {hero} removed it.",
+   "Johnny Cab: we hope you enjoyed the ride",
+   "Was it a dream? The holes are real."
+  ],
+  "src": "wikipedia:Total_Recall_(1990_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "861",
+   "imdb": "tt0100802"
+  }
+ },
+ {
+  "need": [
+   "who:michaelironside",
+   "char:richter"
+  ],
+  "w": 5,
+  "t": [
+   "See you at the party, card!",
+   "Richter lost his arms. The card lost more."
+  ],
+  "src": "wikipedia:Total_Recall_(1990_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m9387"
+  ],
+  "w": 4,
+  "t": [
+   "What is best in life? Shooting this card.",
+   "Crom laughs at your card",
+   "The Riddle of Steel: solved with {weapon}",
+   "Pushed the Wheel of Pain for years. Shot this in one."
+  ],
+  "src": "wikiquote:Conan_the_Barbarian_(1982_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "9387",
+   "imdb": "tt0082198",
+   "coll": "43055"
+  }
+ },
+ {
+  "need": [
+   "who:arnoldschwarzenegger",
+   "char:conan"
+  ],
+  "w": 5,
+  "t": [
+   "Conan prayed to Crom. Crom didn't care.",
+   "Conan crushed his enemies. And this card."
+  ],
+  "src": "wikiquote:Conan_the_Barbarian_(1982_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m9739"
+  ],
+  "w": 4,
+  "t": [
+   "Three seashells can't fix this",
+   "Fined one credit for violent card behaviour",
+   "Thawed out of cryo. Shot in a second.",
+   "San Angeles, 2032: one card fewer"
+  ],
+  "src": "wikipedia:Demolition_Man_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "9739",
+   "imdb": "tt0106697"
+  }
+ },
+ {
+  "need": [
+   "who:wesleysnipes",
+   "char:simonphoenix"
+  ],
+  "w": 5,
+  "t": [
+   "Simon Phoenix: thawed, then shot",
+   "Phoenix rose from cryo. The card won't rise."
+  ],
+  "src": "wikipedia:Demolition_Man_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m9482"
+  ],
+  "w": 4,
+  "t": [
+   "I AM THE [LAW|{weapon}]!",
+   "Mega-City One: minus one card",
+   "Lawgiver set to: rubble",
+   "Sentenced: rubble. Court adjourned."
+  ],
+  "src": "wikipedia:Judge_Dredd_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "9482",
+   "imdb": "tt0113492"
+  }
+ },
+ {
+  "need": [
+   "who:sylvesterstallone",
+   "char:judgejosephdredd"
+  ],
+  "w": 5,
+  "t": [
+   "Judge, jury, executioner: {hero}",
+   "Dredd judged it. {hero} sentenced it."
+  ],
+  "src": "wikipedia:Judge_Dredd_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m8009"
+  ],
+  "w": 4,
+  "t": [
+   "There can be only one. It wasn't this card.",
+   "The Quickening: crackled, gone",
+   "The Gathering came. The card left.",
+   "Immortal? Not this card."
+  ],
+  "src": "wikipedia:Highlander_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "8009",
+   "imdb": "tt0091203",
+   "coll": "8050"
+  }
+ },
+ {
+  "need": [
+   "who:clancybrown",
+   "char:victorthekurgankruger"
+  ],
+  "w": 5,
+  "t": [
+   "Better to burn out than to fade away. Burned.",
+   "The Kurgan wanted the Prize. Got a crater."
+  ],
+  "src": "wikipedia:Highlander_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m36647"
+  ],
+  "w": 4,
+  "t": [
+   "Blood rave: shut down",
+   "Silver, garlic and {weapon}",
+   "La Magra rising? Card falling.",
+   "Deacon Frost wanted to be a god. Got rubble."
+  ],
+  "src": "wikipedia:Blade_(1998_film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "36647",
+   "imdb": "tt0120611",
+   "coll": "735"
+  }
+ },
+ {
+  "need": [
+   "who:wesleysnipes",
+   "char:blade"
+  ],
+  "w": 5,
+  "t": [
+   "Blade's glaive came back. The card didn't.",
+   "Blade hunts at night. {hero} hunts cards."
+  ],
+  "src": "wikipedia:Blade_(1998_film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m679"
+  ],
+  "w": 4,
+  "t": [
+   "Hadley's Hope: abandoned",
+   "Express elevator to the bin, going down!",
+   "Power loader vs. Queen? {weapon} vs. card."
+  ],
+  "src": "wikipedia:Aliens_(film)",
+  "tier": "core",
+  "ids": {
+   "tmdb": "679",
+   "imdb": "tt0090605",
+   "coll": "8091"
+  }
+ },
+ {
+  "need": [
+   "who:carriehenn",
+   "char:newt"
+  ],
+  "w": 5,
+  "t": [
+   "They mostly come at night. Mostly.",
+   "Newt hid in the vents. The card couldn't."
+  ],
+  "src": "wikiquote:Aliens_(film)",
+  "tier": "core"
+ },
+ {
+  "need": [
+   "id:m76341"
+  ],
+  "w": 4,
+  "t": [
+   "War Rig: totalled",
+   "Oh what a day! What a lovely {weapon}!",
+   "The Citadel turned off the water. And the card."
+  ],
+  "src": "wikipedia:Mad_Max:_Fury_Road",
+  "tier": "core",
+  "ids": {
+   "tmdb": "76341",
+   "imdb": "tt1392190",
+   "coll": "8945"
+  }
+ },
+ {
+  "need": [
+   "who:nicholashoult",
+   "char:nux"
+  ],
+  "w": 5,
+  "t": [
+   "Nux: witnessed. The card: shredded.",
+   "Nux sprayed his mouth chrome. {hero} brought {weapon}."
+  ],
+  "src": "wikiquote:Mad_Max:_Fury_Road",
+  "tier": "core"
+ }
+]
