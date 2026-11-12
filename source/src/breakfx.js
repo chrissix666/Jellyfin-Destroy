@@ -190,7 +190,7 @@ function breakFancy(block, cs) {
   return true;
 }
 
-const idleDo = window.requestIdleCallback ? (f) => requestIdleCallback(f, { timeout: 400 }) : (f) => setTimeout(() => f({ timeRemaining: () => 6, didTimeout: true }), 16);
+const idleDo = window.requestIdleCallback ? (f) => requestIdleCallback(f, { timeout: 400 }) : (f) => setTimeout(() => { const end = performance.now() + 6; f({ timeRemaining: () => Math.max(0, end - performance.now()), didTimeout: true }); }, 16);
 function prewarmStart() {
   const job = S.prewarm = { list: [], i: 0, done: 0, t0: performance.now() };
   try { if (!FXC.spr) fxBake(); } catch (e) { }
